@@ -1,0 +1,119 @@
+
+
+body {
+  font: 12px sans-serif;
+  margin: 0;
+  padding: 0;
+  background: rgb(244,244,244);
+  overflow-x: hidden;
+}
+h1 { 
+    font-family: 'Fira Sans', Helvetica, Georgia, sans-serif;
+}
+#header {
+    width: 100%;
+    padding: 10px;
+    background-color: #333;
+    text-align: center;
+    color: white;
+    font-size: 3.5em;
+}
+#content {
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-bottom: 50px;
+}
+ .division {
+    display: block;
+ }
+ .division__header {
+    display: block;
+    padding-top: 5px;
+    padding-left: 20px;
+    background-color: #C12127;
+    width: 100%;
+    color: white;
+    text-align: center;
+    font-size: 40px;
+ }
+ 
+.grid .tick {
+	stroke: lightgrey;
+	opacity: 0.7;
+	shape-rendering: crispEdges;
+}
+ 
+.grid path {
+	stroke-width: 0;
+}
+ 
+.axis path {
+	fill: none;
+	stroke: #bbb;
+	shape-rendering: crispEdges;
+}
+ 
+.axis text {
+	fill: #555;
+}
+ 
+.axis line {	
+	stroke: transparent;
+	shape-rendering: crispEdges;
+}
+ 
+.axis .axis-label {
+	font-size: 18px;
+}
+ 
+.line {
+	fill: none;
+	stroke-width: 4.5px;
+}
+ 
+.dot {
+	/* consider the stroke-with the mouse detect radius? */
+	stroke: transparent;
+	stroke-width: 25px;  
+	cursor: pointer;
+}
+ 
+.dot:hover {
+	stroke: rgba(68, 127, 255, 0.3);
+}
+ 
+/*.weightclass, svg {
+  display: inline-block;
+}
+.weightclass {
+  width: 400px;
+}*/
+
+ .legend {
+    padding:0 5% 30px;
+    display: -moz-flex;
+    display: -webkit-flex;
+    display: flex;
+    -moz-flex-flow: row wrap;
+    -webkit-flex-flow: row wrap;
+    flex-flow: row wrap;
+    -moz-justify-content: flex-start;
+    -webkit-justify-content: flex-start;
+    justify-content: flex-start;
+ }
+ .legend .legend__item {
+    font-size:1.3em;
+    color: white;
+    border-radius:4px;
+    padding:10px 20px;
+    margin:4px;
+    max-width: 300px;
+    border: solid 1px #555;
+        -moz-flex: 1 0 auto;
+        -webkit-flex: 1 0 auto;
+        flex: 1 0 auto;
+ }
+.fighter-name {
+  font-size: 13px;
+  font-weight: bold;
+}

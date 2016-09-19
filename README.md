@@ -1,5 +1,5 @@
 # UFC-rankings-graph
-- Use https://github.com/niklasHagner/UFC-rankings-graph/blob/master/public/graph.html to display historical UFC rankings in a d3.js line chart
+- *graph.html* displays some d3.js line charts with ufc rankings from past to present
 - Example of the lightweight graph
 ![UFC graph](http://i.imgur.com/MRQf2NP.png)
 

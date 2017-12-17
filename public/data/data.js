@@ -19972,27 +19972,27 @@ window.historicalRankings = {
                             "rank": "0"
                         }, 
                         {
-                            "url": "/web/20160405014202/http://www.ufc.com/fighter/Jon-Jones", 
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Jon-Jones", 
                             "name": "Jon Jones", 
                             "rank": "1"
                         }, 
                         {
-                            "url": "/web/20160405014202/http://www.ufc.com/fighter/Demetrious-Johnson", 
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Demetrious-Johnson", 
                             "name": "Demetrious Johnson", 
                             "rank": "2"
                         }, 
                         {
-                            "url": "/web/20160405014202/http://www.ufc.com/fighter/Luke-Rockhold", 
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Luke-Rockhold", 
                             "name": "Luke Rockhold", 
                             "rank": "3"
                         }, 
                         {
-                            "url": "/web/20160405014202/http://www.ufc.com/fighter/Fabricio-Werdum", 
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Fabricio-Werdum", 
                             "name": "Fabricio Werdum", 
                             "rank": "4"
                         }, 
                         {
-                            "url": "/web/20160405014202/http://www.ufc.com/fighter/Dominick-Cruz", 
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Dominick-Cruz", 
                             "name": "Dominick Cruz", 
                             "rank": "5"
                         }
@@ -20009,77 +20009,77 @@ window.historicalRankings = {
                             "rank": "0"
                         }, 
                         {
-                            "url": "/web/20160405014202/http://www.ufc.com/fighter/Joseph-Benavidez", 
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Joseph-Benavidez", 
                             "name": "Joseph Benavidez", 
                             "rank": "1"
                         }, 
                         {
-                            "url": "/web/20160405014202/http://www.ufc.com/fighter/Henry-Cejudo", 
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Henry-Cejudo", 
                             "name": "Henry Cejudo", 
                             "rank": "2"
                         }, 
                         {
-                            "url": "/web/20160405014202/http://www.ufc.com/fighter/John-Dodson", 
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/John-Dodson", 
                             "name": "John Dodson", 
                             "rank": "3"
                         }, 
                         {
-                            "url": "/web/20160405014202/http://www.ufc.com/fighter/jussier-formiga", 
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/jussier-formiga", 
                             "name": "Jussier Formiga", 
                             "rank": "4"
                         }, 
                         {
-                            "url": "/web/20160405014202/http://www.ufc.com/fighter/Ian-McCall", 
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Ian-McCall", 
                             "name": "Ian McCall", 
                             "rank": "5"
                         }, 
                         {
-                            "url": "/web/20160405014202/http://www.ufc.com/fighter/Kyoji-Horiguchi", 
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Kyoji-Horiguchi", 
                             "name": "Kyoji Horiguchi", 
                             "rank": "6"
                         }, 
                         {
-                            "url": "/web/20160405014202/http://www.ufc.com/fighter/John-Moraga", 
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/John-Moraga", 
                             "name": "John Moraga", 
                             "rank": "7"
                         }, 
                         {
-                            "url": "/web/20160405014202/http://www.ufc.com/fighter/Zach-Makovsky", 
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Zach-Makovsky", 
                             "name": "Zach Makovsky", 
                             "rank": "8"
                         }, 
                         {
-                            "url": "/web/20160405014202/http://www.ufc.com/fighter/Wilson-Reis", 
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Wilson-Reis", 
                             "name": "Wilson Reis", 
                             "rank": "9"
                         }, 
                         {
-                            "url": "/web/20160405014202/http://www.ufc.com/fighter/Dustin-Ortiz", 
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Dustin-Ortiz", 
                             "name": "Dustin Ortiz", 
                             "rank": "10"
                         }, 
                         {
-                            "url": "/web/20160405014202/http://www.ufc.com/fighter/Ali-Bagautinov", 
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Ali-Bagautinov", 
                             "name": "Ali Bagautinov", 
                             "rank": "11"
                         }, 
                         {
-                            "url": "/web/20160405014202/http://www.ufc.com/fighter/Justin-Scoggins", 
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Justin-Scoggins", 
                             "name": "Justin Scoggins", 
                             "rank": "12"
                         }, 
                         {
-                            "url": "/web/20160405014202/http://www.ufc.com/fighter/Louis-Smolka", 
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Louis-Smolka", 
                             "name": "Louis Smolka", 
                             "rank": "13"
                         }, 
                         {
-                            "url": "/web/20160405014202/http://www.ufc.com/fighter/Ray-Borg", 
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Ray-Borg", 
                             "name": "Ray Borg", 
                             "rank": "14"
                         }, 
                         {
-                            "url": "/web/20160405014202/http://www.ufc.com/fighter/Sergio-Pettis", 
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Sergio-Pettis", 
                             "name": "Sergio Pettis", 
                             "rank": "15"
                         }
@@ -20096,12 +20096,12 @@ window.historicalRankings = {
                             "rank": "0"
                         }, 
                         {
-                            "url": "/web/20160405014202/http://www.ufc.com/fighter/TJ-Dillashaw", 
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/TJ-Dillashaw", 
                             "name": "TJ Dillashaw", 
                             "rank": "1"
                         }, 
                         {
-                            "url": "/web/20160405014202/http://www.ufc.com/fighter/Urijah-Faber", 
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Urijah-Faber", 
                             "name": "Urijah Faber", 
                             "rank": "2"
                         }
@@ -20118,77 +20118,77 @@ window.historicalRankings = {
                             "rank": "0"
                         }, 
                         {
-                            "url": "/web/20160405014202/http://www.ufc.com/fighter/Jose-Aldo", 
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Jose-Aldo", 
                             "name": "Jose Aldo", 
                             "rank": "1"
                         }, 
                         {
-                            "url": "/web/20160405014202/http://www.ufc.com/fighter/Frankie-Edgar", 
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Frankie-Edgar", 
                             "name": "Frankie Edgar", 
                             "rank": "2"
                         }, 
                         {
-                            "url": "/web/20160405014202/http://www.ufc.com/fighter/Chad-Mendes", 
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Chad-Mendes", 
                             "name": "Chad Mendes", 
                             "rank": "3"
                         }, 
                         {
-                            "url": "/web/20160405014202/http://www.ufc.com/fighter/Max-Holloway", 
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Max-Holloway", 
                             "name": "Max Holloway", 
                             "rank": "4"
                         }, 
                         {
-                            "url": "/web/20160405014202/http://www.ufc.com/fighter/Ricardo-Lamas", 
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Ricardo-Lamas", 
                             "name": "Ricardo Lamas", 
                             "rank": "5"
                         }, 
                         {
-                            "url": "/web/20160405014202/http://www.ufc.com/fighter/Cub-Swanson", 
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Cub-Swanson", 
                             "name": "Cub Swanson", 
                             "rank": "6"
                         }, 
                         {
-                            "url": "/web/20160405014202/http://www.ufc.com/fighter/Charles-Oliveira", 
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Charles-Oliveira", 
                             "name": "Charles Oliveira", 
                             "rank": "7"
                         }, 
                         {
-                            "url": "/web/20160405014202/http://www.ufc.com/fighter/Dennis-Bermudez", 
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Dennis-Bermudez", 
                             "name": "Dennis Bermudez", 
                             "rank": "8"
                         }, 
                         {
-                            "url": "/web/20160405014202/http://www.ufc.com/fighter/Jeremy-Stephens", 
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Jeremy-Stephens", 
                             "name": "Jeremy Stephens", 
                             "rank": "9"
                         }, 
                         {
-                            "url": "/web/20160405014202/http://www.ufc.com/fighter/Hacran-Dias", 
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Hacran-Dias", 
                             "name": "Hacran Dias", 
                             "rank": "10"
                         }, 
                         {
-                            "url": "/web/20160405014202/http://www.ufc.com/fighter/Darren-Elkins", 
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Darren-Elkins", 
                             "name": "Darren Elkins", 
                             "rank": "11"
                         }, 
                         {
-                            "url": "/web/20160405014202/http://www.ufc.com/fighter/Brian-Ortega", 
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Brian-Ortega", 
                             "name": "Brian Ortega", 
                             "rank": "12"
                         }, 
                         {
-                            "url": "/web/20160405014202/http://www.ufc.com/fighter/Tatsuya-Kawajiri", 
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Tatsuya-Kawajiri", 
                             "name": "Tatsuya Kawajiri", 
                             "rank": "13"
                         }, 
                         {
-                            "url": "/web/20160405014202/http://www.ufc.com/fighter/Nik-Lentz", 
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Nik-Lentz", 
                             "name": "Nik Lentz", 
                             "rank": "14"
                         }, 
                         {
-                            "url": "/web/20160405014202/http://www.ufc.com/fighter/Clay-Guida", 
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Clay-Guida", 
                             "name": "Clay Guida", 
                             "rank": "15"
                         }
@@ -20205,77 +20205,77 @@ window.historicalRankings = {
                             "rank": "0"
                         }, 
                         {
-                            "url": "/web/20160405014202/http://www.ufc.com/fighter/eddie-alvarez", 
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/eddie-alvarez", 
                             "name": "Eddie Alvarez", 
                             "rank": "1"
                         }, 
                         {
-                            "url": "/web/20160405014202/http://www.ufc.com/fighter/Khabib-Nurmagomedov", 
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Khabib-Nurmagomedov", 
                             "name": "Khabib Nurmagomedov", 
                             "rank": "2"
                         }, 
                         {
-                            "url": "/web/20160405014202/http://www.ufc.com/fighter/Anthony-Pettis", 
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Anthony-Pettis", 
                             "name": "Anthony Pettis", 
                             "rank": "3"
                         }, 
                         {
-                            "url": "/web/20160405014202/http://www.ufc.com/fighter/Tony-Ferguson", 
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Tony-Ferguson", 
                             "name": "Tony Ferguson", 
                             "rank": "4"
                         }, 
                         {
-                            "url": "/web/20160405014202/http://www.ufc.com/fighter/Nate-Diaz", 
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Nate-Diaz", 
                             "name": "Nate Diaz", 
                             "rank": "5"
                         }, 
                         {
-                            "url": "/web/20160405014202/http://www.ufc.com/fighter/Michael-Johnson", 
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Michael-Johnson", 
                             "name": "Michael Johnson", 
                             "rank": "6"
                         }, 
                         {
-                            "url": "/web/20160405014202/http://www.ufc.com/fighter/Beneil-Dariush", 
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Beneil-Dariush", 
                             "name": "Beneil Dariush", 
                             "rank": "7"
                         }, 
                         {
-                            "url": "/web/20160405014202/http://www.ufc.com/fighter/Edson-Barboza", 
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Edson-Barboza", 
                             "name": "Edson Barboza", 
                             "rank": "8"
                         }, 
                         {
-                            "url": "/web/20160405014202/http://www.ufc.com/fighter/Donald-Cerrone", 
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Donald-Cerrone", 
                             "name": "Donald Cerrone", 
                             "rank": "9"
                         }, 
                         {
-                            "url": "/web/20160405014202/http://www.ufc.com/fighter/Dustin-Poirier", 
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Dustin-Poirier", 
                             "name": "Dustin Poirier", 
                             "rank": "10"
                         }, 
                         {
-                            "url": "/web/20160405014202/http://www.ufc.com/fighter/Al-Iaquinta", 
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Al-Iaquinta", 
                             "name": "Al Iaquinta", 
                             "rank": "11"
                         }, 
                         {
-                            "url": "/web/20160405014202/http://www.ufc.com/fighter/Bobby-Green", 
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Bobby-Green", 
                             "name": "Bobby Green", 
                             "rank": "12"
                         }, 
                         {
-                            "url": "/web/20160405014202/http://www.ufc.com/fighter/Evan-Dunham", 
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Evan-Dunham", 
                             "name": "Evan Dunham", 
                             "rank": "13"
                         }, 
                         {
-                            "url": "/web/20160405014202/http://www.ufc.com/fighter/Michael-Chiesa", 
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Michael-Chiesa", 
                             "name": "Michael Chiesa", 
                             "rank": "14"
                         }, 
                         {
-                            "url": "/web/20160405014202/http://www.ufc.com/fighter/Rashid-Magomedov", 
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Rashid-Magomedov", 
                             "name": "Rashid Magomedov", 
                             "rank": "15"
                         }
@@ -20292,37 +20292,37 @@ window.historicalRankings = {
                             "rank": "0"
                         }, 
                         {
-                            "url": "/web/20160405014202/http://www.ufc.com/fighter/Rory-MacDonald", 
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Rory-MacDonald", 
                             "name": "Rory MacDonald", 
                             "rank": "1"
                         }, 
                         {
-                            "url": "/web/20160405014202/http://www.ufc.com/fighter/Stephen-Thompson", 
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Stephen-Thompson", 
                             "name": "Stephen Thompson", 
                             "rank": "2"
                         }, 
                         {
-                            "url": "/web/20160405014202/http://www.ufc.com/fighter/Tyron-Woodley", 
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Tyron-Woodley", 
                             "name": "Tyron Woodley", 
                             "rank": "3"
                         }, 
                         {
-                            "url": "/web/20160405014202/http://www.ufc.com/fighter/Carlos-Condit", 
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Carlos-Condit", 
                             "name": "Carlos Condit", 
                             "rank": "4"
                         }, 
                         {
-                            "url": "/web/20160405014202/http://www.ufc.com/fighter/Johny-Hendricks", 
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Johny-Hendricks", 
                             "name": "Johny Hendricks", 
                             "rank": "5"
                         }, 
                         {
-                            "url": "/web/20160405014202/http://www.ufc.com/fighter/Demian-Maia", 
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Demian-Maia", 
                             "name": "Demian Maia", 
                             "rank": "6"
                         }, 
                         {
-                            "url": "/web/20160405014202/http://www.ufc.com/fighter/Neil-Magny", 
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Neil-Magny", 
                             "name": "Neil Magny", 
                             "rank": "7"
                         }
@@ -20339,37 +20339,37 @@ window.historicalRankings = {
                             "rank": "0"
                         }, 
                         {
-                            "url": "/web/20160405014202/http://www.ufc.com/fighter/Chris-Weidman", 
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Chris-Weidman", 
                             "name": "Chris Weidman", 
                             "rank": "1"
                         }, 
                         {
-                            "url": "/web/20160405014202/http://www.ufc.com/fighter/Ronaldo-Souza", 
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Ronaldo-Souza", 
                             "name": "Jacare Souza", 
                             "rank": "2"
                         }, 
                         {
-                            "url": "/web/20160405014202/http://www.ufc.com/fighter/Vitor-Belfort", 
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Vitor-Belfort", 
                             "name": "Vitor Belfort", 
                             "rank": "3"
                         }, 
                         {
-                            "url": "/web/20160405014202/http://www.ufc.com/fighter/Michael-Bisping", 
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Michael-Bisping", 
                             "name": "Michael Bisping", 
                             "rank": "4"
                         }, 
                         {
-                            "url": "/web/20160405014202/http://www.ufc.com/fighter/Lyoto-Machida", 
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Lyoto-Machida", 
                             "name": "Lyoto Machida", 
                             "rank": "5"
                         }, 
                         {
-                            "url": "/web/20160405014202/http://www.ufc.com/fighter/Anderson-Silva", 
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Anderson-Silva", 
                             "name": "Anderson Silva", 
                             "rank": "6"
                         }, 
                         {
-                            "url": "/web/20160405014202/http://www.ufc.com/fighter/robert-whittaker", 
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/robert-whittaker", 
                             "name": "Robert Whittaker", 
                             "rank": "7"
                         }
@@ -20386,77 +20386,77 @@ window.historicalRankings = {
                             "rank": "0"
                         }, 
                         {
-                            "url": "/web/20160405014202/http://www.ufc.com/fighter/Jon-Jones", 
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Jon-Jones", 
                             "name": "Jon Jones", 
                             "rank": "1"
                         }, 
                         {
-                            "url": "/web/20160405014202/http://www.ufc.com/fighter/Anthony-Johnson", 
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Anthony-Johnson", 
                             "name": "Anthony Johnson", 
                             "rank": "2"
                         }, 
                         {
-                            "url": "/web/20160405014202/http://www.ufc.com/fighter/Alexander-Gustafsson", 
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Alexander-Gustafsson", 
                             "name": "Alexander Gustafsson", 
                             "rank": "3"
                         }, 
                         {
-                            "url": "/web/20160405014202/http://www.ufc.com/fighter/Glover-Teixeira", 
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Glover-Teixeira", 
                             "name": "Glover Teixeira", 
                             "rank": "4"
                         }, 
                         {
-                            "url": "/web/20160405014202/http://www.ufc.com/fighter/Ryan-Bader", 
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Ryan-Bader", 
                             "name": "Ryan Bader", 
                             "rank": "5"
                         }, 
                         {
-                            "url": "/web/20160405014202/http://www.ufc.com/fighter/Ovince-St-Preux", 
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Ovince-St-Preux", 
                             "name": "Ovince Saint Preux", 
                             "rank": "6"
                         }, 
                         {
-                            "url": "/web/20160405014202/http://www.ufc.com/fighter/Rashad-Evans", 
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Rashad-Evans", 
                             "name": "Rashad Evans", 
                             "rank": "7"
                         }, 
                         {
-                            "url": "/web/20160405014202/http://www.ufc.com/fighter/Mauricio-Rua", 
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Mauricio-Rua", 
                             "name": "Mauricio Rua", 
                             "rank": "8"
                         }, 
                         {
-                            "url": "/web/20160405014202/http://www.ufc.com/fighter/Jimi-Manuwa", 
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Jimi-Manuwa", 
                             "name": "Jimi Manuwa", 
                             "rank": "9"
                         }, 
                         {
-                            "url": "/web/20160405014202/http://www.ufc.com/fighter/Antonio-Rogerio-Nogueira", 
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Antonio-Rogerio-Nogueira", 
                             "name": "Antonio Rogerio Nogueira", 
                             "rank": "10"
                         }, 
                         {
-                            "url": "/web/20160405014202/http://www.ufc.com/fighter/Patrick-Cummins", 
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Patrick-Cummins", 
                             "name": "Patrick Cummins", 
                             "rank": "11"
                         }, 
                         {
-                            "url": "/web/20160405014202/http://www.ufc.com/fighter/corey-anderson", 
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/corey-anderson", 
                             "name": "Corey Anderson", 
                             "rank": "12"
                         }, 
                         {
-                            "url": "/web/20160405014202/http://www.ufc.com/fighter/Ilir-Latifi", 
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Ilir-Latifi", 
                             "name": "Ilir Latifi", 
                             "rank": "13"
                         }, 
                         {
-                            "url": "/web/20160405014202/http://www.ufc.com/fighter/Nikita-Krylov", 
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Nikita-Krylov", 
                             "name": "Nikita Krylov", 
                             "rank": "14"
                         }, 
                         {
-                            "url": "/web/20160405014202/http://www.ufc.com/fighter/Gian-Villante", 
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Gian-Villante", 
                             "name": "Gian Villante", 
                             "rank": "15"
                         }
@@ -20473,42 +20473,42 @@ window.historicalRankings = {
                             "rank": "0"
                         }, 
                         {
-                            "url": "/web/20160405014202/http://www.ufc.com/fighter/Cain-Velasquez", 
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Cain-Velasquez", 
                             "name": "Cain Velasquez", 
                             "rank": "1"
                         }, 
                         {
-                            "url": "/web/20160405014202/http://www.ufc.com/fighter/Stipe-Miocic", 
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Stipe-Miocic", 
                             "name": "Stipe Miocic", 
                             "rank": "2"
                         }, 
                         {
-                            "url": "/web/20160405014202/http://www.ufc.com/fighter/Alistair-Overeem", 
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Alistair-Overeem", 
                             "name": "Alistair Overeem", 
                             "rank": "3"
                         }, 
                         {
-                            "url": "/web/20160405014202/http://www.ufc.com/fighter/Ben-Rothwell", 
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Ben-Rothwell", 
                             "name": "Ben Rothwell", 
                             "rank": "4"
                         }, 
                         {
-                            "url": "/web/20160405014202/http://www.ufc.com/fighter/Junior-Dos-Santos", 
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Junior-Dos-Santos", 
                             "name": "Junior Dos Santos", 
                             "rank": "5"
                         }, 
                         {
-                            "url": "/web/20160405014202/http://www.ufc.com/fighter/Andrei-Arlovski", 
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Andrei-Arlovski", 
                             "name": "Andrei Arlovski", 
                             "rank": "6"
                         }, 
                         {
-                            "url": "/web/20160405014202/http://www.ufc.com/fighter/Travis-Browne", 
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Travis-Browne", 
                             "name": "Travis Browne", 
                             "rank": "7"
                         }, 
                         {
-                            "url": "/web/20160405014202/http://www.ufc.com/fighter/mark-hunt", 
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/mark-hunt", 
                             "name": "Mark Hunt", 
                             "rank": "8"
                         }
@@ -20525,77 +20525,77 @@ window.historicalRankings = {
                             "rank": "0"
                         }, 
                         {
-                            "url": "/web/20160405014202/http://www.ufc.com/fighter/Claudia-Gadelha", 
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Claudia-Gadelha", 
                             "name": "Claudia Gadelha", 
                             "rank": "1"
                         }, 
                         {
-                            "url": "/web/20160405014202/http://www.ufc.com/fighter/Carla-Esparza", 
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Carla-Esparza", 
                             "name": "Carla Esparza", 
                             "rank": "2"
                         }, 
                         {
-                            "url": "/web/20160405014202/http://www.ufc.com/fighter/Rose-Namajunas", 
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Rose-Namajunas", 
                             "name": "Rose Namajunas", 
                             "rank": "3"
                         }, 
                         {
-                            "url": "/web/20160405014202/http://www.ufc.com/fighter/Tecia-Torres", 
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Tecia-Torres", 
                             "name": "Tecia Torres", 
                             "rank": "4"
                         }, 
                         {
-                            "url": "/web/20160405014202/http://www.ufc.com/fighter/Jessica-Penne", 
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Jessica-Penne", 
                             "name": "Jessica Penne", 
                             "rank": "5"
                         }, 
                         {
-                            "url": "/web/20160405014202/http://www.ufc.com/fighter/Valerie-Letourneau", 
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Valerie-Letourneau", 
                             "name": "Valerie Letourneau", 
                             "rank": "6"
                         }, 
                         {
-                            "url": "/web/20160405014202/http://www.ufc.com/fighter/paige-vanzant", 
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/paige-vanzant", 
                             "name": "Paige VanZant", 
                             "rank": "7"
                         }, 
                         {
-                            "url": "/web/20160405014202/http://www.ufc.com/fighter/michelle-waterson", 
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/michelle-waterson", 
                             "name": "Michelle Waterson", 
                             "rank": "8"
                         }, 
                         {
-                            "url": "/web/20160405014202/http://www.ufc.com/fighter/maryna-moroz", 
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/maryna-moroz", 
                             "name": "Maryna Moroz", 
                             "rank": "9"
                         }, 
                         {
-                            "url": "/web/20160405014202/http://www.ufc.com/fighter/karolina-kowalkiewicz", 
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/karolina-kowalkiewicz", 
                             "name": "Karolina Kowalkiewicz", 
                             "rank": "10"
                         }, 
                         {
-                            "url": "/web/20160405014202/http://www.ufc.com/fighter/Joanne-Calderwood", 
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Joanne-Calderwood", 
                             "name": "Joanne Calderwood", 
                             "rank": "11"
                         }, 
                         {
-                            "url": "/web/20160405014202/http://www.ufc.com/fighter/Randa-Markos", 
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Randa-Markos", 
                             "name": "Randa Markos", 
                             "rank": "12"
                         }, 
                         {
-                            "url": "/web/20160405014202/http://www.ufc.com/fighter/jessica-aguilar", 
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/jessica-aguilar", 
                             "name": "Jessica Aguilar", 
                             "rank": "13"
                         }, 
                         {
-                            "url": "/web/20160405014202/http://www.ufc.com/fighter/Juliana-Lima", 
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Juliana-Lima", 
                             "name": "Juliana Lima", 
                             "rank": "14"
                         }, 
                         {
-                            "url": "/web/20160405014202/http://www.ufc.com/fighter/Justine-Kish", 
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Justine-Kish", 
                             "name": "Justine Kish", 
                             "rank": "15"
                         }
@@ -20612,77 +20612,77 @@ window.historicalRankings = {
                             "rank": "0"
                         }, 
                         {
-                            "url": "/web/20160405014202/http://www.ufc.com/fighter/holly-holm", 
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/holly-holm", 
                             "name": "Holly Holm", 
                             "rank": "1"
                         }, 
                         {
-                            "url": "/web/20160405014202/http://www.ufc.com/fighter/Ronda-Rousey", 
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Ronda-Rousey", 
                             "name": "Ronda Rousey", 
                             "rank": "2"
                         }, 
                         {
-                            "url": "/web/20160405014202/http://www.ufc.com/fighter/Cat-Zingano", 
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Cat-Zingano", 
                             "name": "Cat Zingano", 
                             "rank": "3"
                         }, 
                         {
-                            "url": "/web/20160405014202/http://www.ufc.com/fighter/Amanda-Nunes", 
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Amanda-Nunes", 
                             "name": "Amanda Nunes", 
                             "rank": "4"
                         }, 
                         {
-                            "url": "/web/20160405014202/http://www.ufc.com/fighter/Julianna-Pena", 
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Julianna-Pena", 
                             "name": "Julianna Pena", 
                             "rank": "5"
                         }, 
                         {
-                            "url": "/web/20160405014202/http://www.ufc.com/fighter/Sara-McMann", 
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Sara-McMann", 
                             "name": "Sara McMann", 
                             "rank": "6"
                         }, 
                         {
-                            "url": "/web/20160405014202/http://www.ufc.com/fighter/Jessica-Eye", 
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Jessica-Eye", 
                             "name": "Jessica Eye", 
                             "rank": "7"
                         }, 
                         {
-                            "url": "/web/20160405014202/http://www.ufc.com/fighter/Bethe-Correia", 
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Bethe-Correia", 
                             "name": "Bethe Correia", 
                             "rank": "8"
                         }, 
                         {
-                            "url": "/web/20160405014202/http://www.ufc.com/fighter/Liz-Carmouche", 
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Liz-Carmouche", 
                             "name": "Liz Carmouche", 
                             "rank": "9"
                         }, 
                         {
-                            "url": "/web/20160405014202/http://www.ufc.com/fighter/Sarah-Kaufman", 
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Sarah-Kaufman", 
                             "name": "Sarah Kaufman", 
                             "rank": "10"
                         }, 
                         {
-                            "url": "/web/20160405014202/http://www.ufc.com/fighter/Valentina-Shevchenko", 
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Valentina-Shevchenko", 
                             "name": "Valentina Shevchenko", 
                             "rank": "11"
                         }, 
                         {
-                            "url": "/web/20160405014202/http://www.ufc.com/fighter/Raquel-Pennington", 
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Raquel-Pennington", 
                             "name": "Raquel Pennington", 
                             "rank": "12"
                         }, 
                         {
-                            "url": "/web/20160405014202/http://www.ufc.com/fighter/Germaine-DeRandamie", 
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Germaine-DeRandamie", 
                             "name": "Germaine de Randamie", 
                             "rank": "13"
                         }, 
                         {
-                            "url": "/web/20160405014202/http://www.ufc.com/fighter/Lauren-Murphy", 
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Lauren-Murphy", 
                             "name": "Lauren Murphy", 
                             "rank": "14"
                         }, 
                         {
-                            "url": "/web/20160405014202/http://www.ufc.com/fighter/marion-reneau", 
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/marion-reneau", 
                             "name": "Marion Reneau", 
                             "rank": "15"
                         }
@@ -24414,6 +24414,11361 @@ window.historicalRankings = {
                         {
                             "url": "/web/20160901021804/http://www.ufc.com/fighter/marion-reneau", 
                             "name": "Marion Reneau", 
+                            "rank": "15"
+                        }
+                    ], 
+                    "champ": "Amanda Nunes", 
+                    "title": "Women's Bantamweight"
+                }
+            ]
+        }, 
+        {
+            "url": "http://web.archive.org/web/20161006005630/http://www.ufc.com/rankings", 
+            "date": [
+                "Thu", 
+                "Oct", 
+                "06", 
+                "00:00:00", 
+                "UTC", 
+                "2016"
+            ], 
+            "displayDate": "Oct 2016", 
+            "divisions": [
+                {
+                    "champUrl": "", 
+                    "fighters": [
+                        {
+                            "url": "", 
+                            "name": "", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Demetrious-Johnson", 
+                            "name": "Demetrious Johnson", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Dominick-Cruz", 
+                            "name": "Dominick Cruz", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Daniel-Cormier", 
+                            "name": "Daniel Cormier", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Conor-McGregor", 
+                            "name": "Conor McGregor", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Jose-Aldo", 
+                            "name": "Jose Aldo", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Stipe-Miocic", 
+                            "name": "Stipe Miocic", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/eddie-alvarez", 
+                            "name": "Eddie Alvarez", 
+                            "rank": "7"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Joanna-Jedrzejczyk", 
+                            "name": "Joanna Jedrzejczyk", 
+                            "rank": "8"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Tyron-Woodley", 
+                            "name": "Tyron Woodley", 
+                            "rank": "9"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Michael-Bisping", 
+                            "name": "Michael Bisping", 
+                            "rank": "10"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Robbie-Lawler", 
+                            "name": "Robbie Lawler", 
+                            "rank": "11"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Rafael-Dos-Anjos", 
+                            "name": "Rafael Dos Anjos", 
+                            "rank": "12"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Luke-Rockhold", 
+                            "name": "Luke Rockhold", 
+                            "rank": "13"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/TJ-Dillashaw", 
+                            "name": "TJ Dillashaw", 
+                            "rank": "14"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Cris-Cyborg", 
+                            "name": "Cris Cyborg", 
+                            "rank": "15"
+                        }
+                    ], 
+                    "champ": "", 
+                    "title": "Pound-for-Pound"
+                }, 
+                {
+                    "champUrl": "Demetrious Johnson", 
+                    "fighters": [
+                        {
+                            "url": "Demetrious Johnson", 
+                            "name": "Demetrious Johnson", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Joseph-Benavidez", 
+                            "name": "Joseph Benavidez", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Henry-Cejudo", 
+                            "name": "Henry Cejudo", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/jussier-formiga", 
+                            "name": "Jussier Formiga", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Kyoji-Horiguchi", 
+                            "name": "Kyoji Horiguchi", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Ian-McCall", 
+                            "name": "Ian McCall", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Wilson-Reis", 
+                            "name": "Wilson Reis", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Zach-Makovsky", 
+                            "name": "Zach Makovsky", 
+                            "rank": "7"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Ali-Bagautinov", 
+                            "name": "Ali Bagautinov", 
+                            "rank": "8"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/John-Moraga", 
+                            "name": "John Moraga", 
+                            "rank": "9"
+                        }
+                    ], 
+                    "champ": "Demetrious Johnson", 
+                    "title": "Flyweight"
+                }, 
+                {
+                    "champUrl": "Dominick Cruz", 
+                    "fighters": [
+                        {
+                            "url": "Dominick Cruz", 
+                            "name": "Dominick Cruz", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/TJ-Dillashaw", 
+                            "name": "TJ Dillashaw", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/John-Lineker", 
+                            "name": "John Lineker", 
+                            "rank": "2"
+                        }
+                    ], 
+                    "champ": "Dominick Cruz", 
+                    "title": "Bantamweight"
+                }, 
+                {
+                    "champUrl": "Conor McGregor", 
+                    "fighters": [
+                        {
+                            "url": "Conor McGregor", 
+                            "name": "Conor McGregor", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Jose-Aldo", 
+                            "name": "Jose Aldo\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t(Interim Champion)", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Frankie-Edgar", 
+                            "name": "Frankie Edgar", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Max-Holloway", 
+                            "name": "Max Holloway", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Ricardo-Lamas", 
+                            "name": "Ricardo Lamas", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Cub-Swanson", 
+                            "name": "Cub Swanson", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Anthony-Pettis", 
+                            "name": "Anthony Pettis", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Jeremy-Stephens", 
+                            "name": "Jeremy Stephens", 
+                            "rank": "7"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Charles-Oliveira", 
+                            "name": "Charles Oliveira", 
+                            "rank": "8"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Dennis-Bermudez", 
+                            "name": "Dennis Bermudez", 
+                            "rank": "9"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Brian-Ortega", 
+                            "name": "Brian Ortega", 
+                            "rank": "10"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/yair-rodriguez", 
+                            "name": "Yair Rodriguez", 
+                            "rank": "11"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Darren-Elkins", 
+                            "name": "Darren Elkins", 
+                            "rank": "12"
+                        }
+                    ], 
+                    "champ": "Conor McGregor", 
+                    "title": "Featherweight"
+                }, 
+                {
+                    "champUrl": "Eddie Alvarez", 
+                    "fighters": [
+                        {
+                            "url": "Eddie Alvarez", 
+                            "name": "Eddie Alvarez", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Khabib-Nurmagomedov", 
+                            "name": "Khabib Nurmagomedov", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Rafael-Dos-Anjos", 
+                            "name": "Rafael Dos Anjos", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Tony-Ferguson", 
+                            "name": "Tony Ferguson", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Nate-Diaz", 
+                            "name": "Nate Diaz", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Edson-Barboza", 
+                            "name": "Edson Barboza", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Michael-Johnson", 
+                            "name": "Michael Johnson", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Michael-Chiesa", 
+                            "name": "Michael Chiesa", 
+                            "rank": "7"
+                        }
+                    ], 
+                    "champ": "Eddie Alvarez", 
+                    "title": "Lightweight"
+                }, 
+                {
+                    "champUrl": "Tyron Woodley", 
+                    "fighters": [
+                        {
+                            "url": "Tyron Woodley", 
+                            "name": "Tyron Woodley", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Robbie-Lawler", 
+                            "name": "Robbie Lawler", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Stephen-Thompson", 
+                            "name": "Stephen Thompson", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Demian-Maia", 
+                            "name": "Demian Maia", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Carlos-Condit", 
+                            "name": "Carlos Condit", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Kelvin-Gastelum", 
+                            "name": "Kelvin Gastelum", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Johny-Hendricks", 
+                            "name": "Johny Hendricks", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Donald-Cerrone", 
+                            "name": "Donald Cerrone", 
+                            "rank": "7"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Lorenz-Larkin", 
+                            "name": "Lorenz Larkin", 
+                            "rank": "8"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Neil-Magny", 
+                            "name": "Neil Magny", 
+                            "rank": "9"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Dong-Hyun-Kim", 
+                            "name": "Dong Hyun Kim", 
+                            "rank": "10"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Rick-Story", 
+                            "name": "Rick Story", 
+                            "rank": "11"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Gunnar-Nelson", 
+                            "name": "Gunnar Nelson", 
+                            "rank": "12"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Tarec-Saffiedine", 
+                            "name": "Tarec Saffiedine", 
+                            "rank": "13"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Albert-Tumenov", 
+                            "name": "Albert Tumenov", 
+                            "rank": "14"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Matt-Brown", 
+                            "name": "Matt Brown", 
+                            "rank": "15"
+                        }
+                    ], 
+                    "champ": "Tyron Woodley", 
+                    "title": "Welterweight"
+                }, 
+                {
+                    "champUrl": "Michael Bisping", 
+                    "fighters": [
+                        {
+                            "url": "Michael Bisping", 
+                            "name": "Michael Bisping", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Luke-Rockhold", 
+                            "name": "Luke Rockhold", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Chris-Weidman", 
+                            "name": "Chris Weidman", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Ronaldo-Souza", 
+                            "name": "Jacare Souza", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Yoel-Romero", 
+                            "name": "Yoel Romero", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Vitor-Belfort", 
+                            "name": "Vitor Belfort", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Anderson-Silva", 
+                            "name": "Anderson Silva", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/robert-whittaker", 
+                            "name": "Robert Whittaker", 
+                            "rank": "7"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Derek-Brunson", 
+                            "name": "Derek Brunson", 
+                            "rank": "8"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Gegard-Mousasi", 
+                            "name": "Gegard Mousasi", 
+                            "rank": "9"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Uriah-Hall", 
+                            "name": "Uriah Hall", 
+                            "rank": "10"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Thales-Leites", 
+                            "name": "Thales Leites", 
+                            "rank": "11"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Tim-Kennedy", 
+                            "name": "Tim Kennedy", 
+                            "rank": "12"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Dan-Henderson", 
+                            "name": "Dan Henderson", 
+                            "rank": "13"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/rafael-natal", 
+                            "name": "Rafael Natal", 
+                            "rank": "14"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Krzysztof-Jotko", 
+                            "name": "Krzysztof Jotko", 
+                            "rank": "15"
+                        }
+                    ], 
+                    "champ": "Michael Bisping", 
+                    "title": "Middleweight"
+                }, 
+                {
+                    "champUrl": "Daniel Cormier", 
+                    "fighters": [
+                        {
+                            "url": "Daniel Cormier", 
+                            "name": "Daniel Cormier", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Anthony-Johnson", 
+                            "name": "Anthony Johnson", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Alexander-Gustafsson", 
+                            "name": "Alexander Gustafsson", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Glover-Teixeira", 
+                            "name": "Glover Teixeira", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Ryan-Bader", 
+                            "name": "Ryan Bader", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Ovince-St-Preux", 
+                            "name": "Ovince Saint Preux", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Mauricio-Rua", 
+                            "name": "Mauricio Rua", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Rashad-Evans", 
+                            "name": "Rashad Evans", 
+                            "rank": "7"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Jimi-Manuwa", 
+                            "name": "Jimi Manuwa", 
+                            "rank": "8"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Antonio-Rogerio-Nogueira", 
+                            "name": "Antonio Rogerio Nogueira", 
+                            "rank": "9"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Nikita-Krylov", 
+                            "name": "Nikita Krylov", 
+                            "rank": "10"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/corey-anderson", 
+                            "name": "Corey Anderson", 
+                            "rank": "11"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Ilir-Latifi", 
+                            "name": "Ilir Latifi", 
+                            "rank": "12"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Patrick-Cummins", 
+                            "name": "Patrick Cummins", 
+                            "rank": "13"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/misha-cirkunov", 
+                            "name": "Misha Cirkunov", 
+                            "rank": "14"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Gian-Villante", 
+                            "name": "Gian Villante", 
+                            "rank": "15"
+                        }
+                    ], 
+                    "champ": "Daniel Cormier", 
+                    "title": "Light Heavyweight"
+                }, 
+                {
+                    "champUrl": "Stipe Miocic", 
+                    "fighters": [
+                        {
+                            "url": "Stipe Miocic", 
+                            "name": "Stipe Miocic", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Fabricio-Werdum", 
+                            "name": "Fabricio Werdum", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Cain-Velasquez", 
+                            "name": "Cain Velasquez", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Alistair-Overeem", 
+                            "name": "Alistair Overeem", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Junior-Dos-Santos", 
+                            "name": "Junior Dos Santos", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Ben-Rothwell", 
+                            "name": "Ben Rothwell", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Josh-Barnett", 
+                            "name": "Josh Barnett", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/mark-hunt", 
+                            "name": "Mark Hunt", 
+                            "rank": "7"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Andrei-Arlovski", 
+                            "name": "Andrei Arlovski", 
+                            "rank": "8"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Travis-Browne", 
+                            "name": "Travis Browne", 
+                            "rank": "9"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Derrick-Lewis", 
+                            "name": "Derrick Lewis", 
+                            "rank": "10"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Roy-Nelson", 
+                            "name": "Roy Nelson", 
+                            "rank": "11"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Stefan-Struve", 
+                            "name": "Stefan Struve", 
+                            "rank": "12"
+                        }
+                    ], 
+                    "champ": "Stipe Miocic", 
+                    "title": "Heavyweight"
+                }, 
+                {
+                    "champUrl": "Joanna Jedrzejczyk", 
+                    "fighters": [
+                        {
+                            "url": "Joanna Jedrzejczyk", 
+                            "name": "Joanna Jedrzejczyk", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Claudia-Gadelha", 
+                            "name": "Claudia Gadelha", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/karolina-kowalkiewicz", 
+                            "name": "Karolina Kowalkiewicz", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Carla-Esparza", 
+                            "name": "Carla Esparza", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Rose-Namajunas", 
+                            "name": "Rose Namajunas", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Jessica-Andrade", 
+                            "name": "Jessica Andrade", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Tecia-Torres", 
+                            "name": "Tecia Torres", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Joanne-Calderwood", 
+                            "name": "Joanne Calderwood", 
+                            "rank": "7"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/paige-vanzant", 
+                            "name": "Paige VanZant", 
+                            "rank": "8"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Valerie-Letourneau", 
+                            "name": "Valerie Letourneau", 
+                            "rank": "9"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/maryna-moroz", 
+                            "name": "Maryna Moroz", 
+                            "rank": "10"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/jessica-aguilar", 
+                            "name": "Jessica Aguilar", 
+                            "rank": "11"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/michelle-waterson", 
+                            "name": "Michelle Waterson", 
+                            "rank": "12"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Jessica-Penne", 
+                            "name": "Jessica Penne", 
+                            "rank": "13"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/cortney-casey", 
+                            "name": "Cortney Casey", 
+                            "rank": "14"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Juliana-Lima", 
+                            "name": "Juliana Lima", 
+                            "rank": "15"
+                        }
+                    ], 
+                    "champ": "Joanna Jedrzejczyk", 
+                    "title": "Women's Strawweight"
+                }, 
+                {
+                    "champUrl": "Amanda Nunes", 
+                    "fighters": [
+                        {
+                            "url": "Amanda Nunes", 
+                            "name": "Amanda Nunes", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Miesha-Tate", 
+                            "name": "Miesha Tate", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Ronda-Rousey", 
+                            "name": "Ronda Rousey", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Valentina-Shevchenko", 
+                            "name": "Valentina Shevchenko", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/holly-holm", 
+                            "name": "Holly Holm", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Julianna-Pena", 
+                            "name": "Julianna Pena", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Cat-Zingano", 
+                            "name": "Cat Zingano", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Sara-McMann", 
+                            "name": "Sara McMann", 
+                            "rank": "7"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Raquel-Pennington", 
+                            "name": "Raquel Pennington", 
+                            "rank": "8"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Liz-Carmouche", 
+                            "name": "Liz Carmouche", 
+                            "rank": "9"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Bethe-Correia", 
+                            "name": "Bethe Correia", 
+                            "rank": "10"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Germaine-DeRandamie", 
+                            "name": "Germaine de Randamie", 
+                            "rank": "11"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/ashlee-evans-smith", 
+                            "name": "Ashlee Evans-Smith", 
+                            "rank": "12"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Jessica-Eye", 
+                            "name": "Jessica Eye", 
+                            "rank": "13"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/katlyn-chookagian", 
+                            "name": "Katlyn Chookagian", 
+                            "rank": "14"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/marion-reneau", 
+                            "name": "Marion Reneau", 
+                            "rank": "15"
+                        }
+                    ], 
+                    "champ": "Amanda Nunes", 
+                    "title": "Women's Bantamweight"
+                }
+            ]
+        }, 
+        {
+            "url": "http://web.archive.org/web/20161107215424/http://www.ufc.com/rankings", 
+            "date": [
+                "Mon", 
+                "Nov", 
+                "07", 
+                "00:00:00", 
+                "UTC", 
+                "2016"
+            ], 
+            "displayDate": "Nov 2016", 
+            "divisions": [
+                {
+                    "champUrl": "", 
+                    "fighters": [
+                        {
+                            "url": "", 
+                            "name": "", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Demetrious-Johnson", 
+                            "name": "Demetrious Johnson", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Dominick-Cruz", 
+                            "name": "Dominick Cruz", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Daniel-Cormier", 
+                            "name": "Daniel Cormier", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Conor-McGregor", 
+                            "name": "Conor McGregor", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Jose-Aldo", 
+                            "name": "Jose Aldo", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Stipe-Miocic", 
+                            "name": "Stipe Miocic", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/eddie-alvarez", 
+                            "name": "Eddie Alvarez", 
+                            "rank": "7"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Joanna-Jedrzejczyk", 
+                            "name": "Joanna Jedrzejczyk", 
+                            "rank": "8"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Tyron-Woodley", 
+                            "name": "Tyron Woodley", 
+                            "rank": "9"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Michael-Bisping", 
+                            "name": "Michael Bisping", 
+                            "rank": "10"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Robbie-Lawler", 
+                            "name": "Robbie Lawler", 
+                            "rank": "11"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Rafael-Dos-Anjos", 
+                            "name": "Rafael Dos Anjos", 
+                            "rank": "12"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Luke-Rockhold", 
+                            "name": "Luke Rockhold", 
+                            "rank": "13"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/TJ-Dillashaw", 
+                            "name": "TJ Dillashaw", 
+                            "rank": "14"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Cris-Cyborg", 
+                            "name": "Cris Cyborg", 
+                            "rank": "15"
+                        }
+                    ], 
+                    "champ": "", 
+                    "title": "Pound-for-Pound"
+                }, 
+                {
+                    "champUrl": "Demetrious Johnson", 
+                    "fighters": [
+                        {
+                            "url": "Demetrious Johnson", 
+                            "name": "Demetrious Johnson", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Joseph-Benavidez", 
+                            "name": "Joseph Benavidez", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Henry-Cejudo", 
+                            "name": "Henry Cejudo", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/jussier-formiga", 
+                            "name": "Jussier Formiga", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Kyoji-Horiguchi", 
+                            "name": "Kyoji Horiguchi", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Ian-McCall", 
+                            "name": "Ian McCall", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Wilson-Reis", 
+                            "name": "Wilson Reis", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Zach-Makovsky", 
+                            "name": "Zach Makovsky", 
+                            "rank": "7"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Ali-Bagautinov", 
+                            "name": "Ali Bagautinov", 
+                            "rank": "8"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/John-Moraga", 
+                            "name": "John Moraga", 
+                            "rank": "9"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Dustin-Ortiz", 
+                            "name": "Dustin Ortiz", 
+                            "rank": "10"
+                        }
+                    ], 
+                    "champ": "Demetrious Johnson", 
+                    "title": "Flyweight"
+                }, 
+                {
+                    "champUrl": "Dominick Cruz", 
+                    "fighters": [
+                        {
+                            "url": "Dominick Cruz", 
+                            "name": "Dominick Cruz", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/TJ-Dillashaw", 
+                            "name": "TJ Dillashaw", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/John-Lineker", 
+                            "name": "John Lineker", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Raphael-Assuncao", 
+                            "name": "Raphael Assuncao", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/jimmie-rivera", 
+                            "name": "Jimmie Rivera", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Bryan-Caraway", 
+                            "name": "Bryan Caraway", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/cody-garbrandt", 
+                            "name": "Cody Garbrandt", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Urijah-Faber", 
+                            "name": "Urijah Faber", 
+                            "rank": "7"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Aljamain-Sterling", 
+                            "name": "Aljamain Sterling", 
+                            "rank": "8"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Michael-McDonald", 
+                            "name": "Michael McDonald", 
+                            "rank": "9"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/John-Dodson", 
+                            "name": "John Dodson", 
+                            "rank": "10"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/thomas-almeida", 
+                            "name": "Thomas Almeida", 
+                            "rank": "11"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Eddie-Wineland", 
+                            "name": "Eddie Wineland", 
+                            "rank": "12"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Johnny-Eduardo", 
+                            "name": "Johnny Eduardo", 
+                            "rank": "13"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Takeya-Mizugaki", 
+                            "name": "Takeya Mizugaki", 
+                            "rank": "14"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Rani-Yahya", 
+                            "name": "Rani Yahya", 
+                            "rank": "15"
+                        }
+                    ], 
+                    "champ": "Dominick Cruz", 
+                    "title": "Bantamweight"
+                }, 
+                {
+                    "champUrl": "Conor McGregor", 
+                    "fighters": [
+                        {
+                            "url": "Conor McGregor", 
+                            "name": "Conor McGregor", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Jose-Aldo", 
+                            "name": "Jose Aldo\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t(Interim Champion)", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Frankie-Edgar", 
+                            "name": "Frankie Edgar", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Max-Holloway", 
+                            "name": "Max Holloway", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Ricardo-Lamas", 
+                            "name": "Ricardo Lamas", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Cub-Swanson", 
+                            "name": "Cub Swanson", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Anthony-Pettis", 
+                            "name": "Anthony Pettis", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Jeremy-Stephens", 
+                            "name": "Jeremy Stephens", 
+                            "rank": "7"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Charles-Oliveira", 
+                            "name": "Charles Oliveira", 
+                            "rank": "8"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Dennis-Bermudez", 
+                            "name": "Dennis Bermudez", 
+                            "rank": "9"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Brian-Ortega", 
+                            "name": "Brian Ortega", 
+                            "rank": "10"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/yair-rodriguez", 
+                            "name": "Yair Rodriguez", 
+                            "rank": "11"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Darren-Elkins", 
+                            "name": "Darren Elkins", 
+                            "rank": "12"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Mirsad-Bektic", 
+                            "name": "Mirsad Bektic", 
+                            "rank": "13"
+                        }
+                    ], 
+                    "champ": "Conor McGregor", 
+                    "title": "Featherweight"
+                }, 
+                {
+                    "champUrl": "Eddie Alvarez", 
+                    "fighters": [
+                        {
+                            "url": "Eddie Alvarez", 
+                            "name": "Eddie Alvarez", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Khabib-Nurmagomedov", 
+                            "name": "Khabib Nurmagomedov", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Rafael-Dos-Anjos", 
+                            "name": "Rafael Dos Anjos", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Tony-Ferguson", 
+                            "name": "Tony Ferguson", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Nate-Diaz", 
+                            "name": "Nate Diaz", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Edson-Barboza", 
+                            "name": "Edson Barboza", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Michael-Johnson", 
+                            "name": "Michael Johnson", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Michael-Chiesa", 
+                            "name": "Michael Chiesa", 
+                            "rank": "7"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Donald-Cerrone", 
+                            "name": "Donald Cerrone", 
+                            "rank": "8"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Beneil-Dariush", 
+                            "name": "Beneil Dariush", 
+                            "rank": "9"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Dustin-Poirier", 
+                            "name": "Dustin Poirier", 
+                            "rank": "10"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Gilbert-Melendez", 
+                            "name": "Gilbert Melendez", 
+                            "rank": "11"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Francisco-Trinaldo", 
+                            "name": "Francisco Trinaldo", 
+                            "rank": "12"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Al-Iaquinta", 
+                            "name": "Al Iaquinta", 
+                            "rank": "13"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Evan-Dunham", 
+                            "name": "Evan Dunham", 
+                            "rank": "14"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Rashid-Magomedov", 
+                            "name": "Rashid Magomedov", 
+                            "rank": "15"
+                        }
+                    ], 
+                    "champ": "Eddie Alvarez", 
+                    "title": "Lightweight"
+                }, 
+                {
+                    "champUrl": "Tyron Woodley", 
+                    "fighters": [
+                        {
+                            "url": "Tyron Woodley", 
+                            "name": "Tyron Woodley", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Robbie-Lawler", 
+                            "name": "Robbie Lawler", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Stephen-Thompson", 
+                            "name": "Stephen Thompson", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Demian-Maia", 
+                            "name": "Demian Maia", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Carlos-Condit", 
+                            "name": "Carlos Condit", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Kelvin-Gastelum", 
+                            "name": "Kelvin Gastelum", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Donald-Cerrone", 
+                            "name": "Donald Cerrone", 
+                            "rank": "6"
+                        }
+                    ], 
+                    "champ": "Tyron Woodley", 
+                    "title": "Welterweight"
+                }, 
+                {
+                    "champUrl": "Michael Bisping", 
+                    "fighters": [
+                        {
+                            "url": "Michael Bisping", 
+                            "name": "Michael Bisping", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Luke-Rockhold", 
+                            "name": "Luke Rockhold", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Chris-Weidman", 
+                            "name": "Chris Weidman", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Ronaldo-Souza", 
+                            "name": "Jacare Souza", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Yoel-Romero", 
+                            "name": "Yoel Romero", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Gegard-Mousasi", 
+                            "name": "Gegard Mousasi", 
+                            "rank": "5"
+                        }
+                    ], 
+                    "champ": "Michael Bisping", 
+                    "title": "Middleweight"
+                }, 
+                {
+                    "champUrl": "Daniel Cormier", 
+                    "fighters": [
+                        {
+                            "url": "Daniel Cormier", 
+                            "name": "Daniel Cormier", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Anthony-Johnson", 
+                            "name": "Anthony Johnson", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Alexander-Gustafsson", 
+                            "name": "Alexander Gustafsson", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Glover-Teixeira", 
+                            "name": "Glover Teixeira", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Ryan-Bader", 
+                            "name": "Ryan Bader", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Jimi-Manuwa", 
+                            "name": "Jimi Manuwa", 
+                            "rank": "5"
+                        }
+                    ], 
+                    "champ": "Daniel Cormier", 
+                    "title": "Light Heavyweight"
+                }, 
+                {
+                    "champUrl": "Stipe Miocic", 
+                    "fighters": [
+                        {
+                            "url": "Stipe Miocic", 
+                            "name": "Stipe Miocic", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Fabricio-Werdum", 
+                            "name": "Fabricio Werdum", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Cain-Velasquez", 
+                            "name": "Cain Velasquez", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Alistair-Overeem", 
+                            "name": "Alistair Overeem", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Junior-Dos-Santos", 
+                            "name": "Junior Dos Santos", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Ben-Rothwell", 
+                            "name": "Ben Rothwell", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Josh-Barnett", 
+                            "name": "Josh Barnett", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/mark-hunt", 
+                            "name": "Mark Hunt", 
+                            "rank": "7"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Andrei-Arlovski", 
+                            "name": "Andrei Arlovski", 
+                            "rank": "8"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Travis-Browne", 
+                            "name": "Travis Browne", 
+                            "rank": "9"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Derrick-Lewis", 
+                            "name": "Derrick Lewis", 
+                            "rank": "10"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Roy-Nelson", 
+                            "name": "Roy Nelson", 
+                            "rank": "11"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Stefan-Struve", 
+                            "name": "Stefan Struve", 
+                            "rank": "12"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/francis-ngannou", 
+                            "name": "Francis Ngannou", 
+                            "rank": "13"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Daniel-Omielanczuk", 
+                            "name": "Daniel Omielanczuk", 
+                            "rank": "14"
+                        }
+                    ], 
+                    "champ": "Stipe Miocic", 
+                    "title": "Heavyweight"
+                }, 
+                {
+                    "champUrl": "Joanna Jedrzejczyk", 
+                    "fighters": [
+                        {
+                            "url": "Joanna Jedrzejczyk", 
+                            "name": "Joanna Jedrzejczyk", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Claudia-Gadelha", 
+                            "name": "Claudia Gadelha", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/karolina-kowalkiewicz", 
+                            "name": "Karolina Kowalkiewicz", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Carla-Esparza", 
+                            "name": "Carla Esparza", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Rose-Namajunas", 
+                            "name": "Rose Namajunas", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Jessica-Andrade", 
+                            "name": "Jessica Andrade", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Tecia-Torres", 
+                            "name": "Tecia Torres", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Joanne-Calderwood", 
+                            "name": "Joanne Calderwood", 
+                            "rank": "7"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/paige-vanzant", 
+                            "name": "Paige VanZant", 
+                            "rank": "8"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Valerie-Letourneau", 
+                            "name": "Valerie Letourneau", 
+                            "rank": "9"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/maryna-moroz", 
+                            "name": "Maryna Moroz", 
+                            "rank": "10"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/jessica-aguilar", 
+                            "name": "Jessica Aguilar", 
+                            "rank": "11"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/michelle-waterson", 
+                            "name": "Michelle Waterson", 
+                            "rank": "12"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Jessica-Penne", 
+                            "name": "Jessica Penne", 
+                            "rank": "13"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/cortney-casey", 
+                            "name": "Cortney Casey", 
+                            "rank": "14"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Juliana-Lima", 
+                            "name": "Juliana Lima", 
+                            "rank": "15"
+                        }
+                    ], 
+                    "champ": "Joanna Jedrzejczyk", 
+                    "title": "Women's Strawweight"
+                }, 
+                {
+                    "champUrl": "Amanda Nunes", 
+                    "fighters": [
+                        {
+                            "url": "Amanda Nunes", 
+                            "name": "Amanda Nunes", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Miesha-Tate", 
+                            "name": "Miesha Tate", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Ronda-Rousey", 
+                            "name": "Ronda Rousey", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Valentina-Shevchenko", 
+                            "name": "Valentina Shevchenko", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/holly-holm", 
+                            "name": "Holly Holm", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Julianna-Pena", 
+                            "name": "Julianna Pena", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Cat-Zingano", 
+                            "name": "Cat Zingano", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Sara-McMann", 
+                            "name": "Sara McMann", 
+                            "rank": "7"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Raquel-Pennington", 
+                            "name": "Raquel Pennington", 
+                            "rank": "8"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Liz-Carmouche", 
+                            "name": "Liz Carmouche", 
+                            "rank": "9"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Bethe-Correia", 
+                            "name": "Bethe Correia", 
+                            "rank": "10"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Germaine-DeRandamie", 
+                            "name": "Germaine de Randamie", 
+                            "rank": "11"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/ashlee-evans-smith", 
+                            "name": "Ashlee Evans-Smith", 
+                            "rank": "12"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Jessica-Eye", 
+                            "name": "Jessica Eye", 
+                            "rank": "13"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/katlyn-chookagian", 
+                            "name": "Katlyn Chookagian", 
+                            "rank": "14"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/marion-reneau", 
+                            "name": "Marion Reneau", 
+                            "rank": "15"
+                        }
+                    ], 
+                    "champ": "Amanda Nunes", 
+                    "title": "Women's Bantamweight"
+                }
+            ]
+        }, 
+        {
+            "url": "http://web.archive.org/web/20161205233443/http://www.ufc.com/rankings", 
+            "date": [
+                "Mon", 
+                "Dec", 
+                "05", 
+                "00:00:00", 
+                "UTC", 
+                "2016"
+            ], 
+            "displayDate": "Dec 2016", 
+            "divisions": [
+                {
+                    "champUrl": "", 
+                    "fighters": [
+                        {
+                            "url": "", 
+                            "name": "", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Demetrious-Johnson", 
+                            "name": "Demetrious Johnson", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Conor-McGregor", 
+                            "name": "Conor McGregor", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Dominick-Cruz", 
+                            "name": "Dominick Cruz", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Daniel-Cormier", 
+                            "name": "Daniel Cormier", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Jose-Aldo", 
+                            "name": "Jose Aldo", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Stipe-Miocic", 
+                            "name": "Stipe Miocic", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Joanna-Jedrzejczyk", 
+                            "name": "Joanna Jedrzejczyk", 
+                            "rank": "7"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Tyron-Woodley", 
+                            "name": "Tyron Woodley", 
+                            "rank": "8"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Michael-Bisping", 
+                            "name": "Michael Bisping", 
+                            "rank": "9"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Cris-Cyborg", 
+                            "name": "Cris Cyborg", 
+                            "rank": "10"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Robbie-Lawler", 
+                            "name": "Robbie Lawler", 
+                            "rank": "11"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Luke-Rockhold", 
+                            "name": "Luke Rockhold", 
+                            "rank": "12"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Amanda-Nunes", 
+                            "name": "Amanda Nunes", 
+                            "rank": "13"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Khabib-Nurmagomedov", 
+                            "name": "Khabib Nurmagomedov", 
+                            "rank": "14"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/TJ-Dillashaw", 
+                            "name": "TJ Dillashaw", 
+                            "rank": "15"
+                        }
+                    ], 
+                    "champ": "", 
+                    "title": "Pound-for-Pound"
+                }, 
+                {
+                    "champUrl": "Demetrious Johnson", 
+                    "fighters": [
+                        {
+                            "url": "Demetrious Johnson", 
+                            "name": "Demetrious Johnson", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Joseph-Benavidez", 
+                            "name": "Joseph Benavidez", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Henry-Cejudo", 
+                            "name": "Henry Cejudo", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Kyoji-Horiguchi", 
+                            "name": "Kyoji Horiguchi", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/jussier-formiga", 
+                            "name": "Jussier Formiga", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Wilson-Reis", 
+                            "name": "Wilson Reis", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Ian-McCall", 
+                            "name": "Ian McCall", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Zach-Makovsky", 
+                            "name": "Zach Makovsky", 
+                            "rank": "7"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Ali-Bagautinov", 
+                            "name": "Ali Bagautinov", 
+                            "rank": "8"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/John-Moraga", 
+                            "name": "John Moraga", 
+                            "rank": "9"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/brandon-moreno", 
+                            "name": "Brandon Moreno", 
+                            "rank": "10"
+                        }
+                    ], 
+                    "champ": "Demetrious Johnson", 
+                    "title": "Flyweight"
+                }, 
+                {
+                    "champUrl": "Dominick Cruz", 
+                    "fighters": [
+                        {
+                            "url": "Dominick Cruz", 
+                            "name": "Dominick Cruz", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/TJ-Dillashaw", 
+                            "name": "TJ Dillashaw", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/John-Lineker", 
+                            "name": "John Lineker", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Raphael-Assuncao", 
+                            "name": "Raphael Assuncao", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/jimmie-rivera", 
+                            "name": "Jimmie Rivera", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/cody-garbrandt", 
+                            "name": "Cody Garbrandt", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Bryan-Caraway", 
+                            "name": "Bryan Caraway", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Urijah-Faber", 
+                            "name": "Urijah Faber", 
+                            "rank": "7"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Aljamain-Sterling", 
+                            "name": "Aljamain Sterling", 
+                            "rank": "8"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Michael-McDonald", 
+                            "name": "Michael McDonald", 
+                            "rank": "9"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/John-Dodson", 
+                            "name": "John Dodson", 
+                            "rank": "10"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/thomas-almeida", 
+                            "name": "Thomas Almeida", 
+                            "rank": "11"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Johnny-Eduardo", 
+                            "name": "Johnny Eduardo", 
+                            "rank": "12"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Eddie-Wineland", 
+                            "name": "Eddie Wineland", 
+                            "rank": "13"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Takeya-Mizugaki", 
+                            "name": "Takeya Mizugaki", 
+                            "rank": "14"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Pedro-Munhoz", 
+                            "name": "Pedro Munhoz", 
+                            "rank": "15"
+                        }
+                    ], 
+                    "champ": "Dominick Cruz", 
+                    "title": "Bantamweight"
+                }, 
+                {
+                    "champUrl": "Jose Aldo", 
+                    "fighters": [
+                        {
+                            "url": "Jose Aldo", 
+                            "name": "Jose Aldo", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Frankie-Edgar", 
+                            "name": "Frankie Edgar", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Max-Holloway", 
+                            "name": "Max Holloway", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Ricardo-Lamas", 
+                            "name": "Ricardo Lamas", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Cub-Swanson", 
+                            "name": "Cub Swanson", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Anthony-Pettis", 
+                            "name": "Anthony Pettis", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Jeremy-Stephens", 
+                            "name": "Jeremy Stephens", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Charles-Oliveira", 
+                            "name": "Charles Oliveira", 
+                            "rank": "7"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Dennis-Bermudez", 
+                            "name": "Dennis Bermudez", 
+                            "rank": "8"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Brian-Ortega", 
+                            "name": "Brian Ortega", 
+                            "rank": "9"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/yair-rodriguez", 
+                            "name": "Yair Rodriguez", 
+                            "rank": "10"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Dooho-Choi", 
+                            "name": "Dooho Choi", 
+                            "rank": "11"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Mirsad-Bektic", 
+                            "name": "Mirsad Bektic", 
+                            "rank": "12"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Darren-Elkins", 
+                            "name": "Darren Elkins", 
+                            "rank": "13"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Renan-Barao", 
+                            "name": "Renan Barao", 
+                            "rank": "14"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Andre-Fili", 
+                            "name": "Andre Fili", 
+                            "rank": "15"
+                        }
+                    ], 
+                    "champ": "Jose Aldo", 
+                    "title": "Featherweight"
+                }, 
+                {
+                    "champUrl": "Conor McGregor", 
+                    "fighters": [
+                        {
+                            "url": "Conor McGregor", 
+                            "name": "Conor McGregor", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Khabib-Nurmagomedov", 
+                            "name": "Khabib Nurmagomedov", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Tony-Ferguson", 
+                            "name": "Tony Ferguson", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/eddie-alvarez", 
+                            "name": "Eddie Alvarez", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Rafael-Dos-Anjos", 
+                            "name": "Rafael Dos Anjos", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Edson-Barboza", 
+                            "name": "Edson Barboza", 
+                            "rank": "5"
+                        }
+                    ], 
+                    "champ": "Conor McGregor", 
+                    "title": "Lightweight"
+                }, 
+                {
+                    "champUrl": "Tyron Woodley", 
+                    "fighters": [
+                        {
+                            "url": "Tyron Woodley", 
+                            "name": "Tyron Woodley", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Stephen-Thompson", 
+                            "name": "Stephen Thompson", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Robbie-Lawler", 
+                            "name": "Robbie Lawler", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Demian-Maia", 
+                            "name": "Demian Maia", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Carlos-Condit", 
+                            "name": "Carlos Condit", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Donald-Cerrone", 
+                            "name": "Donald Cerrone", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Johny-Hendricks", 
+                            "name": "Johny Hendricks", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Lorenz-Larkin", 
+                            "name": "Lorenz Larkin", 
+                            "rank": "7"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Neil-Magny", 
+                            "name": "Neil Magny", 
+                            "rank": "8"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Dong-Hyun-Kim", 
+                            "name": "Dong Hyun Kim", 
+                            "rank": "8"
+                        }
+                    ], 
+                    "champ": "Tyron Woodley", 
+                    "title": "Welterweight"
+                }, 
+                {
+                    "champUrl": "Michael Bisping", 
+                    "fighters": [
+                        {
+                            "url": "Michael Bisping", 
+                            "name": "Michael Bisping", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Yoel-Romero", 
+                            "name": "Yoel Romero", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Luke-Rockhold", 
+                            "name": "Luke Rockhold", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Ronaldo-Souza", 
+                            "name": "Jacare Souza", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Chris-Weidman", 
+                            "name": "Chris Weidman", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Gegard-Mousasi", 
+                            "name": "Gegard Mousasi", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/robert-whittaker", 
+                            "name": "Robert Whittaker", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Anderson-Silva", 
+                            "name": "Anderson Silva", 
+                            "rank": "7"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Vitor-Belfort", 
+                            "name": "Vitor Belfort", 
+                            "rank": "8"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Derek-Brunson", 
+                            "name": "Derek Brunson", 
+                            "rank": "9"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Tim-Kennedy", 
+                            "name": "Tim Kennedy", 
+                            "rank": "10"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Krzysztof-Jotko", 
+                            "name": "Krzysztof Jotko", 
+                            "rank": "11"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Uriah-Hall", 
+                            "name": "Uriah Hall", 
+                            "rank": "12"
+                        }
+                    ], 
+                    "champ": "Michael Bisping", 
+                    "title": "Middleweight"
+                }, 
+                {
+                    "champUrl": "Daniel Cormier", 
+                    "fighters": [
+                        {
+                            "url": "Daniel Cormier", 
+                            "name": "Daniel Cormier", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Anthony-Johnson", 
+                            "name": "Anthony Johnson", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Alexander-Gustafsson", 
+                            "name": "Alexander Gustafsson", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Glover-Teixeira", 
+                            "name": "Glover Teixeira", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Ryan-Bader", 
+                            "name": "Ryan Bader", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Jimi-Manuwa", 
+                            "name": "Jimi Manuwa", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Ovince-St-Preux", 
+                            "name": "Ovince Saint Preux", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Mauricio-Rua", 
+                            "name": "Mauricio Rua", 
+                            "rank": "7"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Nikita-Krylov", 
+                            "name": "Nikita Krylov", 
+                            "rank": "8"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/corey-anderson", 
+                            "name": "Corey Anderson", 
+                            "rank": "9"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Antonio-Rogerio-Nogueira", 
+                            "name": "Rogerio Nogueira", 
+                            "rank": "10"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Ilir-Latifi", 
+                            "name": "Ilir Latifi", 
+                            "rank": "11"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Patrick-Cummins", 
+                            "name": "Patrick Cummins", 
+                            "rank": "12"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/misha-cirkunov", 
+                            "name": "Misha Cirkunov", 
+                            "rank": "13"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Gian-Villante", 
+                            "name": "Gian Villante", 
+                            "rank": "14"
+                        }
+                    ], 
+                    "champ": "Daniel Cormier", 
+                    "title": "Light Heavyweight"
+                }, 
+                {
+                    "champUrl": "Stipe Miocic", 
+                    "fighters": [
+                        {
+                            "url": "Stipe Miocic", 
+                            "name": "Stipe Miocic", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Fabricio-Werdum", 
+                            "name": "Fabricio Werdum", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Cain-Velasquez", 
+                            "name": "Cain Velasquez", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Alistair-Overeem", 
+                            "name": "Alistair Overeem", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Junior-Dos-Santos", 
+                            "name": "Junior Dos Santos", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Ben-Rothwell", 
+                            "name": "Ben Rothwell", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Josh-Barnett", 
+                            "name": "Josh Barnett", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/mark-hunt", 
+                            "name": "Mark Hunt", 
+                            "rank": "7"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Andrei-Arlovski", 
+                            "name": "Andrei Arlovski", 
+                            "rank": "8"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Travis-Browne", 
+                            "name": "Travis Browne", 
+                            "rank": "9"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Derrick-Lewis", 
+                            "name": "Derrick Lewis", 
+                            "rank": "10"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Stefan-Struve", 
+                            "name": "Stefan Struve", 
+                            "rank": "11"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/francis-ngannou", 
+                            "name": "Francis Ngannou", 
+                            "rank": "12"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/alexander-volkov", 
+                            "name": "Alexander Volkov", 
+                            "rank": "13"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Daniel-Omielanczuk", 
+                            "name": "Daniel Omielanczuk", 
+                            "rank": "14"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/shamil-abdurakhimov", 
+                            "name": "Shamil Abdurakhimov", 
+                            "rank": "15"
+                        }
+                    ], 
+                    "champ": "Stipe Miocic", 
+                    "title": "Heavyweight"
+                }, 
+                {
+                    "champUrl": "Joanna Jedrzejczyk", 
+                    "fighters": [
+                        {
+                            "url": "Joanna Jedrzejczyk", 
+                            "name": "Joanna Jedrzejczyk", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Claudia-Gadelha", 
+                            "name": "Claudia Gadelha", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/karolina-kowalkiewicz", 
+                            "name": "Karolina Kowalkiewicz", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Carla-Esparza", 
+                            "name": "Carla Esparza", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Rose-Namajunas", 
+                            "name": "Rose Namajunas", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Jessica-Andrade", 
+                            "name": "Jessica Andrade", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Tecia-Torres", 
+                            "name": "Tecia Torres", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Joanne-Calderwood", 
+                            "name": "Joanne Calderwood", 
+                            "rank": "7"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/paige-vanzant", 
+                            "name": "Paige VanZant", 
+                            "rank": "8"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Valerie-Letourneau", 
+                            "name": "Valerie Letourneau", 
+                            "rank": "9"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/maryna-moroz", 
+                            "name": "Maryna Moroz", 
+                            "rank": "10"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/jessica-aguilar", 
+                            "name": "Jessica Aguilar", 
+                            "rank": "11"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/michelle-waterson", 
+                            "name": "Michelle Waterson", 
+                            "rank": "12"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Jessica-Penne", 
+                            "name": "Jessica Penne", 
+                            "rank": "13"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/alexa-grasso", 
+                            "name": "Alexa Grasso", 
+                            "rank": "14"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Juliana-Lima", 
+                            "name": "Juliana Lima", 
+                            "rank": "15"
+                        }
+                    ], 
+                    "champ": "Joanna Jedrzejczyk", 
+                    "title": "Women's Strawweight"
+                }, 
+                {
+                    "champUrl": "Amanda Nunes", 
+                    "fighters": [
+                        {
+                            "url": "Amanda Nunes", 
+                            "name": "Amanda Nunes", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Ronda-Rousey", 
+                            "name": "Ronda Rousey", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Valentina-Shevchenko", 
+                            "name": "Valentina Shevchenko", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Julianna-Pena", 
+                            "name": "Julianna Pena", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/holly-holm", 
+                            "name": "Holly Holm", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Raquel-Pennington", 
+                            "name": "Raquel Pennington", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Cat-Zingano", 
+                            "name": "Cat Zingano", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Sara-McMann", 
+                            "name": "Sara McMann", 
+                            "rank": "7"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Liz-Carmouche", 
+                            "name": "Liz Carmouche", 
+                            "rank": "8"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Bethe-Correia", 
+                            "name": "Bethe Correia", 
+                            "rank": "9"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Miesha-Tate", 
+                            "name": "Miesha Tate", 
+                            "rank": "10"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Germaine-DeRandamie", 
+                            "name": "Germaine de Randamie", 
+                            "rank": "11"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/ashlee-evans-smith", 
+                            "name": "Ashlee Evans-Smith", 
+                            "rank": "12"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/marion-reneau", 
+                            "name": "Marion Reneau", 
+                            "rank": "13"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Jessica-Eye", 
+                            "name": "Jessica Eye", 
+                            "rank": "14"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Alexis-Davis", 
+                            "name": "Alexis Davis", 
+                            "rank": "15"
+                        }
+                    ], 
+                    "champ": "Amanda Nunes", 
+                    "title": "Women's Bantamweight"
+                }
+            ]
+        }, 
+        {
+            "url": "http://web.archive.org/web/20160101054458/http://www.ufc.com/rankings", 
+            "date": [
+                "Fri", 
+                "Jan", 
+                "01", 
+                "00:00:00", 
+                "UTC", 
+                "2016"
+            ], 
+            "displayDate": "Jan 2016", 
+            "divisions": [
+                {
+                    "champUrl": "", 
+                    "fighters": [
+                        {
+                            "url": "", 
+                            "name": "", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20160101054458/http://www.ufc.com/fighter/Demetrious-Johnson", 
+                            "name": "Demetrious Johnson", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20160101054458/http://www.ufc.com/fighter/Jon-Jones", 
+                            "name": "Jon Jones", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20160101054458/http://www.ufc.com/fighter/Conor-McGregor", 
+                            "name": "Conor McGregor", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20160101054458/http://www.ufc.com/fighter/TJ-Dillashaw", 
+                            "name": "TJ Dillashaw", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20160101054458/http://www.ufc.com/fighter/Fabricio-Werdum", 
+                            "name": "Fabricio Werdum", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20160101054458/http://www.ufc.com/fighter/Robbie-Lawler", 
+                            "name": "Robbie Lawler", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20160101054458/http://www.ufc.com/fighter/Jose-Aldo", 
+                            "name": "Jose Aldo", 
+                            "rank": "7"
+                        }
+                    ], 
+                    "champ": "", 
+                    "title": "Pound-for-Pound"
+                }, 
+                {
+                    "champUrl": "Demetrious Johnson", 
+                    "fighters": [
+                        {
+                            "url": "Demetrious Johnson", 
+                            "name": "Demetrious Johnson", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20160101054458/http://www.ufc.com/fighter/Joseph-Benavidez", 
+                            "name": "Joseph Benavidez", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20160101054458/http://www.ufc.com/fighter/John-Dodson", 
+                            "name": "John Dodson", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20160101054458/http://www.ufc.com/fighter/Henry-Cejudo", 
+                            "name": "Henry Cejudo", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20160101054458/http://www.ufc.com/fighter/Ian-McCall", 
+                            "name": "Ian McCall", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20160101054458/http://www.ufc.com/fighter/jussier-formiga", 
+                            "name": "Jussier Formiga", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20160101054458/http://www.ufc.com/fighter/Kyoji-Horiguchi", 
+                            "name": "Kyoji Horiguchi", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20160101054458/http://www.ufc.com/fighter/John-Moraga", 
+                            "name": "John Moraga", 
+                            "rank": "7"
+                        }, 
+                        {
+                            "url": "/web/20160101054458/http://www.ufc.com/fighter/Zach-Makovsky", 
+                            "name": "Zach Makovsky", 
+                            "rank": "8"
+                        }, 
+                        {
+                            "url": "/web/20160101054458/http://www.ufc.com/fighter/Dustin-Ortiz", 
+                            "name": "Dustin Ortiz", 
+                            "rank": "9"
+                        }, 
+                        {
+                            "url": "/web/20160101054458/http://www.ufc.com/fighter/Ray-Borg", 
+                            "name": "Ray Borg", 
+                            "rank": "10"
+                        }, 
+                        {
+                            "url": "/web/20160101054458/http://www.ufc.com/fighter/Wilson-Reis", 
+                            "name": "Wilson Reis", 
+                            "rank": "11"
+                        }, 
+                        {
+                            "url": "/web/20160101054458/http://www.ufc.com/fighter/Ali-Bagautinov", 
+                            "name": "Ali Bagautinov", 
+                            "rank": "12"
+                        }, 
+                        {
+                            "url": "/web/20160101054458/http://www.ufc.com/fighter/Louis-Smolka", 
+                            "name": "Louis Smolka", 
+                            "rank": "13"
+                        }, 
+                        {
+                            "url": "/web/20160101054458/http://www.ufc.com/fighter/Chris-Cariaso", 
+                            "name": "Chris Cariaso", 
+                            "rank": "14"
+                        }, 
+                        {
+                            "url": "/web/20160101054458/http://www.ufc.com/fighter/Sergio-Pettis", 
+                            "name": "Sergio Pettis", 
+                            "rank": "15"
+                        }
+                    ], 
+                    "champ": "Demetrious Johnson", 
+                    "title": "Flyweight"
+                }, 
+                {
+                    "champUrl": "TJ Dillashaw", 
+                    "fighters": [
+                        {
+                            "url": "TJ Dillashaw", 
+                            "name": "TJ Dillashaw", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20160101054458/http://www.ufc.com/fighter/Dominick-Cruz", 
+                            "name": "Dominick Cruz", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20160101054458/http://www.ufc.com/fighter/Renan-Barao", 
+                            "name": "Renan Barao", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20160101054458/http://www.ufc.com/fighter/Urijah-Faber", 
+                            "name": "Urijah Faber", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20160101054458/http://www.ufc.com/fighter/Raphael-Assuncao", 
+                            "name": "Raphael Assuncao", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20160101054458/http://www.ufc.com/fighter/Aljamain-Sterling", 
+                            "name": "Aljamain Sterling", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20160101054458/http://www.ufc.com/fighter/thomas-almeida", 
+                            "name": "Thomas Almeida", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20160101054458/http://www.ufc.com/fighter/Bryan-Caraway", 
+                            "name": "Bryan Caraway", 
+                            "rank": "7"
+                        }
+                    ], 
+                    "champ": "TJ Dillashaw", 
+                    "title": "Bantamweight"
+                }, 
+                {
+                    "champUrl": "Conor McGregor", 
+                    "fighters": [
+                        {
+                            "url": "Conor McGregor", 
+                            "name": "Conor McGregor", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20160101054458/http://www.ufc.com/fighter/Jose-Aldo", 
+                            "name": "Jose Aldo", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20160101054458/http://www.ufc.com/fighter/Frankie-Edgar", 
+                            "name": "Frankie Edgar", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20160101054458/http://www.ufc.com/fighter/Chad-Mendes", 
+                            "name": "Chad Mendes", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20160101054458/http://www.ufc.com/fighter/Max-Holloway", 
+                            "name": "Max Holloway", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20160101054458/http://www.ufc.com/fighter/Ricardo-Lamas", 
+                            "name": "Ricardo Lamas", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20160101054458/http://www.ufc.com/fighter/Cub-Swanson", 
+                            "name": "Cub Swanson", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20160101054458/http://www.ufc.com/fighter/Charles-Oliveira", 
+                            "name": "Charles Oliveira", 
+                            "rank": "7"
+                        }, 
+                        {
+                            "url": "/web/20160101054458/http://www.ufc.com/fighter/Dennis-Bermudez", 
+                            "name": "Dennis Bermudez", 
+                            "rank": "8"
+                        }, 
+                        {
+                            "url": "/web/20160101054458/http://www.ufc.com/fighter/Jeremy-Stephens", 
+                            "name": "Jeremy Stephens", 
+                            "rank": "9"
+                        }, 
+                        {
+                            "url": "/web/20160101054458/http://www.ufc.com/fighter/Hacran-Dias", 
+                            "name": "Hacran Dias", 
+                            "rank": "10"
+                        }
+                    ], 
+                    "champ": "Conor McGregor", 
+                    "title": "Featherweight"
+                }, 
+                {
+                    "champUrl": "Rafael dos Anjos", 
+                    "fighters": [
+                        {
+                            "url": "Rafael dos Anjos", 
+                            "name": "Rafael dos Anjos", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20160101054458/http://www.ufc.com/fighter/Anthony-Pettis", 
+                            "name": "Anthony Pettis", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20160101054458/http://www.ufc.com/fighter/Khabib-Nurmagomedov", 
+                            "name": "Khabib Nurmagomedov", 
+                            "rank": "2"
+                        }
+                    ], 
+                    "champ": "Rafael dos Anjos", 
+                    "title": "Lightweight"
+                }, 
+                {
+                    "champUrl": "Robbie Lawler", 
+                    "fighters": [
+                        {
+                            "url": "Robbie Lawler", 
+                            "name": "Robbie Lawler", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20160101054458/http://www.ufc.com/fighter/Rory-MacDonald", 
+                            "name": "Rory MacDonald", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20160101054458/http://www.ufc.com/fighter/Tyron-Woodley", 
+                            "name": "Tyron Woodley", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20160101054458/http://www.ufc.com/fighter/Johny-Hendricks", 
+                            "name": "Johny Hendricks", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20160101054458/http://www.ufc.com/fighter/Carlos-Condit", 
+                            "name": "Carlos Condit", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20160101054458/http://www.ufc.com/fighter/Demian-Maia", 
+                            "name": "Demian Maia", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20160101054458/http://www.ufc.com/fighter/Matt-Brown", 
+                            "name": "Matt Brown", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20160101054458/http://www.ufc.com/fighter/Dong-Hyun-Kim", 
+                            "name": "Dong Hyun Kim", 
+                            "rank": "7"
+                        }, 
+                        {
+                            "url": "/web/20160101054458/http://www.ufc.com/fighter/Stephen-Thompson", 
+                            "name": "Stephen Thompson", 
+                            "rank": "8"
+                        }, 
+                        {
+                            "url": "/web/20160101054458/http://www.ufc.com/fighter/Neil-Magny", 
+                            "name": "Neil Magny", 
+                            "rank": "9"
+                        }, 
+                        {
+                            "url": "/web/20160101054458/http://www.ufc.com/fighter/Tarec-Saffiedine", 
+                            "name": "Tarec Saffiedine", 
+                            "rank": "10"
+                        }, 
+                        {
+                            "url": "/web/20160101054458/http://www.ufc.com/fighter/Rick-Story", 
+                            "name": "Rick Story", 
+                            "rank": "11"
+                        }, 
+                        {
+                            "url": "/web/20160101054458/http://www.ufc.com/fighter/Kelvin-Gastelum", 
+                            "name": "Kelvin Gastelum", 
+                            "rank": "12"
+                        }, 
+                        {
+                            "url": "/web/20160101054458/http://www.ufc.com/fighter/Benson-Henderson", 
+                            "name": "Benson Henderson", 
+                            "rank": "13"
+                        }, 
+                        {
+                            "url": "/web/20160101054458/http://www.ufc.com/fighter/Gunnar-Nelson", 
+                            "name": "Gunnar Nelson", 
+                            "rank": "14"
+                        }, 
+                        {
+                            "url": "/web/20160101054458/http://www.ufc.com/fighter/Thiago-Alves", 
+                            "name": "Thiago Alves", 
+                            "rank": "15"
+                        }
+                    ], 
+                    "champ": "Robbie Lawler", 
+                    "title": "Welterweight"
+                }, 
+                {
+                    "champUrl": "Luke Rockhold", 
+                    "fighters": [
+                        {
+                            "url": "Luke Rockhold", 
+                            "name": "Luke Rockhold", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20160101054458/http://www.ufc.com/fighter/Chris-Weidman", 
+                            "name": "Chris Weidman", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20160101054458/http://www.ufc.com/fighter/Yoel-Romero", 
+                            "name": "Yoel Romero", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20160101054458/http://www.ufc.com/fighter/Ronaldo-Souza", 
+                            "name": "Jacare Souza", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20160101054458/http://www.ufc.com/fighter/Vitor-Belfort", 
+                            "name": "Vitor Belfort", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20160101054458/http://www.ufc.com/fighter/Lyoto-Machida", 
+                            "name": "Lyoto Machida", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20160101054458/http://www.ufc.com/fighter/Tim-Kennedy", 
+                            "name": "Tim Kennedy", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20160101054458/http://www.ufc.com/fighter/Michael-Bisping", 
+                            "name": "Michael Bisping", 
+                            "rank": "7"
+                        }, 
+                        {
+                            "url": "/web/20160101054458/http://www.ufc.com/fighter/robert-whittaker", 
+                            "name": "Robert Whittaker", 
+                            "rank": "8"
+                        }, 
+                        {
+                            "url": "/web/20160101054458/http://www.ufc.com/fighter/Gegard-Mousasi", 
+                            "name": "Gegard Mousasi", 
+                            "rank": "9"
+                        }, 
+                        {
+                            "url": "/web/20160101054458/http://www.ufc.com/fighter/Thales-Leites", 
+                            "name": "Thales Leites", 
+                            "rank": "10"
+                        }, 
+                        {
+                            "url": "/web/20160101054458/http://www.ufc.com/fighter/Uriah-Hall", 
+                            "name": "Uriah Hall", 
+                            "rank": "11"
+                        }, 
+                        {
+                            "url": "/web/20160101054458/http://www.ufc.com/fighter/Derek-Brunson", 
+                            "name": "Derek Brunson", 
+                            "rank": "12"
+                        }
+                    ], 
+                    "champ": "Luke Rockhold", 
+                    "title": "Middleweight"
+                }, 
+                {
+                    "champUrl": "Daniel Cormier", 
+                    "fighters": [
+                        {
+                            "url": "Daniel Cormier", 
+                            "name": "Daniel Cormier", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20160101054458/http://www.ufc.com/fighter/Jon-Jones", 
+                            "name": "Jon Jones", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20160101054458/http://www.ufc.com/fighter/Anthony-Johnson", 
+                            "name": "Anthony Johnson", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20160101054458/http://www.ufc.com/fighter/Alexander-Gustafsson", 
+                            "name": "Alexander Gustafsson", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20160101054458/http://www.ufc.com/fighter/Ryan-Bader", 
+                            "name": "Ryan Bader", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20160101054458/http://www.ufc.com/fighter/Glover-Teixeira", 
+                            "name": "Glover Teixeira", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20160101054458/http://www.ufc.com/fighter/Ovince-St-Preux", 
+                            "name": "Ovince Saint Preux", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20160101054458/http://www.ufc.com/fighter/Rashad-Evans", 
+                            "name": "Rashad Evans", 
+                            "rank": "7"
+                        }, 
+                        {
+                            "url": "/web/20160101054458/http://www.ufc.com/fighter/Mauricio-Rua", 
+                            "name": "Mauricio Rua", 
+                            "rank": "8"
+                        }, 
+                        {
+                            "url": "/web/20160101054458/http://www.ufc.com/fighter/Jimi-Manuwa", 
+                            "name": "Jimi Manuwa", 
+                            "rank": "9"
+                        }, 
+                        {
+                            "url": "/web/20160101054458/http://www.ufc.com/fighter/Quinton-Jackson", 
+                            "name": "Rampage Jackson", 
+                            "rank": "10"
+                        }, 
+                        {
+                            "url": "/web/20160101054458/http://www.ufc.com/fighter/Antonio-Rogerio-Nogueira", 
+                            "name": "Antonio Rogerio Nogueira", 
+                            "rank": "11"
+                        }, 
+                        {
+                            "url": "/web/20160101054458/http://www.ufc.com/fighter/Patrick-Cummins", 
+                            "name": "Patrick Cummins", 
+                            "rank": "12"
+                        }, 
+                        {
+                            "url": "/web/20160101054458/http://www.ufc.com/fighter/corey-anderson", 
+                            "name": "Corey Anderson", 
+                            "rank": "13"
+                        }, 
+                        {
+                            "url": "/web/20160101054458/http://www.ufc.com/fighter/Rafael-Cavalcante", 
+                            "name": "Rafael Cavalcante", 
+                            "rank": "14"
+                        }, 
+                        {
+                            "url": "/web/20160101054458/http://www.ufc.com/fighter/Gian-Villante", 
+                            "name": "Gian Villante", 
+                            "rank": "15"
+                        }
+                    ], 
+                    "champ": "Daniel Cormier", 
+                    "title": "Light Heavyweight"
+                }, 
+                {
+                    "champUrl": "Fabricio Werdum", 
+                    "fighters": [
+                        {
+                            "url": "Fabricio Werdum", 
+                            "name": "Fabricio Werdum", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20160101054458/http://www.ufc.com/fighter/Cain-Velasquez", 
+                            "name": "Cain Velasquez", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20160101054458/http://www.ufc.com/fighter/Andrei-Arlovski", 
+                            "name": "Andrei Arlovski", 
+                            "rank": "2"
+                        }
+                    ], 
+                    "champ": "Fabricio Werdum", 
+                    "title": "Heavyweight"
+                }, 
+                {
+                    "champUrl": "Joanna Jedrzejczyk", 
+                    "fighters": [
+                        {
+                            "url": "Joanna Jedrzejczyk", 
+                            "name": "Joanna Jedrzejczyk", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20160101054458/http://www.ufc.com/fighter/Claudia-Gadelha", 
+                            "name": "Claudia Gadelha", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20160101054458/http://www.ufc.com/fighter/Carla-Esparza", 
+                            "name": "Carla Esparza", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20160101054458/http://www.ufc.com/fighter/Rose-Namajunas", 
+                            "name": "Rose Namajunas", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20160101054458/http://www.ufc.com/fighter/Tecia-Torres", 
+                            "name": "Tecia Torres", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20160101054458/http://www.ufc.com/fighter/Jessica-Penne", 
+                            "name": "Jessica Penne", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20160101054458/http://www.ufc.com/fighter/Valerie-Letourneau", 
+                            "name": "Valerie Letourneau", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20160101054458/http://www.ufc.com/fighter/paige-vanzant", 
+                            "name": "Paige VanZant", 
+                            "rank": "7"
+                        }
+                    ], 
+                    "champ": "Joanna Jedrzejczyk", 
+                    "title": "Women's Strawweight"
+                }, 
+                {
+                    "champUrl": "Holly Holm", 
+                    "fighters": [
+                        {
+                            "url": "Holly Holm", 
+                            "name": "Holly Holm", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20160101054458/http://www.ufc.com/fighter/Ronda-Rousey", 
+                            "name": "Ronda Rousey", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20160101054458/http://www.ufc.com/fighter/Miesha-Tate", 
+                            "name": "Miesha Tate", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20160101054458/http://www.ufc.com/fighter/Cat-Zingano", 
+                            "name": "Cat Zingano", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20160101054458/http://www.ufc.com/fighter/Amanda-Nunes", 
+                            "name": "Amanda Nunes", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20160101054458/http://www.ufc.com/fighter/Julianna-Pena", 
+                            "name": "Julianna Pena", 
+                            "rank": "5"
+                        }
+                    ], 
+                    "champ": "Holly Holm", 
+                    "title": "Women's Bantamweight"
+                }
+            ]
+        }, 
+        {
+            "url": "http://web.archive.org/web/20160201225546/http://www.ufc.com/rankings", 
+            "date": [
+                "Mon", 
+                "Feb", 
+                "01", 
+                "00:00:00", 
+                "UTC", 
+                "2016"
+            ], 
+            "displayDate": "Feb 2016", 
+            "divisions": [
+                {
+                    "champUrl": "", 
+                    "fighters": [
+                        {
+                            "url": "", 
+                            "name": "", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20160201225546/http://www.ufc.com/fighter/Jon-Jones", 
+                            "name": "Jon Jones", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20160201225546/http://www.ufc.com/fighter/Demetrious-Johnson", 
+                            "name": "Demetrious Johnson", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20160201225546/http://www.ufc.com/fighter/Conor-McGregor", 
+                            "name": "Conor McGregor", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20160201225546/http://www.ufc.com/fighter/Robbie-Lawler", 
+                            "name": "Robbie Lawler", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20160201225546/http://www.ufc.com/fighter/Fabricio-Werdum", 
+                            "name": "Fabricio Werdum", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20160201225546/http://www.ufc.com/fighter/Rafael-Dos-Anjos", 
+                            "name": "Rafael dos Anjos", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20160201225546/http://www.ufc.com/fighter/Luke-Rockhold", 
+                            "name": "Luke Rockhold", 
+                            "rank": "7"
+                        }, 
+                        {
+                            "url": "/web/20160201225546/http://www.ufc.com/fighter/Dominick-Cruz", 
+                            "name": "Dominick Cruz", 
+                            "rank": "8"
+                        }
+                    ], 
+                    "champ": "", 
+                    "title": "Pound-for-Pound"
+                }, 
+                {
+                    "champUrl": "Demetrious Johnson", 
+                    "fighters": [
+                        {
+                            "url": "Demetrious Johnson", 
+                            "name": "Demetrious Johnson", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20160201225546/http://www.ufc.com/fighter/Joseph-Benavidez", 
+                            "name": "Joseph Benavidez", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20160201225546/http://www.ufc.com/fighter/John-Dodson", 
+                            "name": "John Dodson", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20160201225546/http://www.ufc.com/fighter/Henry-Cejudo", 
+                            "name": "Henry Cejudo", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20160201225546/http://www.ufc.com/fighter/Ian-McCall", 
+                            "name": "Ian McCall", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20160201225546/http://www.ufc.com/fighter/jussier-formiga", 
+                            "name": "Jussier Formiga", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20160201225546/http://www.ufc.com/fighter/Kyoji-Horiguchi", 
+                            "name": "Kyoji Horiguchi", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20160201225546/http://www.ufc.com/fighter/John-Moraga", 
+                            "name": "John Moraga", 
+                            "rank": "7"
+                        }, 
+                        {
+                            "url": "/web/20160201225546/http://www.ufc.com/fighter/Zach-Makovsky", 
+                            "name": "Zach Makovsky", 
+                            "rank": "8"
+                        }, 
+                        {
+                            "url": "/web/20160201225546/http://www.ufc.com/fighter/Wilson-Reis", 
+                            "name": "Wilson Reis", 
+                            "rank": "9"
+                        }
+                    ], 
+                    "champ": "Demetrious Johnson", 
+                    "title": "Flyweight"
+                }, 
+                {
+                    "champUrl": "Dominick Cruz", 
+                    "fighters": [
+                        {
+                            "url": "Dominick Cruz", 
+                            "name": "Dominick Cruz", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20160201225546/http://www.ufc.com/fighter/TJ-Dillashaw", 
+                            "name": "TJ Dillashaw", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20160201225546/http://www.ufc.com/fighter/Renan-Barao", 
+                            "name": "Renan Barao", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20160201225546/http://www.ufc.com/fighter/Urijah-Faber", 
+                            "name": "Urijah Faber", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20160201225546/http://www.ufc.com/fighter/Raphael-Assuncao", 
+                            "name": "Raphael Assuncao", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20160201225546/http://www.ufc.com/fighter/Aljamain-Sterling", 
+                            "name": "Aljamain Sterling", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20160201225546/http://www.ufc.com/fighter/Michael-McDonald", 
+                            "name": "Michael McDonald", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20160201225546/http://www.ufc.com/fighter/thomas-almeida", 
+                            "name": "Thomas Almeida", 
+                            "rank": "7"
+                        }, 
+                        {
+                            "url": "/web/20160201225546/http://www.ufc.com/fighter/Bryan-Caraway", 
+                            "name": "Bryan Caraway", 
+                            "rank": "8"
+                        }
+                    ], 
+                    "champ": "Dominick Cruz", 
+                    "title": "Bantamweight"
+                }, 
+                {
+                    "champUrl": "Conor McGregor", 
+                    "fighters": [
+                        {
+                            "url": "Conor McGregor", 
+                            "name": "Conor McGregor", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20160201225546/http://www.ufc.com/fighter/Jose-Aldo", 
+                            "name": "Jose Aldo", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20160201225546/http://www.ufc.com/fighter/Frankie-Edgar", 
+                            "name": "Frankie Edgar", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20160201225546/http://www.ufc.com/fighter/Chad-Mendes", 
+                            "name": "Chad Mendes", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20160201225546/http://www.ufc.com/fighter/Max-Holloway", 
+                            "name": "Max Holloway", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20160201225546/http://www.ufc.com/fighter/Ricardo-Lamas", 
+                            "name": "Ricardo Lamas", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20160201225546/http://www.ufc.com/fighter/Cub-Swanson", 
+                            "name": "Cub Swanson", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20160201225546/http://www.ufc.com/fighter/Charles-Oliveira", 
+                            "name": "Charles Oliveira", 
+                            "rank": "7"
+                        }, 
+                        {
+                            "url": "/web/20160201225546/http://www.ufc.com/fighter/Dennis-Bermudez", 
+                            "name": "Dennis Bermudez", 
+                            "rank": "8"
+                        }, 
+                        {
+                            "url": "/web/20160201225546/http://www.ufc.com/fighter/Jeremy-Stephens", 
+                            "name": "Jeremy Stephens", 
+                            "rank": "9"
+                        }, 
+                        {
+                            "url": "/web/20160201225546/http://www.ufc.com/fighter/Hacran-Dias", 
+                            "name": "Hacran Dias", 
+                            "rank": "10"
+                        }, 
+                        {
+                            "url": "/web/20160201225546/http://www.ufc.com/fighter/Darren-Elkins", 
+                            "name": "Darren Elkins", 
+                            "rank": "11"
+                        }, 
+                        {
+                            "url": "/web/20160201225546/http://www.ufc.com/fighter/Tatsuya-Kawajiri", 
+                            "name": "Tatsuya Kawajiri", 
+                            "rank": "12"
+                        }, 
+                        {
+                            "url": "/web/20160201225546/http://www.ufc.com/fighter/Brian-Ortega", 
+                            "name": "Brian Ortega", 
+                            "rank": "13"
+                        }, 
+                        {
+                            "url": "/web/20160201225546/http://www.ufc.com/fighter/Clay-Guida", 
+                            "name": "Clay Guida", 
+                            "rank": "14"
+                        }, 
+                        {
+                            "url": "/web/20160201225546/http://www.ufc.com/fighter/Nik-Lentz", 
+                            "name": "Nik Lentz", 
+                            "rank": "15"
+                        }
+                    ], 
+                    "champ": "Conor McGregor", 
+                    "title": "Featherweight"
+                }, 
+                {
+                    "champUrl": "Rafael dos Anjos", 
+                    "fighters": [
+                        {
+                            "url": "Rafael dos Anjos", 
+                            "name": "Rafael dos Anjos", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20160201225546/http://www.ufc.com/fighter/eddie-alvarez", 
+                            "name": "Eddie Alvarez", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20160201225546/http://www.ufc.com/fighter/Khabib-Nurmagomedov", 
+                            "name": "Khabib Nurmagomedov", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20160201225546/http://www.ufc.com/fighter/Anthony-Pettis", 
+                            "name": "Anthony Pettis", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20160201225546/http://www.ufc.com/fighter/Donald-Cerrone", 
+                            "name": "Donald Cerrone", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20160201225546/http://www.ufc.com/fighter/Tony-Ferguson", 
+                            "name": "Tony Ferguson", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20160201225546/http://www.ufc.com/fighter/Nate-Diaz", 
+                            "name": "Nate Diaz", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20160201225546/http://www.ufc.com/fighter/Michael-Johnson", 
+                            "name": "Michael Johnson", 
+                            "rank": "7"
+                        }, 
+                        {
+                            "url": "/web/20160201225546/http://www.ufc.com/fighter/Beneil-Dariush", 
+                            "name": "Beneil Dariush", 
+                            "rank": "8"
+                        }, 
+                        {
+                            "url": "/web/20160201225546/http://www.ufc.com/fighter/Edson-Barboza", 
+                            "name": "Edson Barboza", 
+                            "rank": "9"
+                        }, 
+                        {
+                            "url": "/web/20160201225546/http://www.ufc.com/fighter/Al-Iaquinta", 
+                            "name": "Al Iaquinta", 
+                            "rank": "10"
+                        }, 
+                        {
+                            "url": "/web/20160201225546/http://www.ufc.com/fighter/Bobby-Green", 
+                            "name": "Bobby Green", 
+                            "rank": "11"
+                        }, 
+                        {
+                            "url": "/web/20160201225546/http://www.ufc.com/fighter/Dustin-Poirier", 
+                            "name": "Dustin Poirier", 
+                            "rank": "12"
+                        }, 
+                        {
+                            "url": "/web/20160201225546/http://www.ufc.com/fighter/Michael-Chiesa", 
+                            "name": "Michael Chiesa", 
+                            "rank": "13"
+                        }, 
+                        {
+                            "url": "/web/20160201225546/http://www.ufc.com/fighter/Evan-Dunham", 
+                            "name": "Evan Dunham", 
+                            "rank": "14"
+                        }, 
+                        {
+                            "url": "/web/20160201225546/http://www.ufc.com/fighter/Benson-Henderson", 
+                            "name": "Benson Henderson", 
+                            "rank": "15"
+                        }
+                    ], 
+                    "champ": "Rafael dos Anjos", 
+                    "title": "Lightweight"
+                }, 
+                {
+                    "champUrl": "Robbie Lawler", 
+                    "fighters": [
+                        {
+                            "url": "Robbie Lawler", 
+                            "name": "Robbie Lawler", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20160201225546/http://www.ufc.com/fighter/Rory-MacDonald", 
+                            "name": "Rory MacDonald", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20160201225546/http://www.ufc.com/fighter/Johny-Hendricks", 
+                            "name": "Johny Hendricks", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20160201225546/http://www.ufc.com/fighter/Tyron-Woodley", 
+                            "name": "Tyron Woodley", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20160201225546/http://www.ufc.com/fighter/Carlos-Condit", 
+                            "name": "Carlos Condit", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20160201225546/http://www.ufc.com/fighter/Demian-Maia", 
+                            "name": "Demian Maia", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20160201225546/http://www.ufc.com/fighter/Matt-Brown", 
+                            "name": "Matt Brown", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20160201225546/http://www.ufc.com/fighter/Dong-Hyun-Kim", 
+                            "name": "Dong Hyun Kim", 
+                            "rank": "7"
+                        }, 
+                        {
+                            "url": "/web/20160201225546/http://www.ufc.com/fighter/Stephen-Thompson", 
+                            "name": "Stephen Thompson", 
+                            "rank": "8"
+                        }, 
+                        {
+                            "url": "/web/20160201225546/http://www.ufc.com/fighter/Neil-Magny", 
+                            "name": "Neil Magny", 
+                            "rank": "8"
+                        }, 
+                        {
+                            "url": "/web/20160201225546/http://www.ufc.com/fighter/Tarec-Saffiedine", 
+                            "name": "Tarec Saffiedine", 
+                            "rank": "10"
+                        }
+                    ], 
+                    "champ": "Robbie Lawler", 
+                    "title": "Welterweight"
+                }, 
+                {
+                    "champUrl": "Luke Rockhold", 
+                    "fighters": [
+                        {
+                            "url": "Luke Rockhold", 
+                            "name": "Luke Rockhold", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20160201225546/http://www.ufc.com/fighter/Chris-Weidman", 
+                            "name": "Chris Weidman", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20160201225546/http://www.ufc.com/fighter/Ronaldo-Souza", 
+                            "name": "Jacare Souza", 
+                            "rank": "2"
+                        }
+                    ], 
+                    "champ": "Luke Rockhold", 
+                    "title": "Middleweight"
+                }, 
+                {
+                    "champUrl": "Daniel Cormier", 
+                    "fighters": [
+                        {
+                            "url": "Daniel Cormier", 
+                            "name": "Daniel Cormier", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20160201225546/http://www.ufc.com/fighter/Jon-Jones", 
+                            "name": "Jon Jones", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20160201225546/http://www.ufc.com/fighter/Anthony-Johnson", 
+                            "name": "Anthony Johnson", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20160201225546/http://www.ufc.com/fighter/Alexander-Gustafsson", 
+                            "name": "Alexander Gustafsson", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20160201225546/http://www.ufc.com/fighter/Glover-Teixeira", 
+                            "name": "Glover Teixeira", 
+                            "rank": "4"
+                        }
+                    ], 
+                    "champ": "Daniel Cormier", 
+                    "title": "Light Heavyweight"
+                }, 
+                {
+                    "champUrl": "Fabricio Werdum", 
+                    "fighters": [
+                        {
+                            "url": "Fabricio Werdum", 
+                            "name": "Fabricio Werdum", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20160201225546/http://www.ufc.com/fighter/Cain-Velasquez", 
+                            "name": "Cain Velasquez", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20160201225546/http://www.ufc.com/fighter/Stipe-Miocic", 
+                            "name": "Stipe Miocic", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20160201225546/http://www.ufc.com/fighter/Alistair-Overeem", 
+                            "name": "Alistair Overeem", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20160201225546/http://www.ufc.com/fighter/Andrei-Arlovski", 
+                            "name": "Andrei Arlovski", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20160201225546/http://www.ufc.com/fighter/Ben-Rothwell", 
+                            "name": "Ben Rothwell", 
+                            "rank": "5"
+                        }
+                    ], 
+                    "champ": "Fabricio Werdum", 
+                    "title": "Heavyweight"
+                }, 
+                {
+                    "champUrl": "Joanna Jedrzejczyk", 
+                    "fighters": [
+                        {
+                            "url": "Joanna Jedrzejczyk", 
+                            "name": "Joanna Jedrzejczyk", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20160201225546/http://www.ufc.com/fighter/Claudia-Gadelha", 
+                            "name": "Claudia Gadelha", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20160201225546/http://www.ufc.com/fighter/Carla-Esparza", 
+                            "name": "Carla Esparza", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20160201225546/http://www.ufc.com/fighter/Rose-Namajunas", 
+                            "name": "Rose Namajunas", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20160201225546/http://www.ufc.com/fighter/Tecia-Torres", 
+                            "name": "Tecia Torres", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20160201225546/http://www.ufc.com/fighter/Jessica-Penne", 
+                            "name": "Jessica Penne", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20160201225546/http://www.ufc.com/fighter/Valerie-Letourneau", 
+                            "name": "Valerie Letourneau", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20160201225546/http://www.ufc.com/fighter/paige-vanzant", 
+                            "name": "Paige VanZant", 
+                            "rank": "7"
+                        }, 
+                        {
+                            "url": "/web/20160201225546/http://www.ufc.com/fighter/Joanne-Calderwood", 
+                            "name": "Joanne Calderwood", 
+                            "rank": "8"
+                        }, 
+                        {
+                            "url": "/web/20160201225546/http://www.ufc.com/fighter/maryna-moroz", 
+                            "name": "Maryna Moroz", 
+                            "rank": "9"
+                        }, 
+                        {
+                            "url": "/web/20160201225546/http://www.ufc.com/fighter/michelle-waterson", 
+                            "name": "Michelle Waterson", 
+                            "rank": "10"
+                        }, 
+                        {
+                            "url": "/web/20160201225546/http://www.ufc.com/fighter/Randa-Markos", 
+                            "name": "Randa Markos", 
+                            "rank": "11"
+                        }, 
+                        {
+                            "url": "/web/20160201225546/http://www.ufc.com/fighter/karolina-kowalkiewicz", 
+                            "name": "Karolina Kowalkiewicz", 
+                            "rank": "12"
+                        }, 
+                        {
+                            "url": "/web/20160201225546/http://www.ufc.com/fighter/jessica-aguilar", 
+                            "name": "Jessica Aguilar", 
+                            "rank": "13"
+                        }, 
+                        {
+                            "url": "/web/20160201225546/http://www.ufc.com/fighter/Juliana-Lima", 
+                            "name": "Juliana Lima", 
+                            "rank": "14"
+                        }, 
+                        {
+                            "url": "/web/20160201225546/http://www.ufc.com/fighter/Felice-Herrig", 
+                            "name": "Felice Herrig", 
+                            "rank": "15"
+                        }
+                    ], 
+                    "champ": "Joanna Jedrzejczyk", 
+                    "title": "Women's Strawweight"
+                }, 
+                {
+                    "champUrl": "Holly Holm", 
+                    "fighters": [
+                        {
+                            "url": "Holly Holm", 
+                            "name": "Holly Holm", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20160201225546/http://www.ufc.com/fighter/Ronda-Rousey", 
+                            "name": "Ronda Rousey", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20160201225546/http://www.ufc.com/fighter/Miesha-Tate", 
+                            "name": "Miesha Tate", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20160201225546/http://www.ufc.com/fighter/Cat-Zingano", 
+                            "name": "Cat Zingano", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20160201225546/http://www.ufc.com/fighter/Amanda-Nunes", 
+                            "name": "Amanda Nunes", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20160201225546/http://www.ufc.com/fighter/Julianna-Pena", 
+                            "name": "Julianna Pena", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20160201225546/http://www.ufc.com/fighter/Sara-McMann", 
+                            "name": "Sara McMann", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20160201225546/http://www.ufc.com/fighter/Jessica-Eye", 
+                            "name": "Jessica Eye", 
+                            "rank": "7"
+                        }, 
+                        {
+                            "url": "/web/20160201225546/http://www.ufc.com/fighter/Bethe-Correia", 
+                            "name": "Bethe Correia", 
+                            "rank": "8"
+                        }, 
+                        {
+                            "url": "/web/20160201225546/http://www.ufc.com/fighter/Liz-Carmouche", 
+                            "name": "Liz Carmouche", 
+                            "rank": "9"
+                        }, 
+                        {
+                            "url": "/web/20160201225546/http://www.ufc.com/fighter/Sarah-Kaufman", 
+                            "name": "Sarah Kaufman", 
+                            "rank": "10"
+                        }, 
+                        {
+                            "url": "/web/20160201225546/http://www.ufc.com/fighter/Valentina-Shevchenko", 
+                            "name": "Valentina Shevchenko", 
+                            "rank": "11"
+                        }, 
+                        {
+                            "url": "/web/20160201225546/http://www.ufc.com/fighter/marion-reneau", 
+                            "name": "Marion Reneau", 
+                            "rank": "12"
+                        }, 
+                        {
+                            "url": "/web/20160201225546/http://www.ufc.com/fighter/Raquel-Pennington", 
+                            "name": "Raquel Pennington", 
+                            "rank": "13"
+                        }, 
+                        {
+                            "url": "/web/20160201225546/http://www.ufc.com/fighter/Germaine-DeRandamie", 
+                            "name": "Germaine de Randamie", 
+                            "rank": "14"
+                        }, 
+                        {
+                            "url": "/web/20160201225546/http://www.ufc.com/fighter/Jessica-Andrade", 
+                            "name": "Jessica Andrade", 
+                            "rank": "15"
+                        }
+                    ], 
+                    "champ": "Holly Holm", 
+                    "title": "Women's Bantamweight"
+                }
+            ]
+        }, 
+        {
+            "url": "http://web.archive.org/web/20160302063617/http://www.ufc.com/rankings", 
+            "date": [
+                "Wed", 
+                "Mar", 
+                "02", 
+                "00:00:00", 
+                "UTC", 
+                "2016"
+            ], 
+            "displayDate": "Mar 2016", 
+            "divisions": [
+                {
+                    "champUrl": "", 
+                    "fighters": [
+                        {
+                            "url": "", 
+                            "name": "", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20160302063617/http://www.ufc.com/fighter/Jon-Jones", 
+                            "name": "Jon Jones", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20160302063617/http://www.ufc.com/fighter/Demetrious-Johnson", 
+                            "name": "Demetrious Johnson", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20160302063617/http://www.ufc.com/fighter/Conor-McGregor", 
+                            "name": "Conor McGregor", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20160302063617/http://www.ufc.com/fighter/Dominick-Cruz", 
+                            "name": "Dominick Cruz", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20160302063617/http://www.ufc.com/fighter/Luke-Rockhold", 
+                            "name": "Luke Rockhold", 
+                            "rank": "5"
+                        }
+                    ], 
+                    "champ": "", 
+                    "title": "Pound-for-Pound"
+                }, 
+                {
+                    "champUrl": "Demetrious Johnson", 
+                    "fighters": [
+                        {
+                            "url": "Demetrious Johnson", 
+                            "name": "Demetrious Johnson", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20160302063617/http://www.ufc.com/fighter/Joseph-Benavidez", 
+                            "name": "Joseph Benavidez", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20160302063617/http://www.ufc.com/fighter/John-Dodson", 
+                            "name": "John Dodson", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20160302063617/http://www.ufc.com/fighter/Henry-Cejudo", 
+                            "name": "Henry Cejudo", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20160302063617/http://www.ufc.com/fighter/jussier-formiga", 
+                            "name": "Jussier Formiga", 
+                            "rank": "4"
+                        }
+                    ], 
+                    "champ": "Demetrious Johnson", 
+                    "title": "Flyweight"
+                }, 
+                {
+                    "champUrl": "Dominick Cruz", 
+                    "fighters": [
+                        {
+                            "url": "Dominick Cruz", 
+                            "name": "Dominick Cruz", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20160302063617/http://www.ufc.com/fighter/TJ-Dillashaw", 
+                            "name": "TJ Dillashaw", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20160302063617/http://www.ufc.com/fighter/Renan-Barao", 
+                            "name": "Renan Barao", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20160302063617/http://www.ufc.com/fighter/Urijah-Faber", 
+                            "name": "Urijah Faber", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20160302063617/http://www.ufc.com/fighter/Raphael-Assuncao", 
+                            "name": "Raphael Assuncao", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20160302063617/http://www.ufc.com/fighter/Aljamain-Sterling", 
+                            "name": "Aljamain Sterling", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20160302063617/http://www.ufc.com/fighter/Michael-McDonald", 
+                            "name": "Michael McDonald", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20160302063617/http://www.ufc.com/fighter/thomas-almeida", 
+                            "name": "Thomas Almeida", 
+                            "rank": "7"
+                        }, 
+                        {
+                            "url": "/web/20160302063617/http://www.ufc.com/fighter/Bryan-Caraway", 
+                            "name": "Bryan Caraway", 
+                            "rank": "8"
+                        }, 
+                        {
+                            "url": "/web/20160302063617/http://www.ufc.com/fighter/Takeya-Mizugaki", 
+                            "name": "Takeya Mizugaki", 
+                            "rank": "9"
+                        }, 
+                        {
+                            "url": "/web/20160302063617/http://www.ufc.com/fighter/Johnny-Eduardo", 
+                            "name": "Johnny Eduardo", 
+                            "rank": "10"
+                        }, 
+                        {
+                            "url": "/web/20160302063617/http://www.ufc.com/fighter/jimmie-rivera", 
+                            "name": "Jimmie Rivera", 
+                            "rank": "11"
+                        }
+                    ], 
+                    "champ": "Dominick Cruz", 
+                    "title": "Bantamweight"
+                }, 
+                {
+                    "champUrl": "Conor McGregor", 
+                    "fighters": [
+                        {
+                            "url": "Conor McGregor", 
+                            "name": "Conor McGregor", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20160302063617/http://www.ufc.com/fighter/Jose-Aldo", 
+                            "name": "Jose Aldo", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20160302063617/http://www.ufc.com/fighter/Frankie-Edgar", 
+                            "name": "Frankie Edgar", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20160302063617/http://www.ufc.com/fighter/Chad-Mendes", 
+                            "name": "Chad Mendes", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20160302063617/http://www.ufc.com/fighter/Max-Holloway", 
+                            "name": "Max Holloway", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20160302063617/http://www.ufc.com/fighter/Ricardo-Lamas", 
+                            "name": "Ricardo Lamas", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20160302063617/http://www.ufc.com/fighter/Cub-Swanson", 
+                            "name": "Cub Swanson", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20160302063617/http://www.ufc.com/fighter/Charles-Oliveira", 
+                            "name": "Charles Oliveira", 
+                            "rank": "7"
+                        }, 
+                        {
+                            "url": "/web/20160302063617/http://www.ufc.com/fighter/Dennis-Bermudez", 
+                            "name": "Dennis Bermudez", 
+                            "rank": "8"
+                        }, 
+                        {
+                            "url": "/web/20160302063617/http://www.ufc.com/fighter/Jeremy-Stephens", 
+                            "name": "Jeremy Stephens", 
+                            "rank": "9"
+                        }, 
+                        {
+                            "url": "/web/20160302063617/http://www.ufc.com/fighter/Hacran-Dias", 
+                            "name": "Hacran Dias", 
+                            "rank": "10"
+                        }, 
+                        {
+                            "url": "/web/20160302063617/http://www.ufc.com/fighter/Darren-Elkins", 
+                            "name": "Darren Elkins", 
+                            "rank": "11"
+                        }, 
+                        {
+                            "url": "/web/20160302063617/http://www.ufc.com/fighter/Brian-Ortega", 
+                            "name": "Brian Ortega", 
+                            "rank": "12"
+                        }, 
+                        {
+                            "url": "/web/20160302063617/http://www.ufc.com/fighter/Tatsuya-Kawajiri", 
+                            "name": "Tatsuya Kawajiri", 
+                            "rank": "13"
+                        }, 
+                        {
+                            "url": "/web/20160302063617/http://www.ufc.com/fighter/Nik-Lentz", 
+                            "name": "Nik Lentz", 
+                            "rank": "14"
+                        }, 
+                        {
+                            "url": "/web/20160302063617/http://www.ufc.com/fighter/Clay-Guida", 
+                            "name": "Clay Guida", 
+                            "rank": "15"
+                        }
+                    ], 
+                    "champ": "Conor McGregor", 
+                    "title": "Featherweight"
+                }, 
+                {
+                    "champUrl": "Rafael Dos Anjos", 
+                    "fighters": [
+                        {
+                            "url": "Rafael Dos Anjos", 
+                            "name": "Rafael Dos Anjos", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20160302063617/http://www.ufc.com/fighter/eddie-alvarez", 
+                            "name": "Eddie Alvarez", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20160302063617/http://www.ufc.com/fighter/Khabib-Nurmagomedov", 
+                            "name": "Khabib Nurmagomedov", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20160302063617/http://www.ufc.com/fighter/Anthony-Pettis", 
+                            "name": "Anthony Pettis", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20160302063617/http://www.ufc.com/fighter/Tony-Ferguson", 
+                            "name": "Tony Ferguson", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20160302063617/http://www.ufc.com/fighter/Nate-Diaz", 
+                            "name": "Nate Diaz", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20160302063617/http://www.ufc.com/fighter/Michael-Johnson", 
+                            "name": "Michael Johnson", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20160302063617/http://www.ufc.com/fighter/Beneil-Dariush", 
+                            "name": "Beneil Dariush", 
+                            "rank": "7"
+                        }, 
+                        {
+                            "url": "/web/20160302063617/http://www.ufc.com/fighter/Edson-Barboza", 
+                            "name": "Edson Barboza", 
+                            "rank": "8"
+                        }, 
+                        {
+                            "url": "/web/20160302063617/http://www.ufc.com/fighter/Donald-Cerrone", 
+                            "name": "Donald Cerrone", 
+                            "rank": "9"
+                        }, 
+                        {
+                            "url": "/web/20160302063617/http://www.ufc.com/fighter/Al-Iaquinta", 
+                            "name": "Al Iaquinta", 
+                            "rank": "10"
+                        }, 
+                        {
+                            "url": "/web/20160302063617/http://www.ufc.com/fighter/Dustin-Poirier", 
+                            "name": "Dustin Poirier", 
+                            "rank": "10"
+                        }
+                    ], 
+                    "champ": "Rafael Dos Anjos", 
+                    "title": "Lightweight"
+                }, 
+                {
+                    "champUrl": "Robbie Lawler", 
+                    "fighters": [
+                        {
+                            "url": "Robbie Lawler", 
+                            "name": "Robbie Lawler", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20160302063617/http://www.ufc.com/fighter/Rory-MacDonald", 
+                            "name": "Rory MacDonald", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20160302063617/http://www.ufc.com/fighter/Stephen-Thompson", 
+                            "name": "Stephen Thompson", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20160302063617/http://www.ufc.com/fighter/Tyron-Woodley", 
+                            "name": "Tyron Woodley", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20160302063617/http://www.ufc.com/fighter/Carlos-Condit", 
+                            "name": "Carlos Condit", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20160302063617/http://www.ufc.com/fighter/Johny-Hendricks", 
+                            "name": "Johny Hendricks", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20160302063617/http://www.ufc.com/fighter/Demian-Maia", 
+                            "name": "Demian Maia", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20160302063617/http://www.ufc.com/fighter/Matt-Brown", 
+                            "name": "Matt Brown", 
+                            "rank": "7"
+                        }, 
+                        {
+                            "url": "/web/20160302063617/http://www.ufc.com/fighter/Dong-Hyun-Kim", 
+                            "name": "Dong Hyun Kim", 
+                            "rank": "8"
+                        }, 
+                        {
+                            "url": "/web/20160302063617/http://www.ufc.com/fighter/Neil-Magny", 
+                            "name": "Neil Magny", 
+                            "rank": "9"
+                        }, 
+                        {
+                            "url": "/web/20160302063617/http://www.ufc.com/fighter/Tarec-Saffiedine", 
+                            "name": "Tarec Saffiedine", 
+                            "rank": "10"
+                        }, 
+                        {
+                            "url": "/web/20160302063617/http://www.ufc.com/fighter/Rick-Story", 
+                            "name": "Rick Story", 
+                            "rank": "11"
+                        }, 
+                        {
+                            "url": "/web/20160302063617/http://www.ufc.com/fighter/Kelvin-Gastelum", 
+                            "name": "Kelvin Gastelum", 
+                            "rank": "12"
+                        }, 
+                        {
+                            "url": "/web/20160302063617/http://www.ufc.com/fighter/Hector-Lombard", 
+                            "name": "Hector Lombard", 
+                            "rank": "13"
+                        }
+                    ], 
+                    "champ": "Robbie Lawler", 
+                    "title": "Welterweight"
+                }, 
+                {
+                    "champUrl": "Luke Rockhold", 
+                    "fighters": [
+                        {
+                            "url": "Luke Rockhold", 
+                            "name": "Luke Rockhold", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20160302063617/http://www.ufc.com/fighter/Chris-Weidman", 
+                            "name": "Chris Weidman", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20160302063617/http://www.ufc.com/fighter/Ronaldo-Souza", 
+                            "name": "Jacare Souza", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20160302063617/http://www.ufc.com/fighter/Vitor-Belfort", 
+                            "name": "Vitor Belfort", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20160302063617/http://www.ufc.com/fighter/Michael-Bisping", 
+                            "name": "Michael Bisping", 
+                            "rank": "4"
+                        }
+                    ], 
+                    "champ": "Luke Rockhold", 
+                    "title": "Middleweight"
+                }, 
+                {
+                    "champUrl": "Daniel Cormier", 
+                    "fighters": [
+                        {
+                            "url": "Daniel Cormier", 
+                            "name": "Daniel Cormier", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20160302063617/http://www.ufc.com/fighter/Jon-Jones", 
+                            "name": "Jon Jones", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20160302063617/http://www.ufc.com/fighter/Anthony-Johnson", 
+                            "name": "Anthony Johnson", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20160302063617/http://www.ufc.com/fighter/Alexander-Gustafsson", 
+                            "name": "Alexander Gustafsson", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20160302063617/http://www.ufc.com/fighter/Glover-Teixeira", 
+                            "name": "Glover Teixeira", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20160302063617/http://www.ufc.com/fighter/Ryan-Bader", 
+                            "name": "Ryan Bader", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20160302063617/http://www.ufc.com/fighter/Ovince-St-Preux", 
+                            "name": "Ovince Saint Preux", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20160302063617/http://www.ufc.com/fighter/Rashad-Evans", 
+                            "name": "Rashad Evans", 
+                            "rank": "7"
+                        }, 
+                        {
+                            "url": "/web/20160302063617/http://www.ufc.com/fighter/Mauricio-Rua", 
+                            "name": "Mauricio Rua", 
+                            "rank": "8"
+                        }, 
+                        {
+                            "url": "/web/20160302063617/http://www.ufc.com/fighter/Jimi-Manuwa", 
+                            "name": "Jimi Manuwa", 
+                            "rank": "9"
+                        }, 
+                        {
+                            "url": "/web/20160302063617/http://www.ufc.com/fighter/Antonio-Rogerio-Nogueira", 
+                            "name": "Antonio Rogerio Nogueira", 
+                            "rank": "10"
+                        }, 
+                        {
+                            "url": "/web/20160302063617/http://www.ufc.com/fighter/Patrick-Cummins", 
+                            "name": "Patrick Cummins", 
+                            "rank": "11"
+                        }, 
+                        {
+                            "url": "/web/20160302063617/http://www.ufc.com/fighter/corey-anderson", 
+                            "name": "Corey Anderson", 
+                            "rank": "12"
+                        }, 
+                        {
+                            "url": "/web/20160302063617/http://www.ufc.com/fighter/Gian-Villante", 
+                            "name": "Gian Villante", 
+                            "rank": "13"
+                        }, 
+                        {
+                            "url": "/web/20160302063617/http://www.ufc.com/fighter/Jan-Blachowicz", 
+                            "name": "Jan Blachowicz", 
+                            "rank": "14"
+                        }
+                    ], 
+                    "champ": "Daniel Cormier", 
+                    "title": "Light Heavyweight"
+                }, 
+                {
+                    "champUrl": "Fabricio Werdum", 
+                    "fighters": [
+                        {
+                            "url": "Fabricio Werdum", 
+                            "name": "Fabricio Werdum", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20160302063617/http://www.ufc.com/fighter/Cain-Velasquez", 
+                            "name": "Cain Velasquez", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20160302063617/http://www.ufc.com/fighter/Stipe-Miocic", 
+                            "name": "Stipe Miocic", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20160302063617/http://www.ufc.com/fighter/Alistair-Overeem", 
+                            "name": "Alistair Overeem", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20160302063617/http://www.ufc.com/fighter/Ben-Rothwell", 
+                            "name": "Ben Rothwell", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20160302063617/http://www.ufc.com/fighter/Junior-Dos-Santos", 
+                            "name": "Junior Dos Santos", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20160302063617/http://www.ufc.com/fighter/Andrei-Arlovski", 
+                            "name": "Andrei Arlovski", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20160302063617/http://www.ufc.com/fighter/Travis-Browne", 
+                            "name": "Travis Browne", 
+                            "rank": "7"
+                        }, 
+                        {
+                            "url": "/web/20160302063617/http://www.ufc.com/fighter/Josh-Barnett", 
+                            "name": "Josh Barnett", 
+                            "rank": "8"
+                        }, 
+                        {
+                            "url": "/web/20160302063617/http://www.ufc.com/fighter/mark-hunt", 
+                            "name": "Mark Hunt", 
+                            "rank": "9"
+                        }, 
+                        {
+                            "url": "/web/20160302063617/http://www.ufc.com/fighter/Frank-Mir", 
+                            "name": "Frank Mir", 
+                            "rank": "10"
+                        }, 
+                        {
+                            "url": "/web/20160302063617/http://www.ufc.com/fighter/Roy-Nelson", 
+                            "name": "Roy Nelson", 
+                            "rank": "11"
+                        }, 
+                        {
+                            "url": "/web/20160302063617/http://www.ufc.com/fighter/Antonio-Silva", 
+                            "name": "Antonio Silva", 
+                            "rank": "12"
+                        }, 
+                        {
+                            "url": "/web/20160302063617/http://www.ufc.com/fighter/Matt-Mitrione", 
+                            "name": "Matt Mitrione", 
+                            "rank": "13"
+                        }, 
+                        {
+                            "url": "/web/20160302063617/http://www.ufc.com/fighter/Ruslan-Magomedov", 
+                            "name": "Ruslan Magomedov", 
+                            "rank": "14"
+                        }
+                    ], 
+                    "champ": "Fabricio Werdum", 
+                    "title": "Heavyweight"
+                }, 
+                {
+                    "champUrl": "Joanna Jedrzejczyk", 
+                    "fighters": [
+                        {
+                            "url": "Joanna Jedrzejczyk", 
+                            "name": "Joanna Jedrzejczyk", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20160302063617/http://www.ufc.com/fighter/Claudia-Gadelha", 
+                            "name": "Claudia Gadelha", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20160302063617/http://www.ufc.com/fighter/Carla-Esparza", 
+                            "name": "Carla Esparza", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20160302063617/http://www.ufc.com/fighter/Rose-Namajunas", 
+                            "name": "Rose Namajunas", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20160302063617/http://www.ufc.com/fighter/Tecia-Torres", 
+                            "name": "Tecia Torres", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20160302063617/http://www.ufc.com/fighter/Jessica-Penne", 
+                            "name": "Jessica Penne", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20160302063617/http://www.ufc.com/fighter/Valerie-Letourneau", 
+                            "name": "Valerie Letourneau", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20160302063617/http://www.ufc.com/fighter/paige-vanzant", 
+                            "name": "Paige VanZant", 
+                            "rank": "7"
+                        }, 
+                        {
+                            "url": "/web/20160302063617/http://www.ufc.com/fighter/michelle-waterson", 
+                            "name": "Michelle Waterson", 
+                            "rank": "8"
+                        }, 
+                        {
+                            "url": "/web/20160302063617/http://www.ufc.com/fighter/maryna-moroz", 
+                            "name": "Maryna Moroz", 
+                            "rank": "9"
+                        }, 
+                        {
+                            "url": "/web/20160302063617/http://www.ufc.com/fighter/karolina-kowalkiewicz", 
+                            "name": "Karolina Kowalkiewicz", 
+                            "rank": "10"
+                        }
+                    ], 
+                    "champ": "Joanna Jedrzejczyk", 
+                    "title": "Women's Strawweight"
+                }, 
+                {
+                    "champUrl": "Holly Holm", 
+                    "fighters": [
+                        {
+                            "url": "Holly Holm", 
+                            "name": "Holly Holm", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20160302063617/http://www.ufc.com/fighter/Ronda-Rousey", 
+                            "name": "Ronda Rousey", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20160302063617/http://www.ufc.com/fighter/Miesha-Tate", 
+                            "name": "Miesha Tate", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20160302063617/http://www.ufc.com/fighter/Cat-Zingano", 
+                            "name": "Cat Zingano", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20160302063617/http://www.ufc.com/fighter/Amanda-Nunes", 
+                            "name": "Amanda Nunes", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20160302063617/http://www.ufc.com/fighter/Julianna-Pena", 
+                            "name": "Julianna Pena", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20160302063617/http://www.ufc.com/fighter/Sara-McMann", 
+                            "name": "Sara McMann", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20160302063617/http://www.ufc.com/fighter/Jessica-Eye", 
+                            "name": "Jessica Eye", 
+                            "rank": "7"
+                        }, 
+                        {
+                            "url": "/web/20160302063617/http://www.ufc.com/fighter/Bethe-Correia", 
+                            "name": "Bethe Correia", 
+                            "rank": "8"
+                        }, 
+                        {
+                            "url": "/web/20160302063617/http://www.ufc.com/fighter/Liz-Carmouche", 
+                            "name": "Liz Carmouche", 
+                            "rank": "9"
+                        }, 
+                        {
+                            "url": "/web/20160302063617/http://www.ufc.com/fighter/Valentina-Shevchenko", 
+                            "name": "Valentina Shevchenko", 
+                            "rank": "10"
+                        }
+                    ], 
+                    "champ": "Holly Holm", 
+                    "title": "Women's Bantamweight"
+                }
+            ]
+        }, 
+        {
+            "url": "http://web.archive.org/web/20160405014151/http://ufc.com/rankings", 
+            "date": [
+                "Tue", 
+                "Apr", 
+                "05", 
+                "00:00:00", 
+                "UTC", 
+                "2016"
+            ], 
+            "displayDate": "Apr 2016", 
+            "divisions": [
+                {
+                    "champUrl": "", 
+                    "fighters": [
+                        {
+                            "url": "", 
+                            "name": "", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Jon-Jones", 
+                            "name": "Jon Jones", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Demetrious-Johnson", 
+                            "name": "Demetrious Johnson", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Luke-Rockhold", 
+                            "name": "Luke Rockhold", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Fabricio-Werdum", 
+                            "name": "Fabricio Werdum", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Dominick-Cruz", 
+                            "name": "Dominick Cruz", 
+                            "rank": "5"
+                        }
+                    ], 
+                    "champ": "", 
+                    "title": "Pound-for-Pound"
+                }, 
+                {
+                    "champUrl": "Demetrious Johnson", 
+                    "fighters": [
+                        {
+                            "url": "Demetrious Johnson", 
+                            "name": "Demetrious Johnson", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Joseph-Benavidez", 
+                            "name": "Joseph Benavidez", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Henry-Cejudo", 
+                            "name": "Henry Cejudo", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/John-Dodson", 
+                            "name": "John Dodson", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/jussier-formiga", 
+                            "name": "Jussier Formiga", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Ian-McCall", 
+                            "name": "Ian McCall", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Kyoji-Horiguchi", 
+                            "name": "Kyoji Horiguchi", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/John-Moraga", 
+                            "name": "John Moraga", 
+                            "rank": "7"
+                        }, 
+                        {
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Zach-Makovsky", 
+                            "name": "Zach Makovsky", 
+                            "rank": "8"
+                        }, 
+                        {
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Wilson-Reis", 
+                            "name": "Wilson Reis", 
+                            "rank": "9"
+                        }, 
+                        {
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Dustin-Ortiz", 
+                            "name": "Dustin Ortiz", 
+                            "rank": "10"
+                        }, 
+                        {
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Ali-Bagautinov", 
+                            "name": "Ali Bagautinov", 
+                            "rank": "11"
+                        }, 
+                        {
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Justin-Scoggins", 
+                            "name": "Justin Scoggins", 
+                            "rank": "12"
+                        }, 
+                        {
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Louis-Smolka", 
+                            "name": "Louis Smolka", 
+                            "rank": "13"
+                        }, 
+                        {
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Ray-Borg", 
+                            "name": "Ray Borg", 
+                            "rank": "14"
+                        }, 
+                        {
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Sergio-Pettis", 
+                            "name": "Sergio Pettis", 
+                            "rank": "15"
+                        }
+                    ], 
+                    "champ": "Demetrious Johnson", 
+                    "title": "Flyweight"
+                }, 
+                {
+                    "champUrl": "Dominick Cruz", 
+                    "fighters": [
+                        {
+                            "url": "Dominick Cruz", 
+                            "name": "Dominick Cruz", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/TJ-Dillashaw", 
+                            "name": "TJ Dillashaw", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Urijah-Faber", 
+                            "name": "Urijah Faber", 
+                            "rank": "2"
+                        }
+                    ], 
+                    "champ": "Dominick Cruz", 
+                    "title": "Bantamweight"
+                }, 
+                {
+                    "champUrl": "Conor McGregor", 
+                    "fighters": [
+                        {
+                            "url": "Conor McGregor", 
+                            "name": "Conor McGregor", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Jose-Aldo", 
+                            "name": "Jose Aldo", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Frankie-Edgar", 
+                            "name": "Frankie Edgar", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Chad-Mendes", 
+                            "name": "Chad Mendes", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Max-Holloway", 
+                            "name": "Max Holloway", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Ricardo-Lamas", 
+                            "name": "Ricardo Lamas", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Cub-Swanson", 
+                            "name": "Cub Swanson", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Charles-Oliveira", 
+                            "name": "Charles Oliveira", 
+                            "rank": "7"
+                        }, 
+                        {
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Dennis-Bermudez", 
+                            "name": "Dennis Bermudez", 
+                            "rank": "8"
+                        }, 
+                        {
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Jeremy-Stephens", 
+                            "name": "Jeremy Stephens", 
+                            "rank": "9"
+                        }, 
+                        {
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Hacran-Dias", 
+                            "name": "Hacran Dias", 
+                            "rank": "10"
+                        }, 
+                        {
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Darren-Elkins", 
+                            "name": "Darren Elkins", 
+                            "rank": "11"
+                        }, 
+                        {
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Brian-Ortega", 
+                            "name": "Brian Ortega", 
+                            "rank": "12"
+                        }, 
+                        {
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Tatsuya-Kawajiri", 
+                            "name": "Tatsuya Kawajiri", 
+                            "rank": "13"
+                        }, 
+                        {
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Nik-Lentz", 
+                            "name": "Nik Lentz", 
+                            "rank": "14"
+                        }, 
+                        {
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Clay-Guida", 
+                            "name": "Clay Guida", 
+                            "rank": "15"
+                        }
+                    ], 
+                    "champ": "Conor McGregor", 
+                    "title": "Featherweight"
+                }, 
+                {
+                    "champUrl": "Rafael Dos Anjos", 
+                    "fighters": [
+                        {
+                            "url": "Rafael Dos Anjos", 
+                            "name": "Rafael Dos Anjos", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/eddie-alvarez", 
+                            "name": "Eddie Alvarez", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Khabib-Nurmagomedov", 
+                            "name": "Khabib Nurmagomedov", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Anthony-Pettis", 
+                            "name": "Anthony Pettis", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Tony-Ferguson", 
+                            "name": "Tony Ferguson", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Nate-Diaz", 
+                            "name": "Nate Diaz", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Michael-Johnson", 
+                            "name": "Michael Johnson", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Beneil-Dariush", 
+                            "name": "Beneil Dariush", 
+                            "rank": "7"
+                        }, 
+                        {
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Edson-Barboza", 
+                            "name": "Edson Barboza", 
+                            "rank": "8"
+                        }, 
+                        {
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Donald-Cerrone", 
+                            "name": "Donald Cerrone", 
+                            "rank": "9"
+                        }, 
+                        {
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Dustin-Poirier", 
+                            "name": "Dustin Poirier", 
+                            "rank": "10"
+                        }, 
+                        {
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Al-Iaquinta", 
+                            "name": "Al Iaquinta", 
+                            "rank": "11"
+                        }, 
+                        {
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Bobby-Green", 
+                            "name": "Bobby Green", 
+                            "rank": "12"
+                        }, 
+                        {
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Evan-Dunham", 
+                            "name": "Evan Dunham", 
+                            "rank": "13"
+                        }, 
+                        {
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Michael-Chiesa", 
+                            "name": "Michael Chiesa", 
+                            "rank": "14"
+                        }, 
+                        {
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Rashid-Magomedov", 
+                            "name": "Rashid Magomedov", 
+                            "rank": "15"
+                        }
+                    ], 
+                    "champ": "Rafael Dos Anjos", 
+                    "title": "Lightweight"
+                }, 
+                {
+                    "champUrl": "Robbie Lawler", 
+                    "fighters": [
+                        {
+                            "url": "Robbie Lawler", 
+                            "name": "Robbie Lawler", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Rory-MacDonald", 
+                            "name": "Rory MacDonald", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Stephen-Thompson", 
+                            "name": "Stephen Thompson", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Tyron-Woodley", 
+                            "name": "Tyron Woodley", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Carlos-Condit", 
+                            "name": "Carlos Condit", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Johny-Hendricks", 
+                            "name": "Johny Hendricks", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Demian-Maia", 
+                            "name": "Demian Maia", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Neil-Magny", 
+                            "name": "Neil Magny", 
+                            "rank": "7"
+                        }
+                    ], 
+                    "champ": "Robbie Lawler", 
+                    "title": "Welterweight"
+                }, 
+                {
+                    "champUrl": "Luke Rockhold", 
+                    "fighters": [
+                        {
+                            "url": "Luke Rockhold", 
+                            "name": "Luke Rockhold", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Chris-Weidman", 
+                            "name": "Chris Weidman", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Ronaldo-Souza", 
+                            "name": "Jacare Souza", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Vitor-Belfort", 
+                            "name": "Vitor Belfort", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Michael-Bisping", 
+                            "name": "Michael Bisping", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Lyoto-Machida", 
+                            "name": "Lyoto Machida", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Anderson-Silva", 
+                            "name": "Anderson Silva", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/robert-whittaker", 
+                            "name": "Robert Whittaker", 
+                            "rank": "7"
+                        }
+                    ], 
+                    "champ": "Luke Rockhold", 
+                    "title": "Middleweight"
+                }, 
+                {
+                    "champUrl": "Daniel Cormier", 
+                    "fighters": [
+                        {
+                            "url": "Daniel Cormier", 
+                            "name": "Daniel Cormier", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Jon-Jones", 
+                            "name": "Jon Jones", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Anthony-Johnson", 
+                            "name": "Anthony Johnson", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Alexander-Gustafsson", 
+                            "name": "Alexander Gustafsson", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Glover-Teixeira", 
+                            "name": "Glover Teixeira", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Ryan-Bader", 
+                            "name": "Ryan Bader", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Ovince-St-Preux", 
+                            "name": "Ovince Saint Preux", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Rashad-Evans", 
+                            "name": "Rashad Evans", 
+                            "rank": "7"
+                        }, 
+                        {
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Mauricio-Rua", 
+                            "name": "Mauricio Rua", 
+                            "rank": "8"
+                        }, 
+                        {
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Jimi-Manuwa", 
+                            "name": "Jimi Manuwa", 
+                            "rank": "9"
+                        }, 
+                        {
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Antonio-Rogerio-Nogueira", 
+                            "name": "Antonio Rogerio Nogueira", 
+                            "rank": "10"
+                        }, 
+                        {
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Patrick-Cummins", 
+                            "name": "Patrick Cummins", 
+                            "rank": "11"
+                        }, 
+                        {
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/corey-anderson", 
+                            "name": "Corey Anderson", 
+                            "rank": "12"
+                        }, 
+                        {
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Ilir-Latifi", 
+                            "name": "Ilir Latifi", 
+                            "rank": "13"
+                        }, 
+                        {
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Nikita-Krylov", 
+                            "name": "Nikita Krylov", 
+                            "rank": "14"
+                        }, 
+                        {
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Gian-Villante", 
+                            "name": "Gian Villante", 
+                            "rank": "15"
+                        }
+                    ], 
+                    "champ": "Daniel Cormier", 
+                    "title": "Light Heavyweight"
+                }, 
+                {
+                    "champUrl": "Fabricio Werdum", 
+                    "fighters": [
+                        {
+                            "url": "Fabricio Werdum", 
+                            "name": "Fabricio Werdum", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Cain-Velasquez", 
+                            "name": "Cain Velasquez", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Stipe-Miocic", 
+                            "name": "Stipe Miocic", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Alistair-Overeem", 
+                            "name": "Alistair Overeem", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Ben-Rothwell", 
+                            "name": "Ben Rothwell", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Junior-Dos-Santos", 
+                            "name": "Junior Dos Santos", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Andrei-Arlovski", 
+                            "name": "Andrei Arlovski", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Travis-Browne", 
+                            "name": "Travis Browne", 
+                            "rank": "7"
+                        }, 
+                        {
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/mark-hunt", 
+                            "name": "Mark Hunt", 
+                            "rank": "8"
+                        }
+                    ], 
+                    "champ": "Fabricio Werdum", 
+                    "title": "Heavyweight"
+                }, 
+                {
+                    "champUrl": "Joanna Jedrzejczyk", 
+                    "fighters": [
+                        {
+                            "url": "Joanna Jedrzejczyk", 
+                            "name": "Joanna Jedrzejczyk", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Claudia-Gadelha", 
+                            "name": "Claudia Gadelha", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Carla-Esparza", 
+                            "name": "Carla Esparza", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Rose-Namajunas", 
+                            "name": "Rose Namajunas", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Tecia-Torres", 
+                            "name": "Tecia Torres", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Jessica-Penne", 
+                            "name": "Jessica Penne", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Valerie-Letourneau", 
+                            "name": "Valerie Letourneau", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/paige-vanzant", 
+                            "name": "Paige VanZant", 
+                            "rank": "7"
+                        }, 
+                        {
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/michelle-waterson", 
+                            "name": "Michelle Waterson", 
+                            "rank": "8"
+                        }, 
+                        {
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/maryna-moroz", 
+                            "name": "Maryna Moroz", 
+                            "rank": "9"
+                        }, 
+                        {
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/karolina-kowalkiewicz", 
+                            "name": "Karolina Kowalkiewicz", 
+                            "rank": "10"
+                        }, 
+                        {
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Joanne-Calderwood", 
+                            "name": "Joanne Calderwood", 
+                            "rank": "11"
+                        }, 
+                        {
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Randa-Markos", 
+                            "name": "Randa Markos", 
+                            "rank": "12"
+                        }, 
+                        {
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/jessica-aguilar", 
+                            "name": "Jessica Aguilar", 
+                            "rank": "13"
+                        }, 
+                        {
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Juliana-Lima", 
+                            "name": "Juliana Lima", 
+                            "rank": "14"
+                        }, 
+                        {
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Justine-Kish", 
+                            "name": "Justine Kish", 
+                            "rank": "15"
+                        }
+                    ], 
+                    "champ": "Joanna Jedrzejczyk", 
+                    "title": "Women's Strawweight"
+                }, 
+                {
+                    "champUrl": "Miesha Tate", 
+                    "fighters": [
+                        {
+                            "url": "Miesha Tate", 
+                            "name": "Miesha Tate", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/holly-holm", 
+                            "name": "Holly Holm", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Ronda-Rousey", 
+                            "name": "Ronda Rousey", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Cat-Zingano", 
+                            "name": "Cat Zingano", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Amanda-Nunes", 
+                            "name": "Amanda Nunes", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Julianna-Pena", 
+                            "name": "Julianna Pena", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Sara-McMann", 
+                            "name": "Sara McMann", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Jessica-Eye", 
+                            "name": "Jessica Eye", 
+                            "rank": "7"
+                        }, 
+                        {
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Bethe-Correia", 
+                            "name": "Bethe Correia", 
+                            "rank": "8"
+                        }, 
+                        {
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Liz-Carmouche", 
+                            "name": "Liz Carmouche", 
+                            "rank": "9"
+                        }, 
+                        {
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Sarah-Kaufman", 
+                            "name": "Sarah Kaufman", 
+                            "rank": "10"
+                        }, 
+                        {
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Valentina-Shevchenko", 
+                            "name": "Valentina Shevchenko", 
+                            "rank": "11"
+                        }, 
+                        {
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Raquel-Pennington", 
+                            "name": "Raquel Pennington", 
+                            "rank": "12"
+                        }, 
+                        {
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Germaine-DeRandamie", 
+                            "name": "Germaine de Randamie", 
+                            "rank": "13"
+                        }, 
+                        {
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/Lauren-Murphy", 
+                            "name": "Lauren Murphy", 
+                            "rank": "14"
+                        }, 
+                        {
+                            "url": "/web/20160405215301/http://www.ufc.com/fighter/marion-reneau", 
+                            "name": "Marion Reneau", 
+                            "rank": "15"
+                        }
+                    ], 
+                    "champ": "Miesha Tate", 
+                    "title": "Women's Bantamweight"
+                }
+            ]
+        }, 
+        {
+            "url": "http://web.archive.org/web/20160505012215/http://www.ufc.com/rankings", 
+            "date": [
+                "Thu", 
+                "May", 
+                "05", 
+                "00:00:00", 
+                "UTC", 
+                "2016"
+            ], 
+            "displayDate": "May 2016", 
+            "divisions": [
+                {
+                    "champUrl": "", 
+                    "fighters": [
+                        {
+                            "url": "", 
+                            "name": "", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20160505012215/http://www.ufc.com/fighter/Jon-Jones", 
+                            "name": "Jon Jones", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20160505012215/http://www.ufc.com/fighter/Demetrious-Johnson", 
+                            "name": "Demetrious Johnson", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20160505012215/http://www.ufc.com/fighter/Luke-Rockhold", 
+                            "name": "Luke Rockhold", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20160505012215/http://www.ufc.com/fighter/Fabricio-Werdum", 
+                            "name": "Fabricio Werdum", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20160505012215/http://www.ufc.com/fighter/Dominick-Cruz", 
+                            "name": "Dominick Cruz", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20160505012215/http://www.ufc.com/fighter/Rafael-Dos-Anjos", 
+                            "name": "Rafael Dos Anjos", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20160505012215/http://www.ufc.com/fighter/Robbie-Lawler", 
+                            "name": "Robbie Lawler", 
+                            "rank": "7"
+                        }, 
+                        {
+                            "url": "/web/20160505012215/http://www.ufc.com/fighter/Conor-McGregor", 
+                            "name": "Conor McGregor", 
+                            "rank": "8"
+                        }, 
+                        {
+                            "url": "/web/20160505012215/http://www.ufc.com/fighter/Daniel-Cormier", 
+                            "name": "Daniel Cormier", 
+                            "rank": "9"
+                        }, 
+                        {
+                            "url": "/web/20160505012215/http://www.ufc.com/fighter/Jose-Aldo", 
+                            "name": "Jose Aldo", 
+                            "rank": "10"
+                        }, 
+                        {
+                            "url": "/web/20160505012215/http://www.ufc.com/fighter/Chris-Weidman", 
+                            "name": "Chris Weidman", 
+                            "rank": "11"
+                        }, 
+                        {
+                            "url": "/web/20160505012215/http://www.ufc.com/fighter/Frankie-Edgar", 
+                            "name": "Frankie Edgar", 
+                            "rank": "12"
+                        }, 
+                        {
+                            "url": "/web/20160505012215/http://www.ufc.com/fighter/TJ-Dillashaw", 
+                            "name": "TJ Dillashaw", 
+                            "rank": "13"
+                        }, 
+                        {
+                            "url": "/web/20160505012215/http://www.ufc.com/fighter/Joanna-Jedrzejczyk", 
+                            "name": "Joanna Jedrzejczyk", 
+                            "rank": "14"
+                        }, 
+                        {
+                            "url": "/web/20160505012215/http://www.ufc.com/fighter/Miesha-Tate", 
+                            "name": "Miesha Tate", 
+                            "rank": "15"
+                        }
+                    ], 
+                    "champ": "", 
+                    "title": "Pound-for-Pound"
+                }, 
+                {
+                    "champUrl": "Demetrious Johnson", 
+                    "fighters": [
+                        {
+                            "url": "Demetrious Johnson", 
+                            "name": "Demetrious Johnson", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20160505012215/http://www.ufc.com/fighter/Joseph-Benavidez", 
+                            "name": "Joseph Benavidez", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20160505012215/http://www.ufc.com/fighter/Henry-Cejudo", 
+                            "name": "Henry Cejudo", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20160505012215/http://www.ufc.com/fighter/jussier-formiga", 
+                            "name": "Jussier Formiga", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20160505012215/http://www.ufc.com/fighter/Ian-McCall", 
+                            "name": "Ian McCall", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20160505012215/http://www.ufc.com/fighter/Kyoji-Horiguchi", 
+                            "name": "Kyoji Horiguchi", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20160505012215/http://www.ufc.com/fighter/John-Moraga", 
+                            "name": "John Moraga", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20160505012215/http://www.ufc.com/fighter/Zach-Makovsky", 
+                            "name": "Zach Makovsky", 
+                            "rank": "7"
+                        }, 
+                        {
+                            "url": "/web/20160505012215/http://www.ufc.com/fighter/Wilson-Reis", 
+                            "name": "Wilson Reis", 
+                            "rank": "8"
+                        }, 
+                        {
+                            "url": "/web/20160505012215/http://www.ufc.com/fighter/Dustin-Ortiz", 
+                            "name": "Dustin Ortiz", 
+                            "rank": "9"
+                        }, 
+                        {
+                            "url": "/web/20160505012215/http://www.ufc.com/fighter/Ali-Bagautinov", 
+                            "name": "Ali Bagautinov", 
+                            "rank": "10"
+                        }, 
+                        {
+                            "url": "/web/20160505012215/http://www.ufc.com/fighter/Justin-Scoggins", 
+                            "name": "Justin Scoggins", 
+                            "rank": "11"
+                        }, 
+                        {
+                            "url": "/web/20160505012215/http://www.ufc.com/fighter/Louis-Smolka", 
+                            "name": "Louis Smolka", 
+                            "rank": "12"
+                        }, 
+                        {
+                            "url": "/web/20160505012215/http://www.ufc.com/fighter/Ray-Borg", 
+                            "name": "Ray Borg", 
+                            "rank": "13"
+                        }, 
+                        {
+                            "url": "/web/20160505012215/http://www.ufc.com/fighter/Sergio-Pettis", 
+                            "name": "Sergio Pettis", 
+                            "rank": "14"
+                        }, 
+                        {
+                            "url": "/web/20160505012215/http://www.ufc.com/fighter/ben-nguyen", 
+                            "name": "Ben Nguyen", 
+                            "rank": "15"
+                        }
+                    ], 
+                    "champ": "Demetrious Johnson", 
+                    "title": "Flyweight"
+                }, 
+                {
+                    "champUrl": "Dominick Cruz", 
+                    "fighters": [
+                        {
+                            "url": "Dominick Cruz", 
+                            "name": "Dominick Cruz", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20160505012215/http://www.ufc.com/fighter/TJ-Dillashaw", 
+                            "name": "TJ Dillashaw", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20160505012215/http://www.ufc.com/fighter/Renan-Barao", 
+                            "name": "Renan Barao", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20160505012215/http://www.ufc.com/fighter/Urijah-Faber", 
+                            "name": "Urijah Faber", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20160505012215/http://www.ufc.com/fighter/Aljamain-Sterling", 
+                            "name": "Aljamain Sterling", 
+                            "rank": "4"
+                        }
+                    ], 
+                    "champ": "Dominick Cruz", 
+                    "title": "Bantamweight"
+                }, 
+                {
+                    "champUrl": "Conor McGregor", 
+                    "fighters": [
+                        {
+                            "url": "Conor McGregor", 
+                            "name": "Conor McGregor", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20160505012215/http://www.ufc.com/fighter/Jose-Aldo", 
+                            "name": "Jose Aldo", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20160505012215/http://www.ufc.com/fighter/Frankie-Edgar", 
+                            "name": "Frankie Edgar", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20160505012215/http://www.ufc.com/fighter/Chad-Mendes", 
+                            "name": "Chad Mendes", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20160505012215/http://www.ufc.com/fighter/Max-Holloway", 
+                            "name": "Max Holloway", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20160505012215/http://www.ufc.com/fighter/Ricardo-Lamas", 
+                            "name": "Ricardo Lamas", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20160505012215/http://www.ufc.com/fighter/Cub-Swanson", 
+                            "name": "Cub Swanson", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20160505012215/http://www.ufc.com/fighter/Charles-Oliveira", 
+                            "name": "Charles Oliveira", 
+                            "rank": "7"
+                        }, 
+                        {
+                            "url": "/web/20160505012215/http://www.ufc.com/fighter/Dennis-Bermudez", 
+                            "name": "Dennis Bermudez", 
+                            "rank": "8"
+                        }, 
+                        {
+                            "url": "/web/20160505012215/http://www.ufc.com/fighter/Jeremy-Stephens", 
+                            "name": "Jeremy Stephens", 
+                            "rank": "9"
+                        }, 
+                        {
+                            "url": "/web/20160505012215/http://www.ufc.com/fighter/Hacran-Dias", 
+                            "name": "Hacran Dias", 
+                            "rank": "10"
+                        }, 
+                        {
+                            "url": "/web/20160505012215/http://www.ufc.com/fighter/Darren-Elkins", 
+                            "name": "Darren Elkins", 
+                            "rank": "11"
+                        }, 
+                        {
+                            "url": "/web/20160505012215/http://www.ufc.com/fighter/Brian-Ortega", 
+                            "name": "Brian Ortega", 
+                            "rank": "12"
+                        }, 
+                        {
+                            "url": "/web/20160505012215/http://www.ufc.com/fighter/Tatsuya-Kawajiri", 
+                            "name": "Tatsuya Kawajiri", 
+                            "rank": "13"
+                        }, 
+                        {
+                            "url": "/web/20160505012215/http://www.ufc.com/fighter/yair-rodriguez", 
+                            "name": "Yair Rodriguez", 
+                            "rank": "14"
+                        }, 
+                        {
+                            "url": "/web/20160505012215/http://www.ufc.com/fighter/Mirsad-Bektic", 
+                            "name": "Mirsad Bektic", 
+                            "rank": "15"
+                        }
+                    ], 
+                    "champ": "Conor McGregor", 
+                    "title": "Featherweight"
+                }, 
+                {
+                    "champUrl": "Rafael Dos Anjos", 
+                    "fighters": [
+                        {
+                            "url": "Rafael Dos Anjos", 
+                            "name": "Rafael Dos Anjos", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20160505012215/http://www.ufc.com/fighter/Khabib-Nurmagomedov", 
+                            "name": "Khabib Nurmagomedov", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20160505012215/http://www.ufc.com/fighter/eddie-alvarez", 
+                            "name": "Eddie Alvarez", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20160505012215/http://www.ufc.com/fighter/Tony-Ferguson", 
+                            "name": "Tony Ferguson", 
+                            "rank": "3"
+                        }
+                    ], 
+                    "champ": "Rafael Dos Anjos", 
+                    "title": "Lightweight"
+                }, 
+                {
+                    "champUrl": "Robbie Lawler", 
+                    "fighters": [
+                        {
+                            "url": "Robbie Lawler", 
+                            "name": "Robbie Lawler", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20160505012215/http://www.ufc.com/fighter/Rory-MacDonald", 
+                            "name": "Rory MacDonald", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20160505012215/http://www.ufc.com/fighter/Stephen-Thompson", 
+                            "name": "Stephen Thompson", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20160505012215/http://www.ufc.com/fighter/Tyron-Woodley", 
+                            "name": "Tyron Woodley", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20160505012215/http://www.ufc.com/fighter/Carlos-Condit", 
+                            "name": "Carlos Condit", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20160505012215/http://www.ufc.com/fighter/Johny-Hendricks", 
+                            "name": "Johny Hendricks", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20160505012215/http://www.ufc.com/fighter/Demian-Maia", 
+                            "name": "Demian Maia", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20160505012215/http://www.ufc.com/fighter/Neil-Magny", 
+                            "name": "Neil Magny", 
+                            "rank": "7"
+                        }, 
+                        {
+                            "url": "/web/20160505012215/http://www.ufc.com/fighter/Matt-Brown", 
+                            "name": "Matt Brown", 
+                            "rank": "8"
+                        }, 
+                        {
+                            "url": "/web/20160505012215/http://www.ufc.com/fighter/Dong-Hyun-Kim", 
+                            "name": "Dong Hyun Kim", 
+                            "rank": "9"
+                        }, 
+                        {
+                            "url": "/web/20160505012215/http://www.ufc.com/fighter/Tarec-Saffiedine", 
+                            "name": "Tarec Saffiedine", 
+                            "rank": "10"
+                        }, 
+                        {
+                            "url": "/web/20160505012215/http://www.ufc.com/fighter/Rick-Story", 
+                            "name": "Rick Story", 
+                            "rank": "11"
+                        }, 
+                        {
+                            "url": "/web/20160505012215/http://www.ufc.com/fighter/Kelvin-Gastelum", 
+                            "name": "Kelvin Gastelum", 
+                            "rank": "12"
+                        }, 
+                        {
+                            "url": "/web/20160505012215/http://www.ufc.com/fighter/Albert-Tumenov", 
+                            "name": "Albert Tumenov", 
+                            "rank": "13"
+                        }, 
+                        {
+                            "url": "/web/20160505012215/http://www.ufc.com/fighter/Thiago-Alves", 
+                            "name": "Thiago Alves", 
+                            "rank": "14"
+                        }
+                    ], 
+                    "champ": "Robbie Lawler", 
+                    "title": "Welterweight"
+                }, 
+                {
+                    "champUrl": "Luke Rockhold", 
+                    "fighters": [
+                        {
+                            "url": "Luke Rockhold", 
+                            "name": "Luke Rockhold", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20160505012215/http://www.ufc.com/fighter/Chris-Weidman", 
+                            "name": "Chris Weidman", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20160505012215/http://www.ufc.com/fighter/Ronaldo-Souza", 
+                            "name": "Jacare Souza", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20160505012215/http://www.ufc.com/fighter/Vitor-Belfort", 
+                            "name": "Vitor Belfort", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20160505012215/http://www.ufc.com/fighter/Michael-Bisping", 
+                            "name": "Michael Bisping", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20160505012215/http://www.ufc.com/fighter/Anderson-Silva", 
+                            "name": "Anderson Silva", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20160505012215/http://www.ufc.com/fighter/robert-whittaker", 
+                            "name": "Robert Whittaker", 
+                            "rank": "6"
+                        }
+                    ], 
+                    "champ": "Luke Rockhold", 
+                    "title": "Middleweight"
+                }, 
+                {
+                    "champUrl": "Daniel Cormier", 
+                    "fighters": [
+                        {
+                            "url": "Daniel Cormier", 
+                            "name": "Daniel Cormier", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20160505012215/http://www.ufc.com/fighter/Jon-Jones", 
+                            "name": "Jon Jones\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t(Interim Champion)", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20160505012215/http://www.ufc.com/fighter/Anthony-Johnson", 
+                            "name": "Anthony Johnson", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20160505012215/http://www.ufc.com/fighter/Glover-Teixeira", 
+                            "name": "Glover Teixeira", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20160505012215/http://www.ufc.com/fighter/Alexander-Gustafsson", 
+                            "name": "Alexander Gustafsson", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20160505012215/http://www.ufc.com/fighter/Ryan-Bader", 
+                            "name": "Ryan Bader", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20160505012215/http://www.ufc.com/fighter/Ovince-St-Preux", 
+                            "name": "Ovince Saint Preux", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20160505012215/http://www.ufc.com/fighter/Rashad-Evans", 
+                            "name": "Rashad Evans", 
+                            "rank": "7"
+                        }, 
+                        {
+                            "url": "/web/20160505012215/http://www.ufc.com/fighter/Mauricio-Rua", 
+                            "name": "Mauricio Rua", 
+                            "rank": "8"
+                        }, 
+                        {
+                            "url": "/web/20160505012215/http://www.ufc.com/fighter/Jimi-Manuwa", 
+                            "name": "Jimi Manuwa", 
+                            "rank": "9"
+                        }, 
+                        {
+                            "url": "/web/20160505012215/http://www.ufc.com/fighter/Antonio-Rogerio-Nogueira", 
+                            "name": "Antonio Rogerio Nogueira", 
+                            "rank": "10"
+                        }, 
+                        {
+                            "url": "/web/20160505012215/http://www.ufc.com/fighter/Patrick-Cummins", 
+                            "name": "Patrick Cummins", 
+                            "rank": "11"
+                        }, 
+                        {
+                            "url": "/web/20160505012215/http://www.ufc.com/fighter/corey-anderson", 
+                            "name": "Corey Anderson", 
+                            "rank": "12"
+                        }, 
+                        {
+                            "url": "/web/20160505012215/http://www.ufc.com/fighter/Ilir-Latifi", 
+                            "name": "Ilir Latifi", 
+                            "rank": "13"
+                        }, 
+                        {
+                            "url": "/web/20160505012215/http://www.ufc.com/fighter/Nikita-Krylov", 
+                            "name": "Nikita Krylov", 
+                            "rank": "14"
+                        }, 
+                        {
+                            "url": "/web/20160505012215/http://www.ufc.com/fighter/Gian-Villante", 
+                            "name": "Gian Villante", 
+                            "rank": "15"
+                        }
+                    ], 
+                    "champ": "Daniel Cormier", 
+                    "title": "Light Heavyweight"
+                }, 
+                {
+                    "champUrl": "Fabricio Werdum", 
+                    "fighters": [
+                        {
+                            "url": "Fabricio Werdum", 
+                            "name": "Fabricio Werdum", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20160505012215/http://www.ufc.com/fighter/Cain-Velasquez", 
+                            "name": "Cain Velasquez", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20160505012215/http://www.ufc.com/fighter/Stipe-Miocic", 
+                            "name": "Stipe Miocic", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20160505012215/http://www.ufc.com/fighter/Alistair-Overeem", 
+                            "name": "Alistair Overeem", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20160505012215/http://www.ufc.com/fighter/Junior-Dos-Santos", 
+                            "name": "Junior Dos Santos", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20160505012215/http://www.ufc.com/fighter/Andrei-Arlovski", 
+                            "name": "Andrei Arlovski", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20160505012215/http://www.ufc.com/fighter/Ben-Rothwell", 
+                            "name": "Ben Rothwell", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20160505012215/http://www.ufc.com/fighter/Travis-Browne", 
+                            "name": "Travis Browne", 
+                            "rank": "7"
+                        }, 
+                        {
+                            "url": "/web/20160505012215/http://www.ufc.com/fighter/mark-hunt", 
+                            "name": "Mark Hunt", 
+                            "rank": "8"
+                        }, 
+                        {
+                            "url": "/web/20160505012215/http://www.ufc.com/fighter/Josh-Barnett", 
+                            "name": "Josh Barnett", 
+                            "rank": "9"
+                        }, 
+                        {
+                            "url": "/web/20160505012215/http://www.ufc.com/fighter/Roy-Nelson", 
+                            "name": "Roy Nelson", 
+                            "rank": "10"
+                        }, 
+                        {
+                            "url": "/web/20160505012215/http://www.ufc.com/fighter/Frank-Mir", 
+                            "name": "Frank Mir", 
+                            "rank": "11"
+                        }, 
+                        {
+                            "url": "/web/20160505012215/http://www.ufc.com/fighter/Antonio-Silva", 
+                            "name": "Antonio Silva", 
+                            "rank": "12"
+                        }, 
+                        {
+                            "url": "/web/20160505012215/http://www.ufc.com/fighter/Derrick-Lewis", 
+                            "name": "Derrick Lewis", 
+                            "rank": "13"
+                        }, 
+                        {
+                            "url": "/web/20160505012215/http://www.ufc.com/fighter/Ruslan-Magomedov", 
+                            "name": "Ruslan Magomedov", 
+                            "rank": "14"
+                        }, 
+                        {
+                            "url": "/web/20160505012215/http://www.ufc.com/fighter/Oleksiy-Oliynyk", 
+                            "name": "Alexey Oliynyk", 
+                            "rank": "15"
+                        }
+                    ], 
+                    "champ": "Fabricio Werdum", 
+                    "title": "Heavyweight"
+                }, 
+                {
+                    "champUrl": "Joanna Jedrzejczyk", 
+                    "fighters": [
+                        {
+                            "url": "Joanna Jedrzejczyk", 
+                            "name": "Joanna Jedrzejczyk", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20160505012215/http://www.ufc.com/fighter/Claudia-Gadelha", 
+                            "name": "Claudia Gadelha", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20160505012215/http://www.ufc.com/fighter/Carla-Esparza", 
+                            "name": "Carla Esparza", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20160505012215/http://www.ufc.com/fighter/Rose-Namajunas", 
+                            "name": "Rose Namajunas", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20160505012215/http://www.ufc.com/fighter/Tecia-Torres", 
+                            "name": "Tecia Torres", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20160505012215/http://www.ufc.com/fighter/Valerie-Letourneau", 
+                            "name": "Valerie Letourneau", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20160505012215/http://www.ufc.com/fighter/Jessica-Penne", 
+                            "name": "Jessica Penne", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20160505012215/http://www.ufc.com/fighter/paige-vanzant", 
+                            "name": "Paige VanZant", 
+                            "rank": "7"
+                        }, 
+                        {
+                            "url": "/web/20160505012215/http://www.ufc.com/fighter/maryna-moroz", 
+                            "name": "Maryna Moroz", 
+                            "rank": "8"
+                        }, 
+                        {
+                            "url": "/web/20160505012215/http://www.ufc.com/fighter/michelle-waterson", 
+                            "name": "Michelle Waterson", 
+                            "rank": "9"
+                        }, 
+                        {
+                            "url": "/web/20160505012215/http://www.ufc.com/fighter/karolina-kowalkiewicz", 
+                            "name": "Karolina Kowalkiewicz", 
+                            "rank": "10"
+                        }, 
+                        {
+                            "url": "/web/20160505012215/http://www.ufc.com/fighter/Joanne-Calderwood", 
+                            "name": "Joanne Calderwood", 
+                            "rank": "11"
+                        }, 
+                        {
+                            "url": "/web/20160505012215/http://www.ufc.com/fighter/Randa-Markos", 
+                            "name": "Randa Markos", 
+                            "rank": "12"
+                        }, 
+                        {
+                            "url": "/web/20160505012215/http://www.ufc.com/fighter/jessica-aguilar", 
+                            "name": "Jessica Aguilar", 
+                            "rank": "13"
+                        }, 
+                        {
+                            "url": "/web/20160505012215/http://www.ufc.com/fighter/Juliana-Lima", 
+                            "name": "Juliana Lima", 
+                            "rank": "14"
+                        }, 
+                        {
+                            "url": "/web/20160505012215/http://www.ufc.com/fighter/Justine-Kish", 
+                            "name": "Justine Kish", 
+                            "rank": "15"
+                        }
+                    ], 
+                    "champ": "Joanna Jedrzejczyk", 
+                    "title": "Women's Strawweight"
+                }, 
+                {
+                    "champUrl": "Miesha Tate", 
+                    "fighters": [
+                        {
+                            "url": "Miesha Tate", 
+                            "name": "Miesha Tate", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20160505012215/http://www.ufc.com/fighter/holly-holm", 
+                            "name": "Holly Holm", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20160505012215/http://www.ufc.com/fighter/Ronda-Rousey", 
+                            "name": "Ronda Rousey", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20160505012215/http://www.ufc.com/fighter/Cat-Zingano", 
+                            "name": "Cat Zingano", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20160505012215/http://www.ufc.com/fighter/Amanda-Nunes", 
+                            "name": "Amanda Nunes", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20160505012215/http://www.ufc.com/fighter/Julianna-Pena", 
+                            "name": "Julianna Pena", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20160505012215/http://www.ufc.com/fighter/Sara-McMann", 
+                            "name": "Sara McMann", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20160505012215/http://www.ufc.com/fighter/Jessica-Eye", 
+                            "name": "Jessica Eye", 
+                            "rank": "7"
+                        }, 
+                        {
+                            "url": "/web/20160505012215/http://www.ufc.com/fighter/Liz-Carmouche", 
+                            "name": "Liz Carmouche", 
+                            "rank": "8"
+                        }, 
+                        {
+                            "url": "/web/20160505012215/http://www.ufc.com/fighter/Valentina-Shevchenko", 
+                            "name": "Valentina Shevchenko", 
+                            "rank": "9"
+                        }
+                    ], 
+                    "champ": "Miesha Tate", 
+                    "title": "Women's Bantamweight"
+                }
+            ]
+        }, 
+        {
+            "url": "http://web.archive.org/web/20160602025518/http://www.ufc.com/rankings", 
+            "date": [
+                "Thu", 
+                "Jun", 
+                "02", 
+                "00:00:00", 
+                "UTC", 
+                "2016"
+            ], 
+            "displayDate": "Jun 2016", 
+            "divisions": [
+                {
+                    "champUrl": "", 
+                    "fighters": [
+                        {
+                            "url": "", 
+                            "name": "", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20160602025518/http://www.ufc.com/fighter/Jon-Jones", 
+                            "name": "Jon Jones", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20160602025518/http://www.ufc.com/fighter/Demetrious-Johnson", 
+                            "name": "Demetrious Johnson", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20160602025518/http://www.ufc.com/fighter/Luke-Rockhold", 
+                            "name": "Luke Rockhold", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20160602025518/http://www.ufc.com/fighter/Dominick-Cruz", 
+                            "name": "Dominick Cruz", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20160602025518/http://www.ufc.com/fighter/Robbie-Lawler", 
+                            "name": "Robbie Lawler", 
+                            "rank": "5"
+                        }
+                    ], 
+                    "champ": "", 
+                    "title": "Pound-for-Pound"
+                }, 
+                {
+                    "champUrl": "Demetrious Johnson", 
+                    "fighters": [
+                        {
+                            "url": "Demetrious Johnson", 
+                            "name": "Demetrious Johnson", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20160602025518/http://www.ufc.com/fighter/Joseph-Benavidez", 
+                            "name": "Joseph Benavidez", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20160602025518/http://www.ufc.com/fighter/Henry-Cejudo", 
+                            "name": "Henry Cejudo", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20160602025518/http://www.ufc.com/fighter/jussier-formiga", 
+                            "name": "Jussier Formiga", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20160602025518/http://www.ufc.com/fighter/Kyoji-Horiguchi", 
+                            "name": "Kyoji Horiguchi", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20160602025518/http://www.ufc.com/fighter/Ian-McCall", 
+                            "name": "Ian McCall", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20160602025518/http://www.ufc.com/fighter/John-Moraga", 
+                            "name": "John Moraga", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20160602025518/http://www.ufc.com/fighter/Zach-Makovsky", 
+                            "name": "Zach Makovsky", 
+                            "rank": "7"
+                        }, 
+                        {
+                            "url": "/web/20160602025518/http://www.ufc.com/fighter/Wilson-Reis", 
+                            "name": "Wilson Reis", 
+                            "rank": "8"
+                        }, 
+                        {
+                            "url": "/web/20160602025518/http://www.ufc.com/fighter/Dustin-Ortiz", 
+                            "name": "Dustin Ortiz", 
+                            "rank": "9"
+                        }, 
+                        {
+                            "url": "/web/20160602025518/http://www.ufc.com/fighter/Ali-Bagautinov", 
+                            "name": "Ali Bagautinov", 
+                            "rank": "10"
+                        }, 
+                        {
+                            "url": "/web/20160602025518/http://www.ufc.com/fighter/Justin-Scoggins", 
+                            "name": "Justin Scoggins", 
+                            "rank": "11"
+                        }, 
+                        {
+                            "url": "/web/20160602025518/http://www.ufc.com/fighter/Louis-Smolka", 
+                            "name": "Louis Smolka", 
+                            "rank": "12"
+                        }, 
+                        {
+                            "url": "/web/20160602025518/http://www.ufc.com/fighter/Ray-Borg", 
+                            "name": "Ray Borg", 
+                            "rank": "13"
+                        }, 
+                        {
+                            "url": "/web/20160602025518/http://www.ufc.com/fighter/Sergio-Pettis", 
+                            "name": "Sergio Pettis", 
+                            "rank": "14"
+                        }, 
+                        {
+                            "url": "/web/20160602025518/http://www.ufc.com/fighter/ben-nguyen", 
+                            "name": "Ben Nguyen", 
+                            "rank": "15"
+                        }
+                    ], 
+                    "champ": "Demetrious Johnson", 
+                    "title": "Flyweight"
+                }, 
+                {
+                    "champUrl": "Dominick Cruz", 
+                    "fighters": [
+                        {
+                            "url": "Dominick Cruz", 
+                            "name": "Dominick Cruz", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20160602025518/http://www.ufc.com/fighter/TJ-Dillashaw", 
+                            "name": "TJ Dillashaw", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20160602025518/http://www.ufc.com/fighter/Urijah-Faber", 
+                            "name": "Urijah Faber", 
+                            "rank": "2"
+                        }
+                    ], 
+                    "champ": "Dominick Cruz", 
+                    "title": "Bantamweight"
+                }, 
+                {
+                    "champUrl": "Conor McGregor", 
+                    "fighters": [
+                        {
+                            "url": "Conor McGregor", 
+                            "name": "Conor McGregor", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20160602025518/http://www.ufc.com/fighter/Jose-Aldo", 
+                            "name": "Jose Aldo", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20160602025518/http://www.ufc.com/fighter/Frankie-Edgar", 
+                            "name": "Frankie Edgar", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20160602025518/http://www.ufc.com/fighter/Chad-Mendes", 
+                            "name": "Chad Mendes", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20160602025518/http://www.ufc.com/fighter/Max-Holloway", 
+                            "name": "Max Holloway", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20160602025518/http://www.ufc.com/fighter/Ricardo-Lamas", 
+                            "name": "Ricardo Lamas", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20160602025518/http://www.ufc.com/fighter/Cub-Swanson", 
+                            "name": "Cub Swanson", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20160602025518/http://www.ufc.com/fighter/Charles-Oliveira", 
+                            "name": "Charles Oliveira", 
+                            "rank": "7"
+                        }, 
+                        {
+                            "url": "/web/20160602025518/http://www.ufc.com/fighter/Jeremy-Stephens", 
+                            "name": "Jeremy Stephens", 
+                            "rank": "8"
+                        }
+                    ], 
+                    "champ": "Conor McGregor", 
+                    "title": "Featherweight"
+                }, 
+                {
+                    "champUrl": "Rafael Dos Anjos", 
+                    "fighters": [
+                        {
+                            "url": "Rafael Dos Anjos", 
+                            "name": "Rafael Dos Anjos", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20160602025518/http://www.ufc.com/fighter/Khabib-Nurmagomedov", 
+                            "name": "Khabib Nurmagomedov", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20160602025518/http://www.ufc.com/fighter/eddie-alvarez", 
+                            "name": "Eddie Alvarez", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20160602025518/http://www.ufc.com/fighter/Tony-Ferguson", 
+                            "name": "Tony Ferguson", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20160602025518/http://www.ufc.com/fighter/Donald-Cerrone", 
+                            "name": "Donald Cerrone", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20160602025518/http://www.ufc.com/fighter/Nate-Diaz", 
+                            "name": "Nate Diaz", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20160602025518/http://www.ufc.com/fighter/Edson-Barboza", 
+                            "name": "Edson Barboza", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20160602025518/http://www.ufc.com/fighter/Anthony-Pettis", 
+                            "name": "Anthony Pettis", 
+                            "rank": "7"
+                        }, 
+                        {
+                            "url": "/web/20160602025518/http://www.ufc.com/fighter/Michael-Johnson", 
+                            "name": "Michael Johnson", 
+                            "rank": "8"
+                        }, 
+                        {
+                            "url": "/web/20160602025518/http://www.ufc.com/fighter/Michael-Chiesa", 
+                            "name": "Michael Chiesa", 
+                            "rank": "9"
+                        }, 
+                        {
+                            "url": "/web/20160602025518/http://www.ufc.com/fighter/Beneil-Dariush", 
+                            "name": "Beneil Dariush", 
+                            "rank": "10"
+                        }, 
+                        {
+                            "url": "/web/20160602025518/http://www.ufc.com/fighter/Dustin-Poirier", 
+                            "name": "Dustin Poirier", 
+                            "rank": "11"
+                        }, 
+                        {
+                            "url": "/web/20160602025518/http://www.ufc.com/fighter/Al-Iaquinta", 
+                            "name": "Al Iaquinta", 
+                            "rank": "12"
+                        }, 
+                        {
+                            "url": "/web/20160602025518/http://www.ufc.com/fighter/Bobby-Green", 
+                            "name": "Bobby Green", 
+                            "rank": "13"
+                        }, 
+                        {
+                            "url": "/web/20160602025518/http://www.ufc.com/fighter/Rashid-Magomedov", 
+                            "name": "Rashid Magomedov", 
+                            "rank": "14"
+                        }, 
+                        {
+                            "url": "/web/20160602025518/http://www.ufc.com/fighter/Evan-Dunham", 
+                            "name": "Evan Dunham", 
+                            "rank": "15"
+                        }
+                    ], 
+                    "champ": "Rafael Dos Anjos", 
+                    "title": "Lightweight"
+                }, 
+                {
+                    "champUrl": "Robbie Lawler", 
+                    "fighters": [
+                        {
+                            "url": "Robbie Lawler", 
+                            "name": "Robbie Lawler", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20160602025518/http://www.ufc.com/fighter/Rory-MacDonald", 
+                            "name": "Rory MacDonald", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20160602025518/http://www.ufc.com/fighter/Stephen-Thompson", 
+                            "name": "Stephen Thompson", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20160602025518/http://www.ufc.com/fighter/Tyron-Woodley", 
+                            "name": "Tyron Woodley", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20160602025518/http://www.ufc.com/fighter/Demian-Maia", 
+                            "name": "Demian Maia", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20160602025518/http://www.ufc.com/fighter/Carlos-Condit", 
+                            "name": "Carlos Condit", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20160602025518/http://www.ufc.com/fighter/Johny-Hendricks", 
+                            "name": "Johny Hendricks", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20160602025518/http://www.ufc.com/fighter/Neil-Magny", 
+                            "name": "Neil Magny", 
+                            "rank": "7"
+                        }, 
+                        {
+                            "url": "/web/20160602025518/http://www.ufc.com/fighter/Matt-Brown", 
+                            "name": "Matt Brown", 
+                            "rank": "8"
+                        }, 
+                        {
+                            "url": "/web/20160602025518/http://www.ufc.com/fighter/Dong-Hyun-Kim", 
+                            "name": "Dong Hyun Kim", 
+                            "rank": "9"
+                        }, 
+                        {
+                            "url": "/web/20160602025518/http://www.ufc.com/fighter/Rick-Story", 
+                            "name": "Rick Story", 
+                            "rank": "10"
+                        }
+                    ], 
+                    "champ": "Robbie Lawler", 
+                    "title": "Welterweight"
+                }, 
+                {
+                    "champUrl": "Luke Rockhold", 
+                    "fighters": [
+                        {
+                            "url": "Luke Rockhold", 
+                            "name": "Luke Rockhold", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20160602025518/http://www.ufc.com/fighter/Chris-Weidman", 
+                            "name": "Chris Weidman", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20160602025518/http://www.ufc.com/fighter/Ronaldo-Souza", 
+                            "name": "Jacare Souza", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20160602025518/http://www.ufc.com/fighter/Vitor-Belfort", 
+                            "name": "Vitor Belfort", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20160602025518/http://www.ufc.com/fighter/Michael-Bisping", 
+                            "name": "Michael Bisping", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20160602025518/http://www.ufc.com/fighter/Anderson-Silva", 
+                            "name": "Anderson Silva", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20160602025518/http://www.ufc.com/fighter/robert-whittaker", 
+                            "name": "Robert Whittaker", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20160602025518/http://www.ufc.com/fighter/Lyoto-Machida", 
+                            "name": "Lyoto Machida", 
+                            "rank": "7"
+                        }, 
+                        {
+                            "url": "/web/20160602025518/http://www.ufc.com/fighter/Gegard-Mousasi", 
+                            "name": "Gegard Mousasi", 
+                            "rank": "8"
+                        }, 
+                        {
+                            "url": "/web/20160602025518/http://www.ufc.com/fighter/Tim-Kennedy", 
+                            "name": "Tim Kennedy", 
+                            "rank": "9"
+                        }, 
+                        {
+                            "url": "/web/20160602025518/http://www.ufc.com/fighter/Uriah-Hall", 
+                            "name": "Uriah Hall", 
+                            "rank": "10"
+                        }, 
+                        {
+                            "url": "/web/20160602025518/http://www.ufc.com/fighter/Derek-Brunson", 
+                            "name": "Derek Brunson", 
+                            "rank": "11"
+                        }, 
+                        {
+                            "url": "/web/20160602025518/http://www.ufc.com/fighter/Thales-Leites", 
+                            "name": "Thales Leites", 
+                            "rank": "12"
+                        }, 
+                        {
+                            "url": "/web/20160602025518/http://www.ufc.com/fighter/rafael-natal", 
+                            "name": "Rafael Natal", 
+                            "rank": "13"
+                        }, 
+                        {
+                            "url": "/web/20160602025518/http://www.ufc.com/fighter/Thiago-Santos", 
+                            "name": "Thiago Santos", 
+                            "rank": "14"
+                        }, 
+                        {
+                            "url": "/web/20160602025518/http://www.ufc.com/fighter/Dan-Henderson", 
+                            "name": "Dan Henderson", 
+                            "rank": "15"
+                        }
+                    ], 
+                    "champ": "Luke Rockhold", 
+                    "title": "Middleweight"
+                }, 
+                {
+                    "champUrl": "Daniel Cormier", 
+                    "fighters": [
+                        {
+                            "url": "Daniel Cormier", 
+                            "name": "Daniel Cormier", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20160602025518/http://www.ufc.com/fighter/Jon-Jones", 
+                            "name": "Jon Jones\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t(Interim Champion)", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20160602025518/http://www.ufc.com/fighter/Anthony-Johnson", 
+                            "name": "Anthony Johnson", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20160602025518/http://www.ufc.com/fighter/Glover-Teixeira", 
+                            "name": "Glover Teixeira", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20160602025518/http://www.ufc.com/fighter/Alexander-Gustafsson", 
+                            "name": "Alexander Gustafsson", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20160602025518/http://www.ufc.com/fighter/Ryan-Bader", 
+                            "name": "Ryan Bader", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20160602025518/http://www.ufc.com/fighter/Ovince-St-Preux", 
+                            "name": "Ovince Saint Preux", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20160602025518/http://www.ufc.com/fighter/Mauricio-Rua", 
+                            "name": "Mauricio Rua", 
+                            "rank": "7"
+                        }, 
+                        {
+                            "url": "/web/20160602025518/http://www.ufc.com/fighter/Rashad-Evans", 
+                            "name": "Rashad Evans", 
+                            "rank": "8"
+                        }, 
+                        {
+                            "url": "/web/20160602025518/http://www.ufc.com/fighter/Jimi-Manuwa", 
+                            "name": "Jimi Manuwa", 
+                            "rank": "9"
+                        }, 
+                        {
+                            "url": "/web/20160602025518/http://www.ufc.com/fighter/Antonio-Rogerio-Nogueira", 
+                            "name": "Antonio Rogerio Nogueira", 
+                            "rank": "10"
+                        }, 
+                        {
+                            "url": "/web/20160602025518/http://www.ufc.com/fighter/Nikita-Krylov", 
+                            "name": "Nikita Krylov", 
+                            "rank": "11"
+                        }, 
+                        {
+                            "url": "/web/20160602025518/http://www.ufc.com/fighter/corey-anderson", 
+                            "name": "Corey Anderson", 
+                            "rank": "12"
+                        }, 
+                        {
+                            "url": "/web/20160602025518/http://www.ufc.com/fighter/Ilir-Latifi", 
+                            "name": "Ilir Latifi", 
+                            "rank": "13"
+                        }, 
+                        {
+                            "url": "/web/20160602025518/http://www.ufc.com/fighter/Patrick-Cummins", 
+                            "name": "Patrick Cummins", 
+                            "rank": "14"
+                        }, 
+                        {
+                            "url": "/web/20160602025518/http://www.ufc.com/fighter/Gian-Villante", 
+                            "name": "Gian Villante", 
+                            "rank": "15"
+                        }
+                    ], 
+                    "champ": "Daniel Cormier", 
+                    "title": "Light Heavyweight"
+                }, 
+                {
+                    "champUrl": "Stipe Miocic", 
+                    "fighters": [
+                        {
+                            "url": "Stipe Miocic", 
+                            "name": "Stipe Miocic", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20160602025518/http://www.ufc.com/fighter/Fabricio-Werdum", 
+                            "name": "Fabricio Werdum", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20160602025518/http://www.ufc.com/fighter/Cain-Velasquez", 
+                            "name": "Cain Velasquez", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20160602025518/http://www.ufc.com/fighter/Alistair-Overeem", 
+                            "name": "Alistair Overeem", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20160602025518/http://www.ufc.com/fighter/Junior-Dos-Santos", 
+                            "name": "Junior Dos Santos", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20160602025518/http://www.ufc.com/fighter/Ben-Rothwell", 
+                            "name": "Ben Rothwell", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20160602025518/http://www.ufc.com/fighter/Andrei-Arlovski", 
+                            "name": "Andrei Arlovski", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20160602025518/http://www.ufc.com/fighter/Travis-Browne", 
+                            "name": "Travis Browne", 
+                            "rank": "7"
+                        }, 
+                        {
+                            "url": "/web/20160602025518/http://www.ufc.com/fighter/mark-hunt", 
+                            "name": "Mark Hunt", 
+                            "rank": "8"
+                        }, 
+                        {
+                            "url": "/web/20160602025518/http://www.ufc.com/fighter/Josh-Barnett", 
+                            "name": "Josh Barnett", 
+                            "rank": "9"
+                        }, 
+                        {
+                            "url": "/web/20160602025518/http://www.ufc.com/fighter/Roy-Nelson", 
+                            "name": "Roy Nelson", 
+                            "rank": "10"
+                        }, 
+                        {
+                            "url": "/web/20160602025518/http://www.ufc.com/fighter/Derrick-Lewis", 
+                            "name": "Derrick Lewis", 
+                            "rank": "11"
+                        }, 
+                        {
+                            "url": "/web/20160602025518/http://www.ufc.com/fighter/Frank-Mir", 
+                            "name": "Frank Mir", 
+                            "rank": "12"
+                        }, 
+                        {
+                            "url": "/web/20160602025518/http://www.ufc.com/fighter/Stefan-Struve", 
+                            "name": "Stefan Struve", 
+                            "rank": "13"
+                        }, 
+                        {
+                            "url": "/web/20160602025518/http://www.ufc.com/fighter/Ruslan-Magomedov", 
+                            "name": "Ruslan Magomedov", 
+                            "rank": "14"
+                        }, 
+                        {
+                            "url": "/web/20160602025518/http://www.ufc.com/fighter/Oleksiy-Oliynyk", 
+                            "name": "Alexey Oliynyk", 
+                            "rank": "15"
+                        }
+                    ], 
+                    "champ": "Stipe Miocic", 
+                    "title": "Heavyweight"
+                }, 
+                {
+                    "champUrl": "Joanna Jedrzejczyk", 
+                    "fighters": [
+                        {
+                            "url": "Joanna Jedrzejczyk", 
+                            "name": "Joanna Jedrzejczyk", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20160602025518/http://www.ufc.com/fighter/Claudia-Gadelha", 
+                            "name": "Claudia Gadelha", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20160602025518/http://www.ufc.com/fighter/Carla-Esparza", 
+                            "name": "Carla Esparza", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20160602025518/http://www.ufc.com/fighter/Rose-Namajunas", 
+                            "name": "Rose Namajunas", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20160602025518/http://www.ufc.com/fighter/Tecia-Torres", 
+                            "name": "Tecia Torres", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20160602025518/http://www.ufc.com/fighter/Valerie-Letourneau", 
+                            "name": "Valerie Letourneau", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20160602025518/http://www.ufc.com/fighter/Jessica-Penne", 
+                            "name": "Jessica Penne", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20160602025518/http://www.ufc.com/fighter/karolina-kowalkiewicz", 
+                            "name": "Karolina Kowalkiewicz", 
+                            "rank": "7"
+                        }, 
+                        {
+                            "url": "/web/20160602025518/http://www.ufc.com/fighter/paige-vanzant", 
+                            "name": "Paige VanZant", 
+                            "rank": "8"
+                        }, 
+                        {
+                            "url": "/web/20160602025518/http://www.ufc.com/fighter/maryna-moroz", 
+                            "name": "Maryna Moroz", 
+                            "rank": "9"
+                        }, 
+                        {
+                            "url": "/web/20160602025518/http://www.ufc.com/fighter/michelle-waterson", 
+                            "name": "Michelle Waterson", 
+                            "rank": "10"
+                        }, 
+                        {
+                            "url": "/web/20160602025518/http://www.ufc.com/fighter/Joanne-Calderwood", 
+                            "name": "Joanne Calderwood", 
+                            "rank": "11"
+                        }, 
+                        {
+                            "url": "/web/20160602025518/http://www.ufc.com/fighter/Randa-Markos", 
+                            "name": "Randa Markos", 
+                            "rank": "12"
+                        }, 
+                        {
+                            "url": "/web/20160602025518/http://www.ufc.com/fighter/jessica-aguilar", 
+                            "name": "Jessica Aguilar", 
+                            "rank": "13"
+                        }, 
+                        {
+                            "url": "/web/20160602025518/http://www.ufc.com/fighter/Juliana-Lima", 
+                            "name": "Juliana Lima", 
+                            "rank": "14"
+                        }, 
+                        {
+                            "url": "/web/20160602025518/http://www.ufc.com/fighter/Justine-Kish", 
+                            "name": "Justine Kish", 
+                            "rank": "15"
+                        }
+                    ], 
+                    "champ": "Joanna Jedrzejczyk", 
+                    "title": "Women's Strawweight"
+                }, 
+                {
+                    "champUrl": "Miesha Tate", 
+                    "fighters": [
+                        {
+                            "url": "Miesha Tate", 
+                            "name": "Miesha Tate", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20160602025518/http://www.ufc.com/fighter/holly-holm", 
+                            "name": "Holly Holm", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20160602025518/http://www.ufc.com/fighter/Ronda-Rousey", 
+                            "name": "Ronda Rousey", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20160602025518/http://www.ufc.com/fighter/Cat-Zingano", 
+                            "name": "Cat Zingano", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20160602025518/http://www.ufc.com/fighter/Amanda-Nunes", 
+                            "name": "Amanda Nunes", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20160602025518/http://www.ufc.com/fighter/Julianna-Pena", 
+                            "name": "Julianna Pena", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20160602025518/http://www.ufc.com/fighter/Sara-McMann", 
+                            "name": "Sara McMann", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20160602025518/http://www.ufc.com/fighter/Valentina-Shevchenko", 
+                            "name": "Valentina Shevchenko", 
+                            "rank": "7"
+                        }
+                    ], 
+                    "champ": "Miesha Tate", 
+                    "title": "Women's Bantamweight"
+                }
+            ]
+        }, 
+        {
+            "url": "http://web.archive.org/web/20160708090754/http://www.ufc.com/rankings", 
+            "date": [
+                "Fri", 
+                "Jul", 
+                "08", 
+                "00:00:00", 
+                "UTC", 
+                "2016"
+            ], 
+            "displayDate": "Jul 2016", 
+            "divisions": [
+                {
+                    "champUrl": "", 
+                    "fighters": [
+                        {
+                            "url": "", 
+                            "name": "", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20160708090754/http://www.ufc.com/fighter/Jon-Jones", 
+                            "name": "Jon Jones", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20160708090754/http://www.ufc.com/fighter/Demetrious-Johnson", 
+                            "name": "Demetrious Johnson", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20160708090754/http://www.ufc.com/fighter/Dominick-Cruz", 
+                            "name": "Dominick Cruz", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20160708090754/http://www.ufc.com/fighter/Robbie-Lawler", 
+                            "name": "Robbie Lawler", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20160708090754/http://www.ufc.com/fighter/Rafael-Dos-Anjos", 
+                            "name": "Rafael Dos Anjos", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20160708090754/http://www.ufc.com/fighter/Conor-McGregor", 
+                            "name": "Conor McGregor", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20160708090754/http://www.ufc.com/fighter/Daniel-Cormier", 
+                            "name": "Daniel Cormier", 
+                            "rank": "7"
+                        }, 
+                        {
+                            "url": "/web/20160708090754/http://www.ufc.com/fighter/Jose-Aldo", 
+                            "name": "Jose Aldo", 
+                            "rank": "8"
+                        }, 
+                        {
+                            "url": "/web/20160708090754/http://www.ufc.com/fighter/Michael-Bisping", 
+                            "name": "Michael Bisping", 
+                            "rank": "9"
+                        }, 
+                        {
+                            "url": "/web/20160708090754/http://www.ufc.com/fighter/Frankie-Edgar", 
+                            "name": "Frankie Edgar", 
+                            "rank": "10"
+                        }, 
+                        {
+                            "url": "/web/20160708090754/http://www.ufc.com/fighter/Stipe-Miocic", 
+                            "name": "Stipe Miocic", 
+                            "rank": "11"
+                        }, 
+                        {
+                            "url": "/web/20160708090754/http://www.ufc.com/fighter/Joanna-Jedrzejczyk", 
+                            "name": "Joanna Jedrzejczyk", 
+                            "rank": "12"
+                        }, 
+                        {
+                            "url": "/web/20160708090754/http://www.ufc.com/fighter/Luke-Rockhold", 
+                            "name": "Luke Rockhold", 
+                            "rank": "13"
+                        }, 
+                        {
+                            "url": "/web/20160708090754/http://www.ufc.com/fighter/Chris-Weidman", 
+                            "name": "Chris Weidman", 
+                            "rank": "14"
+                        }, 
+                        {
+                            "url": "/web/20160708090754/http://www.ufc.com/fighter/Fabricio-Werdum", 
+                            "name": "Fabricio Werdum", 
+                            "rank": "15"
+                        }
+                    ], 
+                    "champ": "", 
+                    "title": "Pound-for-Pound"
+                }, 
+                {
+                    "champUrl": "Demetrious Johnson", 
+                    "fighters": [
+                        {
+                            "url": "Demetrious Johnson", 
+                            "name": "Demetrious Johnson", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20160708090754/http://www.ufc.com/fighter/Joseph-Benavidez", 
+                            "name": "Joseph Benavidez", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20160708090754/http://www.ufc.com/fighter/Henry-Cejudo", 
+                            "name": "Henry Cejudo", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20160708090754/http://www.ufc.com/fighter/jussier-formiga", 
+                            "name": "Jussier Formiga", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20160708090754/http://www.ufc.com/fighter/Kyoji-Horiguchi", 
+                            "name": "Kyoji Horiguchi", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20160708090754/http://www.ufc.com/fighter/Ian-McCall", 
+                            "name": "Ian McCall", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20160708090754/http://www.ufc.com/fighter/John-Moraga", 
+                            "name": "John Moraga", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20160708090754/http://www.ufc.com/fighter/Zach-Makovsky", 
+                            "name": "Zach Makovsky", 
+                            "rank": "7"
+                        }, 
+                        {
+                            "url": "/web/20160708090754/http://www.ufc.com/fighter/Wilson-Reis", 
+                            "name": "Wilson Reis", 
+                            "rank": "8"
+                        }, 
+                        {
+                            "url": "/web/20160708090754/http://www.ufc.com/fighter/Ali-Bagautinov", 
+                            "name": "Ali Bagautinov", 
+                            "rank": "9"
+                        }
+                    ], 
+                    "champ": "Demetrious Johnson", 
+                    "title": "Flyweight"
+                }, 
+                {
+                    "champUrl": "Dominick Cruz", 
+                    "fighters": [
+                        {
+                            "url": "Dominick Cruz", 
+                            "name": "Dominick Cruz", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20160708090754/http://www.ufc.com/fighter/TJ-Dillashaw", 
+                            "name": "TJ Dillashaw", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20160708090754/http://www.ufc.com/fighter/Urijah-Faber", 
+                            "name": "Urijah Faber", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20160708090754/http://www.ufc.com/fighter/Raphael-Assuncao", 
+                            "name": "Raphael Assuncao", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20160708090754/http://www.ufc.com/fighter/Bryan-Caraway", 
+                            "name": "Bryan Caraway", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20160708090754/http://www.ufc.com/fighter/Michael-McDonald", 
+                            "name": "Michael McDonald", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20160708090754/http://www.ufc.com/fighter/Aljamain-Sterling", 
+                            "name": "Aljamain Sterling", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20160708090754/http://www.ufc.com/fighter/cody-garbrandt", 
+                            "name": "Cody Garbrandt", 
+                            "rank": "7"
+                        }, 
+                        {
+                            "url": "/web/20160708090754/http://www.ufc.com/fighter/John-Lineker", 
+                            "name": "John Lineker", 
+                            "rank": "8"
+                        }, 
+                        {
+                            "url": "/web/20160708090754/http://www.ufc.com/fighter/John-Dodson", 
+                            "name": "John Dodson", 
+                            "rank": "9"
+                        }
+                    ], 
+                    "champ": "Dominick Cruz", 
+                    "title": "Bantamweight"
+                }, 
+                {
+                    "champUrl": "Conor McGregor", 
+                    "fighters": [
+                        {
+                            "url": "Conor McGregor", 
+                            "name": "Conor McGregor", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20160708090754/http://www.ufc.com/fighter/Jose-Aldo", 
+                            "name": "Jose Aldo", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20160708090754/http://www.ufc.com/fighter/Frankie-Edgar", 
+                            "name": "Frankie Edgar", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20160708090754/http://www.ufc.com/fighter/Max-Holloway", 
+                            "name": "Max Holloway", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20160708090754/http://www.ufc.com/fighter/Chad-Mendes", 
+                            "name": "Chad Mendes", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20160708090754/http://www.ufc.com/fighter/Ricardo-Lamas", 
+                            "name": "Ricardo Lamas", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20160708090754/http://www.ufc.com/fighter/Cub-Swanson", 
+                            "name": "Cub Swanson", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20160708090754/http://www.ufc.com/fighter/Charles-Oliveira", 
+                            "name": "Charles Oliveira", 
+                            "rank": "7"
+                        }, 
+                        {
+                            "url": "/web/20160708090754/http://www.ufc.com/fighter/Jeremy-Stephens", 
+                            "name": "Jeremy Stephens", 
+                            "rank": "8"
+                        }, 
+                        {
+                            "url": "/web/20160708090754/http://www.ufc.com/fighter/Dennis-Bermudez", 
+                            "name": "Dennis Bermudez", 
+                            "rank": "9"
+                        }, 
+                        {
+                            "url": "/web/20160708090754/http://www.ufc.com/fighter/Brian-Ortega", 
+                            "name": "Brian Ortega", 
+                            "rank": "10"
+                        }, 
+                        {
+                            "url": "/web/20160708090754/http://www.ufc.com/fighter/Hacran-Dias", 
+                            "name": "Hacran Dias", 
+                            "rank": "11"
+                        }, 
+                        {
+                            "url": "/web/20160708090754/http://www.ufc.com/fighter/Darren-Elkins", 
+                            "name": "Darren Elkins", 
+                            "rank": "12"
+                        }, 
+                        {
+                            "url": "/web/20160708090754/http://www.ufc.com/fighter/yair-rodriguez", 
+                            "name": "Yair Rodriguez", 
+                            "rank": "13"
+                        }, 
+                        {
+                            "url": "/web/20160708090754/http://www.ufc.com/fighter/Tatsuya-Kawajiri", 
+                            "name": "Tatsuya Kawajiri", 
+                            "rank": "14"
+                        }, 
+                        {
+                            "url": "/web/20160708090754/http://www.ufc.com/fighter/Mirsad-Bektic", 
+                            "name": "Mirsad Bektic", 
+                            "rank": "15"
+                        }
+                    ], 
+                    "champ": "Conor McGregor", 
+                    "title": "Featherweight"
+                }, 
+                {
+                    "champUrl": "Rafael Dos Anjos", 
+                    "fighters": [
+                        {
+                            "url": "Rafael Dos Anjos", 
+                            "name": "Rafael Dos Anjos", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20160708090754/http://www.ufc.com/fighter/Khabib-Nurmagomedov", 
+                            "name": "Khabib Nurmagomedov", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20160708090754/http://www.ufc.com/fighter/eddie-alvarez", 
+                            "name": "Eddie Alvarez", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20160708090754/http://www.ufc.com/fighter/Tony-Ferguson", 
+                            "name": "Tony Ferguson", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20160708090754/http://www.ufc.com/fighter/Donald-Cerrone", 
+                            "name": "Donald Cerrone", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20160708090754/http://www.ufc.com/fighter/Nate-Diaz", 
+                            "name": "Nate Diaz", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20160708090754/http://www.ufc.com/fighter/Edson-Barboza", 
+                            "name": "Edson Barboza", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20160708090754/http://www.ufc.com/fighter/Anthony-Pettis", 
+                            "name": "Anthony Pettis", 
+                            "rank": "7"
+                        }, 
+                        {
+                            "url": "/web/20160708090754/http://www.ufc.com/fighter/Michael-Johnson", 
+                            "name": "Michael Johnson", 
+                            "rank": "8"
+                        }, 
+                        {
+                            "url": "/web/20160708090754/http://www.ufc.com/fighter/Dustin-Poirier", 
+                            "name": "Dustin Poirier", 
+                            "rank": "9"
+                        }, 
+                        {
+                            "url": "/web/20160708090754/http://www.ufc.com/fighter/Michael-Chiesa", 
+                            "name": "Michael Chiesa", 
+                            "rank": "10"
+                        }, 
+                        {
+                            "url": "/web/20160708090754/http://www.ufc.com/fighter/Beneil-Dariush", 
+                            "name": "Beneil Dariush", 
+                            "rank": "11"
+                        }, 
+                        {
+                            "url": "/web/20160708090754/http://www.ufc.com/fighter/Al-Iaquinta", 
+                            "name": "Al Iaquinta", 
+                            "rank": "12"
+                        }, 
+                        {
+                            "url": "/web/20160708090754/http://www.ufc.com/fighter/Evan-Dunham", 
+                            "name": "Evan Dunham", 
+                            "rank": "13"
+                        }
+                    ], 
+                    "champ": "Rafael Dos Anjos", 
+                    "title": "Lightweight"
+                }, 
+                {
+                    "champUrl": "Robbie Lawler", 
+                    "fighters": [
+                        {
+                            "url": "Robbie Lawler", 
+                            "name": "Robbie Lawler", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20160708090754/http://www.ufc.com/fighter/Stephen-Thompson", 
+                            "name": "Stephen Thompson", 
+                            "rank": "1"
+                        }
+                    ], 
+                    "champ": "Robbie Lawler", 
+                    "title": "Welterweight"
+                }, 
+                {
+                    "champUrl": "Michael Bisping", 
+                    "fighters": [
+                        {
+                            "url": "Michael Bisping", 
+                            "name": "Michael Bisping", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20160708090754/http://www.ufc.com/fighter/Luke-Rockhold", 
+                            "name": "Luke Rockhold", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20160708090754/http://www.ufc.com/fighter/Chris-Weidman", 
+                            "name": "Chris Weidman", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20160708090754/http://www.ufc.com/fighter/Ronaldo-Souza", 
+                            "name": "Jacare Souza", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20160708090754/http://www.ufc.com/fighter/Vitor-Belfort", 
+                            "name": "Vitor Belfort", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20160708090754/http://www.ufc.com/fighter/Anderson-Silva", 
+                            "name": "Anderson Silva", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20160708090754/http://www.ufc.com/fighter/robert-whittaker", 
+                            "name": "Robert Whittaker", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20160708090754/http://www.ufc.com/fighter/Lyoto-Machida", 
+                            "name": "Lyoto Machida", 
+                            "rank": "7"
+                        }, 
+                        {
+                            "url": "/web/20160708090754/http://www.ufc.com/fighter/Gegard-Mousasi", 
+                            "name": "Gegard Mousasi", 
+                            "rank": "8"
+                        }, 
+                        {
+                            "url": "/web/20160708090754/http://www.ufc.com/fighter/Uriah-Hall", 
+                            "name": "Uriah Hall", 
+                            "rank": "9"
+                        }, 
+                        {
+                            "url": "/web/20160708090754/http://www.ufc.com/fighter/Derek-Brunson", 
+                            "name": "Derek Brunson", 
+                            "rank": "10"
+                        }
+                    ], 
+                    "champ": "Michael Bisping", 
+                    "title": "Middleweight"
+                }, 
+                {
+                    "champUrl": "Daniel Cormier", 
+                    "fighters": [
+                        {
+                            "url": "Daniel Cormier", 
+                            "name": "Daniel Cormier", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20160708090754/http://www.ufc.com/fighter/Jon-Jones", 
+                            "name": "Jon Jones\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t(Interim Champion)", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20160708090754/http://www.ufc.com/fighter/Anthony-Johnson", 
+                            "name": "Anthony Johnson", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20160708090754/http://www.ufc.com/fighter/Glover-Teixeira", 
+                            "name": "Glover Teixeira", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20160708090754/http://www.ufc.com/fighter/Alexander-Gustafsson", 
+                            "name": "Alexander Gustafsson", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20160708090754/http://www.ufc.com/fighter/Ryan-Bader", 
+                            "name": "Ryan Bader", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20160708090754/http://www.ufc.com/fighter/Ovince-St-Preux", 
+                            "name": "Ovince Saint Preux", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20160708090754/http://www.ufc.com/fighter/Mauricio-Rua", 
+                            "name": "Mauricio Rua", 
+                            "rank": "7"
+                        }, 
+                        {
+                            "url": "/web/20160708090754/http://www.ufc.com/fighter/Rashad-Evans", 
+                            "name": "Rashad Evans", 
+                            "rank": "8"
+                        }, 
+                        {
+                            "url": "/web/20160708090754/http://www.ufc.com/fighter/Jimi-Manuwa", 
+                            "name": "Jimi Manuwa", 
+                            "rank": "9"
+                        }, 
+                        {
+                            "url": "/web/20160708090754/http://www.ufc.com/fighter/Antonio-Rogerio-Nogueira", 
+                            "name": "Antonio Rogerio Nogueira", 
+                            "rank": "10"
+                        }, 
+                        {
+                            "url": "/web/20160708090754/http://www.ufc.com/fighter/Nikita-Krylov", 
+                            "name": "Nikita Krylov", 
+                            "rank": "11"
+                        }, 
+                        {
+                            "url": "/web/20160708090754/http://www.ufc.com/fighter/corey-anderson", 
+                            "name": "Corey Anderson", 
+                            "rank": "12"
+                        }, 
+                        {
+                            "url": "/web/20160708090754/http://www.ufc.com/fighter/Ilir-Latifi", 
+                            "name": "Ilir Latifi", 
+                            "rank": "13"
+                        }, 
+                        {
+                            "url": "/web/20160708090754/http://www.ufc.com/fighter/Patrick-Cummins", 
+                            "name": "Patrick Cummins", 
+                            "rank": "14"
+                        }, 
+                        {
+                            "url": "/web/20160708090754/http://www.ufc.com/fighter/Gian-Villante", 
+                            "name": "Gian Villante", 
+                            "rank": "15"
+                        }
+                    ], 
+                    "champ": "Daniel Cormier", 
+                    "title": "Light Heavyweight"
+                }, 
+                {
+                    "champUrl": "Stipe Miocic", 
+                    "fighters": [
+                        {
+                            "url": "Stipe Miocic", 
+                            "name": "Stipe Miocic", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20160708090754/http://www.ufc.com/fighter/Fabricio-Werdum", 
+                            "name": "Fabricio Werdum", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20160708090754/http://www.ufc.com/fighter/Cain-Velasquez", 
+                            "name": "Cain Velasquez", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20160708090754/http://www.ufc.com/fighter/Alistair-Overeem", 
+                            "name": "Alistair Overeem", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20160708090754/http://www.ufc.com/fighter/Junior-Dos-Santos", 
+                            "name": "Junior Dos Santos", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20160708090754/http://www.ufc.com/fighter/Ben-Rothwell", 
+                            "name": "Ben Rothwell", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20160708090754/http://www.ufc.com/fighter/Andrei-Arlovski", 
+                            "name": "Andrei Arlovski", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20160708090754/http://www.ufc.com/fighter/Travis-Browne", 
+                            "name": "Travis Browne", 
+                            "rank": "7"
+                        }, 
+                        {
+                            "url": "/web/20160708090754/http://www.ufc.com/fighter/mark-hunt", 
+                            "name": "Mark Hunt", 
+                            "rank": "8"
+                        }, 
+                        {
+                            "url": "/web/20160708090754/http://www.ufc.com/fighter/Josh-Barnett", 
+                            "name": "Josh Barnett", 
+                            "rank": "9"
+                        }, 
+                        {
+                            "url": "/web/20160708090754/http://www.ufc.com/fighter/Roy-Nelson", 
+                            "name": "Roy Nelson", 
+                            "rank": "10"
+                        }, 
+                        {
+                            "url": "/web/20160708090754/http://www.ufc.com/fighter/Frank-Mir", 
+                            "name": "Frank Mir", 
+                            "rank": "11"
+                        }
+                    ], 
+                    "champ": "Stipe Miocic", 
+                    "title": "Heavyweight"
+                }, 
+                {
+                    "champUrl": "Joanna Jedrzejczyk", 
+                    "fighters": [
+                        {
+                            "url": "Joanna Jedrzejczyk", 
+                            "name": "Joanna Jedrzejczyk", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20160708090754/http://www.ufc.com/fighter/Claudia-Gadelha", 
+                            "name": "Claudia Gadelha", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20160708090754/http://www.ufc.com/fighter/Carla-Esparza", 
+                            "name": "Carla Esparza", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20160708090754/http://www.ufc.com/fighter/Rose-Namajunas", 
+                            "name": "Rose Namajunas", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20160708090754/http://www.ufc.com/fighter/Tecia-Torres", 
+                            "name": "Tecia Torres", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20160708090754/http://www.ufc.com/fighter/karolina-kowalkiewicz", 
+                            "name": "Karolina Kowalkiewicz", 
+                            "rank": "5"
+                        }
+                    ], 
+                    "champ": "Joanna Jedrzejczyk", 
+                    "title": "Women's Strawweight"
+                }, 
+                {
+                    "champUrl": "Miesha Tate", 
+                    "fighters": [
+                        {
+                            "url": "Miesha Tate", 
+                            "name": "Miesha Tate", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20160708090754/http://www.ufc.com/fighter/holly-holm", 
+                            "name": "Holly Holm", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20160708090754/http://www.ufc.com/fighter/Ronda-Rousey", 
+                            "name": "Ronda Rousey", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20160708090754/http://www.ufc.com/fighter/Cat-Zingano", 
+                            "name": "Cat Zingano", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20160708090754/http://www.ufc.com/fighter/Amanda-Nunes", 
+                            "name": "Amanda Nunes", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20160708090754/http://www.ufc.com/fighter/Julianna-Pena", 
+                            "name": "Julianna Pena", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20160708090754/http://www.ufc.com/fighter/Sara-McMann", 
+                            "name": "Sara McMann", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20160708090754/http://www.ufc.com/fighter/Valentina-Shevchenko", 
+                            "name": "Valentina Shevchenko", 
+                            "rank": "7"
+                        }, 
+                        {
+                            "url": "/web/20160708090754/http://www.ufc.com/fighter/Liz-Carmouche", 
+                            "name": "Liz Carmouche", 
+                            "rank": "8"
+                        }, 
+                        {
+                            "url": "/web/20160708090754/http://www.ufc.com/fighter/Raquel-Pennington", 
+                            "name": "Raquel Pennington", 
+                            "rank": "9"
+                        }, 
+                        {
+                            "url": "/web/20160708090754/http://www.ufc.com/fighter/Jessica-Eye", 
+                            "name": "Jessica Eye", 
+                            "rank": "10"
+                        }, 
+                        {
+                            "url": "/web/20160708090754/http://www.ufc.com/fighter/Bethe-Correia", 
+                            "name": "Bethe Correia", 
+                            "rank": "11"
+                        }, 
+                        {
+                            "url": "/web/20160708090754/http://www.ufc.com/fighter/Germaine-DeRandamie", 
+                            "name": "Germaine de Randamie", 
+                            "rank": "12"
+                        }, 
+                        {
+                            "url": "/web/20160708090754/http://www.ufc.com/fighter/Lauren-Murphy", 
+                            "name": "Lauren Murphy", 
+                            "rank": "13"
+                        }, 
+                        {
+                            "url": "/web/20160708090754/http://www.ufc.com/fighter/ashlee-evans-smith", 
+                            "name": "Ashlee Evans-Smith", 
+                            "rank": "14"
+                        }, 
+                        {
+                            "url": "/web/20160708090754/http://www.ufc.com/fighter/marion-reneau", 
+                            "name": "Marion Reneau", 
+                            "rank": "15"
+                        }
+                    ], 
+                    "champ": "Miesha Tate", 
+                    "title": "Women's Bantamweight"
+                }
+            ]
+        }, 
+        {
+            "url": "http://web.archive.org/web/20160804170727/http://www.ufc.com/rankings", 
+            "date": [
+                "Thu", 
+                "Aug", 
+                "04", 
+                "00:00:00", 
+                "UTC", 
+                "2016"
+            ], 
+            "displayDate": "Aug 2016", 
+            "divisions": [
+                {
+                    "champUrl": "", 
+                    "fighters": [
+                        {
+                            "url": "", 
+                            "name": "", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20160804170727/http://www.ufc.com/fighter/Demetrious-Johnson", 
+                            "name": "Demetrious Johnson", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20160804170727/http://www.ufc.com/fighter/Dominick-Cruz", 
+                            "name": "Dominick Cruz", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20160804170727/http://www.ufc.com/fighter/Daniel-Cormier", 
+                            "name": "Daniel Cormier", 
+                            "rank": "3"
+                        }
+                    ], 
+                    "champ": "", 
+                    "title": "Pound-for-Pound"
+                }, 
+                {
+                    "champUrl": "Demetrious Johnson", 
+                    "fighters": [
+                        {
+                            "url": "Demetrious Johnson", 
+                            "name": "Demetrious Johnson", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20160804170727/http://www.ufc.com/fighter/Joseph-Benavidez", 
+                            "name": "Joseph Benavidez", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20160804170727/http://www.ufc.com/fighter/Henry-Cejudo", 
+                            "name": "Henry Cejudo", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20160804170727/http://www.ufc.com/fighter/Kyoji-Horiguchi", 
+                            "name": "Kyoji Horiguchi", 
+                            "rank": "3"
+                        }
+                    ], 
+                    "champ": "Demetrious Johnson", 
+                    "title": "Flyweight"
+                }, 
+                {
+                    "champUrl": "Dominick Cruz", 
+                    "fighters": [
+                        {
+                            "url": "Dominick Cruz", 
+                            "name": "Dominick Cruz", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20160804170727/http://www.ufc.com/fighter/TJ-Dillashaw", 
+                            "name": "TJ Dillashaw", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20160804170727/http://www.ufc.com/fighter/Urijah-Faber", 
+                            "name": "Urijah Faber", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20160804170727/http://www.ufc.com/fighter/Raphael-Assuncao", 
+                            "name": "Raphael Assuncao", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20160804170727/http://www.ufc.com/fighter/Bryan-Caraway", 
+                            "name": "Bryan Caraway", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20160804170727/http://www.ufc.com/fighter/John-Lineker", 
+                            "name": "John Lineker", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20160804170727/http://www.ufc.com/fighter/Aljamain-Sterling", 
+                            "name": "Aljamain Sterling", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20160804170727/http://www.ufc.com/fighter/Michael-McDonald", 
+                            "name": "Michael McDonald", 
+                            "rank": "7"
+                        }, 
+                        {
+                            "url": "/web/20160804170727/http://www.ufc.com/fighter/cody-garbrandt", 
+                            "name": "Cody Garbrandt", 
+                            "rank": "8"
+                        }, 
+                        {
+                            "url": "/web/20160804170727/http://www.ufc.com/fighter/John-Dodson", 
+                            "name": "John Dodson", 
+                            "rank": "9"
+                        }, 
+                        {
+                            "url": "/web/20160804170727/http://www.ufc.com/fighter/thomas-almeida", 
+                            "name": "Thomas Almeida", 
+                            "rank": "10"
+                        }, 
+                        {
+                            "url": "/web/20160804170727/http://www.ufc.com/fighter/Takeya-Mizugaki", 
+                            "name": "Takeya Mizugaki", 
+                            "rank": "11"
+                        }, 
+                        {
+                            "url": "/web/20160804170727/http://www.ufc.com/fighter/Eddie-Wineland", 
+                            "name": "Eddie Wineland", 
+                            "rank": "12"
+                        }, 
+                        {
+                            "url": "/web/20160804170727/http://www.ufc.com/fighter/jimmie-rivera", 
+                            "name": "Jimmie Rivera", 
+                            "rank": "13"
+                        }, 
+                        {
+                            "url": "/web/20160804170727/http://www.ufc.com/fighter/Johnny-Eduardo", 
+                            "name": "Johnny Eduardo", 
+                            "rank": "14"
+                        }
+                    ], 
+                    "champ": "Dominick Cruz", 
+                    "title": "Bantamweight"
+                }, 
+                {
+                    "champUrl": "Conor McGregor", 
+                    "fighters": [
+                        {
+                            "url": "Conor McGregor", 
+                            "name": "Conor McGregor", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20160804170727/http://www.ufc.com/fighter/Jose-Aldo", 
+                            "name": "Jose Aldo\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t(Interim Champion)", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20160804170727/http://www.ufc.com/fighter/Frankie-Edgar", 
+                            "name": "Frankie Edgar", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20160804170727/http://www.ufc.com/fighter/Max-Holloway", 
+                            "name": "Max Holloway", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20160804170727/http://www.ufc.com/fighter/Ricardo-Lamas", 
+                            "name": "Ricardo Lamas", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20160804170727/http://www.ufc.com/fighter/Cub-Swanson", 
+                            "name": "Cub Swanson", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20160804170727/http://www.ufc.com/fighter/Charles-Oliveira", 
+                            "name": "Charles Oliveira", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20160804170727/http://www.ufc.com/fighter/Jeremy-Stephens", 
+                            "name": "Jeremy Stephens", 
+                            "rank": "7"
+                        }, 
+                        {
+                            "url": "/web/20160804170727/http://www.ufc.com/fighter/Dennis-Bermudez", 
+                            "name": "Dennis Bermudez", 
+                            "rank": "8"
+                        }, 
+                        {
+                            "url": "/web/20160804170727/http://www.ufc.com/fighter/Brian-Ortega", 
+                            "name": "Brian Ortega", 
+                            "rank": "9"
+                        }, 
+                        {
+                            "url": "/web/20160804170727/http://www.ufc.com/fighter/Hacran-Dias", 
+                            "name": "Hacran Dias", 
+                            "rank": "10"
+                        }, 
+                        {
+                            "url": "/web/20160804170727/http://www.ufc.com/fighter/Darren-Elkins", 
+                            "name": "Darren Elkins", 
+                            "rank": "11"
+                        }, 
+                        {
+                            "url": "/web/20160804170727/http://www.ufc.com/fighter/Dooho-Choi", 
+                            "name": "Dooho Choi", 
+                            "rank": "12"
+                        }, 
+                        {
+                            "url": "/web/20160804170727/http://www.ufc.com/fighter/yair-rodriguez", 
+                            "name": "Yair Rodriguez", 
+                            "rank": "13"
+                        }, 
+                        {
+                            "url": "/web/20160804170727/http://www.ufc.com/fighter/Tatsuya-Kawajiri", 
+                            "name": "Tatsuya Kawajiri", 
+                            "rank": "14"
+                        }, 
+                        {
+                            "url": "/web/20160804170727/http://www.ufc.com/fighter/Mirsad-Bektic", 
+                            "name": "Mirsad Bektic", 
+                            "rank": "15"
+                        }
+                    ], 
+                    "champ": "Conor McGregor", 
+                    "title": "Featherweight"
+                }, 
+                {
+                    "champUrl": "Eddie Alvarez", 
+                    "fighters": [
+                        {
+                            "url": "Eddie Alvarez", 
+                            "name": "Eddie Alvarez", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20160804170727/http://www.ufc.com/fighter/Khabib-Nurmagomedov", 
+                            "name": "Khabib Nurmagomedov", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20160804170727/http://www.ufc.com/fighter/Rafael-Dos-Anjos", 
+                            "name": "Rafael Dos Anjos", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20160804170727/http://www.ufc.com/fighter/Tony-Ferguson", 
+                            "name": "Tony Ferguson", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20160804170727/http://www.ufc.com/fighter/Nate-Diaz", 
+                            "name": "Nate Diaz", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20160804170727/http://www.ufc.com/fighter/Edson-Barboza", 
+                            "name": "Edson Barboza", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20160804170727/http://www.ufc.com/fighter/Donald-Cerrone", 
+                            "name": "Donald Cerrone", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20160804170727/http://www.ufc.com/fighter/Anthony-Pettis", 
+                            "name": "Anthony Pettis", 
+                            "rank": "7"
+                        }, 
+                        {
+                            "url": "/web/20160804170727/http://www.ufc.com/fighter/Dustin-Poirier", 
+                            "name": "Dustin Poirier", 
+                            "rank": "8"
+                        }, 
+                        {
+                            "url": "/web/20160804170727/http://www.ufc.com/fighter/Michael-Chiesa", 
+                            "name": "Michael Chiesa", 
+                            "rank": "9"
+                        }, 
+                        {
+                            "url": "/web/20160804170727/http://www.ufc.com/fighter/Michael-Johnson", 
+                            "name": "Michael Johnson", 
+                            "rank": "10"
+                        }, 
+                        {
+                            "url": "/web/20160804170727/http://www.ufc.com/fighter/Beneil-Dariush", 
+                            "name": "Beneil Dariush", 
+                            "rank": "11"
+                        }, 
+                        {
+                            "url": "/web/20160804170727/http://www.ufc.com/fighter/will-brooks", 
+                            "name": "Will Brooks", 
+                            "rank": "12"
+                        }, 
+                        {
+                            "url": "/web/20160804170727/http://www.ufc.com/fighter/Al-Iaquinta", 
+                            "name": "Al Iaquinta", 
+                            "rank": "13"
+                        }, 
+                        {
+                            "url": "/web/20160804170727/http://www.ufc.com/fighter/Gilbert-Melendez", 
+                            "name": "Gilbert Melendez", 
+                            "rank": "14"
+                        }, 
+                        {
+                            "url": "/web/20160804170727/http://www.ufc.com/fighter/Rashid-Magomedov", 
+                            "name": "Rashid Magomedov", 
+                            "rank": "15"
+                        }
+                    ], 
+                    "champ": "Eddie Alvarez", 
+                    "title": "Lightweight"
+                }, 
+                {
+                    "champUrl": "Tyron Woodley", 
+                    "fighters": [
+                        {
+                            "url": "Tyron Woodley", 
+                            "name": "Tyron Woodley", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20160804170727/http://www.ufc.com/fighter/Robbie-Lawler", 
+                            "name": "Robbie Lawler", 
+                            "rank": "1"
+                        }
+                    ], 
+                    "champ": "Tyron Woodley", 
+                    "title": "Welterweight"
+                }, 
+                {
+                    "champUrl": "Michael Bisping", 
+                    "fighters": [
+                        {
+                            "url": "Michael Bisping", 
+                            "name": "Michael Bisping", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20160804170727/http://www.ufc.com/fighter/Luke-Rockhold", 
+                            "name": "Luke Rockhold", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20160804170727/http://www.ufc.com/fighter/Chris-Weidman", 
+                            "name": "Chris Weidman", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20160804170727/http://www.ufc.com/fighter/Ronaldo-Souza", 
+                            "name": "Jacare Souza", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20160804170727/http://www.ufc.com/fighter/Vitor-Belfort", 
+                            "name": "Vitor Belfort", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20160804170727/http://www.ufc.com/fighter/Anderson-Silva", 
+                            "name": "Anderson Silva", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20160804170727/http://www.ufc.com/fighter/robert-whittaker", 
+                            "name": "Robert Whittaker", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20160804170727/http://www.ufc.com/fighter/Gegard-Mousasi", 
+                            "name": "Gegard Mousasi", 
+                            "rank": "7"
+                        }, 
+                        {
+                            "url": "/web/20160804170727/http://www.ufc.com/fighter/Lyoto-Machida", 
+                            "name": "Lyoto Machida", 
+                            "rank": "7"
+                        }
+                    ], 
+                    "champ": "Michael Bisping", 
+                    "title": "Middleweight"
+                }, 
+                {
+                    "champUrl": "Daniel Cormier", 
+                    "fighters": [
+                        {
+                            "url": "Daniel Cormier", 
+                            "name": "Daniel Cormier", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20160804170727/http://www.ufc.com/fighter/Jon-Jones", 
+                            "name": "Jon Jones\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t(Interim Champion)", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20160804170727/http://www.ufc.com/fighter/Anthony-Johnson", 
+                            "name": "Anthony Johnson", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20160804170727/http://www.ufc.com/fighter/Glover-Teixeira", 
+                            "name": "Glover Teixeira", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20160804170727/http://www.ufc.com/fighter/Alexander-Gustafsson", 
+                            "name": "Alexander Gustafsson", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20160804170727/http://www.ufc.com/fighter/Ryan-Bader", 
+                            "name": "Ryan Bader", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20160804170727/http://www.ufc.com/fighter/Ovince-St-Preux", 
+                            "name": "Ovince Saint Preux", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20160804170727/http://www.ufc.com/fighter/Mauricio-Rua", 
+                            "name": "Mauricio Rua", 
+                            "rank": "7"
+                        }, 
+                        {
+                            "url": "/web/20160804170727/http://www.ufc.com/fighter/Rashad-Evans", 
+                            "name": "Rashad Evans", 
+                            "rank": "8"
+                        }, 
+                        {
+                            "url": "/web/20160804170727/http://www.ufc.com/fighter/Jimi-Manuwa", 
+                            "name": "Jimi Manuwa", 
+                            "rank": "9"
+                        }, 
+                        {
+                            "url": "/web/20160804170727/http://www.ufc.com/fighter/Antonio-Rogerio-Nogueira", 
+                            "name": "Antonio Rogerio Nogueira", 
+                            "rank": "10"
+                        }, 
+                        {
+                            "url": "/web/20160804170727/http://www.ufc.com/fighter/Nikita-Krylov", 
+                            "name": "Nikita Krylov", 
+                            "rank": "11"
+                        }, 
+                        {
+                            "url": "/web/20160804170727/http://www.ufc.com/fighter/corey-anderson", 
+                            "name": "Corey Anderson", 
+                            "rank": "12"
+                        }, 
+                        {
+                            "url": "/web/20160804170727/http://www.ufc.com/fighter/Ilir-Latifi", 
+                            "name": "Ilir Latifi", 
+                            "rank": "13"
+                        }, 
+                        {
+                            "url": "/web/20160804170727/http://www.ufc.com/fighter/Patrick-Cummins", 
+                            "name": "Patrick Cummins", 
+                            "rank": "14"
+                        }, 
+                        {
+                            "url": "/web/20160804170727/http://www.ufc.com/fighter/Gian-Villante", 
+                            "name": "Gian Villante", 
+                            "rank": "15"
+                        }
+                    ], 
+                    "champ": "Daniel Cormier", 
+                    "title": "Light Heavyweight"
+                }, 
+                {
+                    "champUrl": "Stipe Miocic", 
+                    "fighters": [
+                        {
+                            "url": "Stipe Miocic", 
+                            "name": "Stipe Miocic", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20160804170727/http://www.ufc.com/fighter/Fabricio-Werdum", 
+                            "name": "Fabricio Werdum", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20160804170727/http://www.ufc.com/fighter/Cain-Velasquez", 
+                            "name": "Cain Velasquez", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20160804170727/http://www.ufc.com/fighter/Alistair-Overeem", 
+                            "name": "Alistair Overeem", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20160804170727/http://www.ufc.com/fighter/Junior-Dos-Santos", 
+                            "name": "Junior Dos Santos", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20160804170727/http://www.ufc.com/fighter/Ben-Rothwell", 
+                            "name": "Ben Rothwell", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20160804170727/http://www.ufc.com/fighter/Andrei-Arlovski", 
+                            "name": "Andrei Arlovski", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20160804170727/http://www.ufc.com/fighter/Travis-Browne", 
+                            "name": "Travis Browne", 
+                            "rank": "7"
+                        }, 
+                        {
+                            "url": "/web/20160804170727/http://www.ufc.com/fighter/Brock-Lesnar", 
+                            "name": "Brock Lesnar", 
+                            "rank": "8"
+                        }, 
+                        {
+                            "url": "/web/20160804170727/http://www.ufc.com/fighter/mark-hunt", 
+                            "name": "Mark Hunt", 
+                            "rank": "9"
+                        }, 
+                        {
+                            "url": "/web/20160804170727/http://www.ufc.com/fighter/Josh-Barnett", 
+                            "name": "Josh Barnett", 
+                            "rank": "10"
+                        }, 
+                        {
+                            "url": "/web/20160804170727/http://www.ufc.com/fighter/Derrick-Lewis", 
+                            "name": "Derrick Lewis", 
+                            "rank": "11"
+                        }, 
+                        {
+                            "url": "/web/20160804170727/http://www.ufc.com/fighter/Roy-Nelson", 
+                            "name": "Roy Nelson", 
+                            "rank": "12"
+                        }, 
+                        {
+                            "url": "/web/20160804170727/http://www.ufc.com/fighter/Frank-Mir", 
+                            "name": "Frank Mir", 
+                            "rank": "13"
+                        }, 
+                        {
+                            "url": "/web/20160804170727/http://www.ufc.com/fighter/Stefan-Struve", 
+                            "name": "Stefan Struve", 
+                            "rank": "14"
+                        }, 
+                        {
+                            "url": "/web/20160804170727/http://www.ufc.com/fighter/Ruslan-Magomedov", 
+                            "name": "Ruslan Magomedov", 
+                            "rank": "15"
+                        }
+                    ], 
+                    "champ": "Stipe Miocic", 
+                    "title": "Heavyweight"
+                }, 
+                {
+                    "champUrl": "Joanna Jedrzejczyk", 
+                    "fighters": [
+                        {
+                            "url": "Joanna Jedrzejczyk", 
+                            "name": "Joanna Jedrzejczyk", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20160804170727/http://www.ufc.com/fighter/Claudia-Gadelha", 
+                            "name": "Claudia Gadelha", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20160804170727/http://www.ufc.com/fighter/karolina-kowalkiewicz", 
+                            "name": "Karolina Kowalkiewicz", 
+                            "rank": "2"
+                        }
+                    ], 
+                    "champ": "Joanna Jedrzejczyk", 
+                    "title": "Women's Strawweight"
+                }, 
+                {
+                    "champUrl": "Amanda Nunes", 
+                    "fighters": [
+                        {
+                            "url": "Amanda Nunes", 
+                            "name": "Amanda Nunes", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20160804170727/http://www.ufc.com/fighter/Miesha-Tate", 
+                            "name": "Miesha Tate", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20160804170727/http://www.ufc.com/fighter/Ronda-Rousey", 
+                            "name": "Ronda Rousey", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20160804170727/http://www.ufc.com/fighter/Valentina-Shevchenko", 
+                            "name": "Valentina Shevchenko", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20160804170727/http://www.ufc.com/fighter/holly-holm", 
+                            "name": "Holly Holm", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20160804170727/http://www.ufc.com/fighter/Julianna-Pena", 
+                            "name": "Julianna Pena", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20160804170727/http://www.ufc.com/fighter/Cat-Zingano", 
+                            "name": "Cat Zingano", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20160804170727/http://www.ufc.com/fighter/Sara-McMann", 
+                            "name": "Sara McMann", 
+                            "rank": "7"
+                        }, 
+                        {
+                            "url": "/web/20160804170727/http://www.ufc.com/fighter/Liz-Carmouche", 
+                            "name": "Liz Carmouche", 
+                            "rank": "8"
+                        }, 
+                        {
+                            "url": "/web/20160804170727/http://www.ufc.com/fighter/Raquel-Pennington", 
+                            "name": "Raquel Pennington", 
+                            "rank": "8"
+                        }, 
+                        {
+                            "url": "/web/20160804170727/http://www.ufc.com/fighter/Jessica-Eye", 
+                            "name": "Jessica Eye", 
+                            "rank": "10"
+                        }, 
+                        {
+                            "url": "/web/20160804170727/http://www.ufc.com/fighter/Bethe-Correia", 
+                            "name": "Bethe Correia", 
+                            "rank": "11"
+                        }, 
+                        {
+                            "url": "/web/20160804170727/http://www.ufc.com/fighter/Germaine-DeRandamie", 
+                            "name": "Germaine de Randamie", 
+                            "rank": "12"
+                        }, 
+                        {
+                            "url": "/web/20160804170727/http://www.ufc.com/fighter/ashlee-evans-smith", 
+                            "name": "Ashlee Evans-Smith", 
+                            "rank": "13"
+                        }, 
+                        {
+                            "url": "/web/20160804170727/http://www.ufc.com/fighter/katlyn-chookagian", 
+                            "name": "Katlyn Chookagian", 
+                            "rank": "14"
+                        }, 
+                        {
+                            "url": "/web/20160804170727/http://www.ufc.com/fighter/marion-reneau", 
+                            "name": "Marion Reneau", 
+                            "rank": "15"
+                        }
+                    ], 
+                    "champ": "Amanda Nunes", 
+                    "title": "Women's Bantamweight"
+                }
+            ]
+        }, 
+        {
+            "url": "http://web.archive.org/web/20160901021804/http://www.ufc.com/rankings", 
+            "date": [
+                "Thu", 
+                "Sep", 
+                "01", 
+                "00:00:00", 
+                "UTC", 
+                "2016"
+            ], 
+            "displayDate": "Sep 2016", 
+            "divisions": [
+                {
+                    "champUrl": "", 
+                    "fighters": [
+                        {
+                            "url": "", 
+                            "name": "", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20160901021804/http://www.ufc.com/fighter/Demetrious-Johnson", 
+                            "name": "Demetrious Johnson", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20160901021804/http://www.ufc.com/fighter/Dominick-Cruz", 
+                            "name": "Dominick Cruz", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20160901021804/http://www.ufc.com/fighter/Daniel-Cormier", 
+                            "name": "Daniel Cormier", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20160901021804/http://www.ufc.com/fighter/Conor-McGregor", 
+                            "name": "Conor McGregor", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20160901021804/http://www.ufc.com/fighter/Jose-Aldo", 
+                            "name": "Jose Aldo", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20160901021804/http://www.ufc.com/fighter/eddie-alvarez", 
+                            "name": "Eddie Alvarez", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20160901021804/http://www.ufc.com/fighter/Joanna-Jedrzejczyk", 
+                            "name": "Joanna Jedrzejczyk", 
+                            "rank": "7"
+                        }, 
+                        {
+                            "url": "/web/20160901021804/http://www.ufc.com/fighter/Stipe-Miocic", 
+                            "name": "Stipe Miocic", 
+                            "rank": "8"
+                        }, 
+                        {
+                            "url": "/web/20160901021804/http://www.ufc.com/fighter/Tyron-Woodley", 
+                            "name": "Tyron Woodley", 
+                            "rank": "9"
+                        }, 
+                        {
+                            "url": "/web/20160901021804/http://www.ufc.com/fighter/Michael-Bisping", 
+                            "name": "Michael Bisping", 
+                            "rank": "10"
+                        }, 
+                        {
+                            "url": "/web/20160901021804/http://www.ufc.com/fighter/Robbie-Lawler", 
+                            "name": "Robbie Lawler", 
+                            "rank": "11"
+                        }, 
+                        {
+                            "url": "/web/20160901021804/http://www.ufc.com/fighter/Luke-Rockhold", 
+                            "name": "Luke Rockhold", 
+                            "rank": "12"
+                        }, 
+                        {
+                            "url": "/web/20160901021804/http://www.ufc.com/fighter/Rafael-Dos-Anjos", 
+                            "name": "Rafael Dos Anjos", 
+                            "rank": "13"
+                        }, 
+                        {
+                            "url": "/web/20160901021804/http://www.ufc.com/fighter/TJ-Dillashaw", 
+                            "name": "TJ Dillashaw", 
+                            "rank": "14"
+                        }, 
+                        {
+                            "url": "/web/20160901021804/http://www.ufc.com/fighter/Frankie-Edgar", 
+                            "name": "Frankie Edgar", 
+                            "rank": "15"
+                        }
+                    ], 
+                    "champ": "", 
+                    "title": "Pound-for-Pound"
+                }, 
+                {
+                    "champUrl": "Demetrious Johnson", 
+                    "fighters": [
+                        {
+                            "url": "Demetrious Johnson", 
+                            "name": "Demetrious Johnson", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20160901021804/http://www.ufc.com/fighter/Joseph-Benavidez", 
+                            "name": "Joseph Benavidez", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20160901021804/http://www.ufc.com/fighter/Henry-Cejudo", 
+                            "name": "Henry Cejudo", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20160901021804/http://www.ufc.com/fighter/jussier-formiga", 
+                            "name": "Jussier Formiga", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20160901021804/http://www.ufc.com/fighter/Kyoji-Horiguchi", 
+                            "name": "Kyoji Horiguchi", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20160901021804/http://www.ufc.com/fighter/Ian-McCall", 
+                            "name": "Ian McCall", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20160901021804/http://www.ufc.com/fighter/Wilson-Reis", 
+                            "name": "Wilson Reis", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20160901021804/http://www.ufc.com/fighter/Zach-Makovsky", 
+                            "name": "Zach Makovsky", 
+                            "rank": "7"
+                        }, 
+                        {
+                            "url": "/web/20160901021804/http://www.ufc.com/fighter/Ali-Bagautinov", 
+                            "name": "Ali Bagautinov", 
+                            "rank": "8"
+                        }, 
+                        {
+                            "url": "/web/20160901021804/http://www.ufc.com/fighter/Louis-Smolka", 
+                            "name": "Louis Smolka", 
+                            "rank": "9"
+                        }, 
+                        {
+                            "url": "/web/20160901021804/http://www.ufc.com/fighter/John-Moraga", 
+                            "name": "John Moraga", 
+                            "rank": "10"
+                        }, 
+                        {
+                            "url": "/web/20160901021804/http://www.ufc.com/fighter/matheus-nicolau", 
+                            "name": "Matheus Nicolau", 
+                            "rank": "11"
+                        }, 
+                        {
+                            "url": "/web/20160901021804/http://www.ufc.com/fighter/Dustin-Ortiz", 
+                            "name": "Dustin Ortiz", 
+                            "rank": "12"
+                        }, 
+                        {
+                            "url": "/web/20160901021804/http://www.ufc.com/fighter/Justin-Scoggins", 
+                            "name": "Justin Scoggins", 
+                            "rank": "13"
+                        }, 
+                        {
+                            "url": "/web/20160901021804/http://www.ufc.com/fighter/Ray-Borg", 
+                            "name": "Ray Borg", 
+                            "rank": "14"
+                        }, 
+                        {
+                            "url": "/web/20160901021804/http://www.ufc.com/fighter/Sergio-Pettis", 
+                            "name": "Sergio Pettis", 
+                            "rank": "15"
+                        }
+                    ], 
+                    "champ": "Demetrious Johnson", 
+                    "title": "Flyweight"
+                }, 
+                {
+                    "champUrl": "Dominick Cruz", 
+                    "fighters": [
+                        {
+                            "url": "Dominick Cruz", 
+                            "name": "Dominick Cruz", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20160901021804/http://www.ufc.com/fighter/TJ-Dillashaw", 
+                            "name": "TJ Dillashaw", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20160901021804/http://www.ufc.com/fighter/Urijah-Faber", 
+                            "name": "Urijah Faber", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20160901021804/http://www.ufc.com/fighter/Raphael-Assuncao", 
+                            "name": "Raphael Assuncao", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20160901021804/http://www.ufc.com/fighter/Bryan-Caraway", 
+                            "name": "Bryan Caraway", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20160901021804/http://www.ufc.com/fighter/John-Lineker", 
+                            "name": "John Lineker", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20160901021804/http://www.ufc.com/fighter/cody-garbrandt", 
+                            "name": "Cody Garbrandt", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20160901021804/http://www.ufc.com/fighter/Aljamain-Sterling", 
+                            "name": "Aljamain Sterling", 
+                            "rank": "7"
+                        }, 
+                        {
+                            "url": "/web/20160901021804/http://www.ufc.com/fighter/Michael-McDonald", 
+                            "name": "Michael McDonald", 
+                            "rank": "8"
+                        }, 
+                        {
+                            "url": "/web/20160901021804/http://www.ufc.com/fighter/John-Dodson", 
+                            "name": "John Dodson", 
+                            "rank": "9"
+                        }, 
+                        {
+                            "url": "/web/20160901021804/http://www.ufc.com/fighter/thomas-almeida", 
+                            "name": "Thomas Almeida", 
+                            "rank": "10"
+                        }, 
+                        {
+                            "url": "/web/20160901021804/http://www.ufc.com/fighter/Eddie-Wineland", 
+                            "name": "Eddie Wineland", 
+                            "rank": "11"
+                        }, 
+                        {
+                            "url": "/web/20160901021804/http://www.ufc.com/fighter/Takeya-Mizugaki", 
+                            "name": "Takeya Mizugaki", 
+                            "rank": "12"
+                        }, 
+                        {
+                            "url": "/web/20160901021804/http://www.ufc.com/fighter/jimmie-rivera", 
+                            "name": "Jimmie Rivera", 
+                            "rank": "13"
+                        }, 
+                        {
+                            "url": "/web/20160901021804/http://www.ufc.com/fighter/Johnny-Eduardo", 
+                            "name": "Johnny Eduardo", 
+                            "rank": "14"
+                        }, 
+                        {
+                            "url": "/web/20160901021804/http://www.ufc.com/fighter/Frankie-Saenz", 
+                            "name": "Frankie Saenz", 
+                            "rank": "15"
+                        }
+                    ], 
+                    "champ": "Dominick Cruz", 
+                    "title": "Bantamweight"
+                }, 
+                {
+                    "champUrl": "Conor McGregor", 
+                    "fighters": [
+                        {
+                            "url": "Conor McGregor", 
+                            "name": "Conor McGregor", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20160901021804/http://www.ufc.com/fighter/Jose-Aldo", 
+                            "name": "Jose Aldo\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t(Interim Champion)", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20160901021804/http://www.ufc.com/fighter/Frankie-Edgar", 
+                            "name": "Frankie Edgar", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20160901021804/http://www.ufc.com/fighter/Max-Holloway", 
+                            "name": "Max Holloway", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20160901021804/http://www.ufc.com/fighter/Ricardo-Lamas", 
+                            "name": "Ricardo Lamas", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20160901021804/http://www.ufc.com/fighter/Cub-Swanson", 
+                            "name": "Cub Swanson", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20160901021804/http://www.ufc.com/fighter/Anthony-Pettis", 
+                            "name": "Anthony Pettis", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20160901021804/http://www.ufc.com/fighter/Jeremy-Stephens", 
+                            "name": "Jeremy Stephens", 
+                            "rank": "7"
+                        }, 
+                        {
+                            "url": "/web/20160901021804/http://www.ufc.com/fighter/Charles-Oliveira", 
+                            "name": "Charles Oliveira", 
+                            "rank": "8"
+                        }
+                    ], 
+                    "champ": "Conor McGregor", 
+                    "title": "Featherweight"
+                }, 
+                {
+                    "champUrl": "Eddie Alvarez", 
+                    "fighters": [
+                        {
+                            "url": "Eddie Alvarez", 
+                            "name": "Eddie Alvarez", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20160901021804/http://www.ufc.com/fighter/Khabib-Nurmagomedov", 
+                            "name": "Khabib Nurmagomedov", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20160901021804/http://www.ufc.com/fighter/Rafael-Dos-Anjos", 
+                            "name": "Rafael Dos Anjos", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20160901021804/http://www.ufc.com/fighter/Tony-Ferguson", 
+                            "name": "Tony Ferguson", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20160901021804/http://www.ufc.com/fighter/Nate-Diaz", 
+                            "name": "Nate Diaz", 
+                            "rank": "4"
+                        }
+                    ], 
+                    "champ": "Eddie Alvarez", 
+                    "title": "Lightweight"
+                }, 
+                {
+                    "champUrl": "Tyron Woodley", 
+                    "fighters": [
+                        {
+                            "url": "Tyron Woodley", 
+                            "name": "Tyron Woodley", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20160901021804/http://www.ufc.com/fighter/Robbie-Lawler", 
+                            "name": "Robbie Lawler", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20160901021804/http://www.ufc.com/fighter/Stephen-Thompson", 
+                            "name": "Stephen Thompson", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20160901021804/http://www.ufc.com/fighter/Demian-Maia", 
+                            "name": "Demian Maia", 
+                            "rank": "3"
+                        }
+                    ], 
+                    "champ": "Tyron Woodley", 
+                    "title": "Welterweight"
+                }, 
+                {
+                    "champUrl": "Michael Bisping", 
+                    "fighters": [
+                        {
+                            "url": "Michael Bisping", 
+                            "name": "Michael Bisping", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20160901021804/http://www.ufc.com/fighter/Luke-Rockhold", 
+                            "name": "Luke Rockhold", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20160901021804/http://www.ufc.com/fighter/Chris-Weidman", 
+                            "name": "Chris Weidman", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20160901021804/http://www.ufc.com/fighter/Ronaldo-Souza", 
+                            "name": "Jacare Souza", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20160901021804/http://www.ufc.com/fighter/Yoel-Romero", 
+                            "name": "Yoel Romero", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20160901021804/http://www.ufc.com/fighter/Vitor-Belfort", 
+                            "name": "Vitor Belfort", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20160901021804/http://www.ufc.com/fighter/Anderson-Silva", 
+                            "name": "Anderson Silva", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20160901021804/http://www.ufc.com/fighter/robert-whittaker", 
+                            "name": "Robert Whittaker", 
+                            "rank": "7"
+                        }, 
+                        {
+                            "url": "/web/20160901021804/http://www.ufc.com/fighter/Gegard-Mousasi", 
+                            "name": "Gegard Mousasi", 
+                            "rank": "8"
+                        }, 
+                        {
+                            "url": "/web/20160901021804/http://www.ufc.com/fighter/Uriah-Hall", 
+                            "name": "Uriah Hall", 
+                            "rank": "9"
+                        }, 
+                        {
+                            "url": "/web/20160901021804/http://www.ufc.com/fighter/Derek-Brunson", 
+                            "name": "Derek Brunson", 
+                            "rank": "10"
+                        }, 
+                        {
+                            "url": "/web/20160901021804/http://www.ufc.com/fighter/Thales-Leites", 
+                            "name": "Thales Leites", 
+                            "rank": "11"
+                        }, 
+                        {
+                            "url": "/web/20160901021804/http://www.ufc.com/fighter/Dan-Henderson", 
+                            "name": "Dan Henderson", 
+                            "rank": "12"
+                        }, 
+                        {
+                            "url": "/web/20160901021804/http://www.ufc.com/fighter/Tim-Kennedy", 
+                            "name": "Tim Kennedy", 
+                            "rank": "13"
+                        }, 
+                        {
+                            "url": "/web/20160901021804/http://www.ufc.com/fighter/rafael-natal", 
+                            "name": "Rafael Natal", 
+                            "rank": "14"
+                        }, 
+                        {
+                            "url": "/web/20160901021804/http://www.ufc.com/fighter/Thiago-Santos", 
+                            "name": "Thiago Santos", 
+                            "rank": "15"
+                        }
+                    ], 
+                    "champ": "Michael Bisping", 
+                    "title": "Middleweight"
+                }, 
+                {
+                    "champUrl": "Daniel Cormier", 
+                    "fighters": [
+                        {
+                            "url": "Daniel Cormier", 
+                            "name": "Daniel Cormier", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20160901021804/http://www.ufc.com/fighter/Anthony-Johnson", 
+                            "name": "Anthony Johnson", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20160901021804/http://www.ufc.com/fighter/Alexander-Gustafsson", 
+                            "name": "Alexander Gustafsson", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20160901021804/http://www.ufc.com/fighter/Glover-Teixeira", 
+                            "name": "Glover Teixeira", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20160901021804/http://www.ufc.com/fighter/Ryan-Bader", 
+                            "name": "Ryan Bader", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20160901021804/http://www.ufc.com/fighter/Ovince-St-Preux", 
+                            "name": "Ovince Saint Preux", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20160901021804/http://www.ufc.com/fighter/Mauricio-Rua", 
+                            "name": "Mauricio Rua", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20160901021804/http://www.ufc.com/fighter/Rashad-Evans", 
+                            "name": "Rashad Evans", 
+                            "rank": "7"
+                        }, 
+                        {
+                            "url": "/web/20160901021804/http://www.ufc.com/fighter/Jimi-Manuwa", 
+                            "name": "Jimi Manuwa", 
+                            "rank": "8"
+                        }, 
+                        {
+                            "url": "/web/20160901021804/http://www.ufc.com/fighter/Antonio-Rogerio-Nogueira", 
+                            "name": "Antonio Rogerio Nogueira", 
+                            "rank": "9"
+                        }, 
+                        {
+                            "url": "/web/20160901021804/http://www.ufc.com/fighter/Nikita-Krylov", 
+                            "name": "Nikita Krylov", 
+                            "rank": "10"
+                        }, 
+                        {
+                            "url": "/web/20160901021804/http://www.ufc.com/fighter/corey-anderson", 
+                            "name": "Corey Anderson", 
+                            "rank": "11"
+                        }, 
+                        {
+                            "url": "/web/20160901021804/http://www.ufc.com/fighter/Ilir-Latifi", 
+                            "name": "Ilir Latifi", 
+                            "rank": "12"
+                        }, 
+                        {
+                            "url": "/web/20160901021804/http://www.ufc.com/fighter/Patrick-Cummins", 
+                            "name": "Patrick Cummins", 
+                            "rank": "13"
+                        }, 
+                        {
+                            "url": "/web/20160901021804/http://www.ufc.com/fighter/misha-cirkunov", 
+                            "name": "Misha Cirkunov", 
+                            "rank": "14"
+                        }, 
+                        {
+                            "url": "/web/20160901021804/http://www.ufc.com/fighter/Gian-Villante", 
+                            "name": "Gian Villante", 
+                            "rank": "15"
+                        }
+                    ], 
+                    "champ": "Daniel Cormier", 
+                    "title": "Light Heavyweight"
+                }, 
+                {
+                    "champUrl": "Stipe Miocic", 
+                    "fighters": [
+                        {
+                            "url": "Stipe Miocic", 
+                            "name": "Stipe Miocic", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20160901021804/http://www.ufc.com/fighter/Fabricio-Werdum", 
+                            "name": "Fabricio Werdum", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20160901021804/http://www.ufc.com/fighter/Cain-Velasquez", 
+                            "name": "Cain Velasquez", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20160901021804/http://www.ufc.com/fighter/Alistair-Overeem", 
+                            "name": "Alistair Overeem", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20160901021804/http://www.ufc.com/fighter/Junior-Dos-Santos", 
+                            "name": "Junior Dos Santos", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20160901021804/http://www.ufc.com/fighter/Ben-Rothwell", 
+                            "name": "Ben Rothwell", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20160901021804/http://www.ufc.com/fighter/Andrei-Arlovski", 
+                            "name": "Andrei Arlovski", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20160901021804/http://www.ufc.com/fighter/Travis-Browne", 
+                            "name": "Travis Browne", 
+                            "rank": "7"
+                        }, 
+                        {
+                            "url": "/web/20160901021804/http://www.ufc.com/fighter/mark-hunt", 
+                            "name": "Mark Hunt", 
+                            "rank": "8"
+                        }, 
+                        {
+                            "url": "/web/20160901021804/http://www.ufc.com/fighter/Josh-Barnett", 
+                            "name": "Josh Barnett", 
+                            "rank": "9"
+                        }, 
+                        {
+                            "url": "/web/20160901021804/http://www.ufc.com/fighter/Derrick-Lewis", 
+                            "name": "Derrick Lewis", 
+                            "rank": "10"
+                        }, 
+                        {
+                            "url": "/web/20160901021804/http://www.ufc.com/fighter/Roy-Nelson", 
+                            "name": "Roy Nelson", 
+                            "rank": "11"
+                        }, 
+                        {
+                            "url": "/web/20160901021804/http://www.ufc.com/fighter/Ruslan-Magomedov", 
+                            "name": "Ruslan Magomedov", 
+                            "rank": "12"
+                        }, 
+                        {
+                            "url": "/web/20160901021804/http://www.ufc.com/fighter/Stefan-Struve", 
+                            "name": "Stefan Struve", 
+                            "rank": "13"
+                        }, 
+                        {
+                            "url": "/web/20160901021804/http://www.ufc.com/fighter/francis-ngannou", 
+                            "name": "Francis Ngannou", 
+                            "rank": "14"
+                        }, 
+                        {
+                            "url": "/web/20160901021804/http://www.ufc.com/fighter/Antonio-Silva", 
+                            "name": "Antonio Silva", 
+                            "rank": "15"
+                        }
+                    ], 
+                    "champ": "Stipe Miocic", 
+                    "title": "Heavyweight"
+                }, 
+                {
+                    "champUrl": "Joanna Jedrzejczyk", 
+                    "fighters": [
+                        {
+                            "url": "Joanna Jedrzejczyk", 
+                            "name": "Joanna Jedrzejczyk", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20160901021804/http://www.ufc.com/fighter/Claudia-Gadelha", 
+                            "name": "Claudia Gadelha", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20160901021804/http://www.ufc.com/fighter/karolina-kowalkiewicz", 
+                            "name": "Karolina Kowalkiewicz", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20160901021804/http://www.ufc.com/fighter/Carla-Esparza", 
+                            "name": "Carla Esparza", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20160901021804/http://www.ufc.com/fighter/Rose-Namajunas", 
+                            "name": "Rose Namajunas", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20160901021804/http://www.ufc.com/fighter/Tecia-Torres", 
+                            "name": "Tecia Torres", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20160901021804/http://www.ufc.com/fighter/Jessica-Andrade", 
+                            "name": "Jessica Andrade", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20160901021804/http://www.ufc.com/fighter/Joanne-Calderwood", 
+                            "name": "Joanne Calderwood", 
+                            "rank": "7"
+                        }, 
+                        {
+                            "url": "/web/20160901021804/http://www.ufc.com/fighter/paige-vanzant", 
+                            "name": "Paige VanZant", 
+                            "rank": "8"
+                        }
+                    ], 
+                    "champ": "Joanna Jedrzejczyk", 
+                    "title": "Women's Strawweight"
+                }, 
+                {
+                    "champUrl": "Amanda Nunes", 
+                    "fighters": [
+                        {
+                            "url": "Amanda Nunes", 
+                            "name": "Amanda Nunes", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20160901021804/http://www.ufc.com/fighter/Miesha-Tate", 
+                            "name": "Miesha Tate", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20160901021804/http://www.ufc.com/fighter/Ronda-Rousey", 
+                            "name": "Ronda Rousey", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20160901021804/http://www.ufc.com/fighter/Valentina-Shevchenko", 
+                            "name": "Valentina Shevchenko", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20160901021804/http://www.ufc.com/fighter/holly-holm", 
+                            "name": "Holly Holm", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20160901021804/http://www.ufc.com/fighter/Julianna-Pena", 
+                            "name": "Julianna Pena", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20160901021804/http://www.ufc.com/fighter/Cat-Zingano", 
+                            "name": "Cat Zingano", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20160901021804/http://www.ufc.com/fighter/Sara-McMann", 
+                            "name": "Sara McMann", 
+                            "rank": "7"
+                        }, 
+                        {
+                            "url": "/web/20160901021804/http://www.ufc.com/fighter/Raquel-Pennington", 
+                            "name": "Raquel Pennington", 
+                            "rank": "8"
+                        }, 
+                        {
+                            "url": "/web/20160901021804/http://www.ufc.com/fighter/Liz-Carmouche", 
+                            "name": "Liz Carmouche", 
+                            "rank": "9"
+                        }, 
+                        {
+                            "url": "/web/20160901021804/http://www.ufc.com/fighter/Jessica-Eye", 
+                            "name": "Jessica Eye", 
+                            "rank": "10"
+                        }, 
+                        {
+                            "url": "/web/20160901021804/http://www.ufc.com/fighter/Bethe-Correia", 
+                            "name": "Bethe Correia", 
+                            "rank": "11"
+                        }, 
+                        {
+                            "url": "/web/20160901021804/http://www.ufc.com/fighter/Germaine-DeRandamie", 
+                            "name": "Germaine de Randamie", 
+                            "rank": "12"
+                        }, 
+                        {
+                            "url": "/web/20160901021804/http://www.ufc.com/fighter/ashlee-evans-smith", 
+                            "name": "Ashlee Evans-Smith", 
+                            "rank": "13"
+                        }, 
+                        {
+                            "url": "/web/20160901021804/http://www.ufc.com/fighter/katlyn-chookagian", 
+                            "name": "Katlyn Chookagian", 
+                            "rank": "14"
+                        }, 
+                        {
+                            "url": "/web/20160901021804/http://www.ufc.com/fighter/marion-reneau", 
+                            "name": "Marion Reneau", 
+                            "rank": "15"
+                        }
+                    ], 
+                    "champ": "Amanda Nunes", 
+                    "title": "Women's Bantamweight"
+                }
+            ]
+        }, 
+        {
+            "url": "http://web.archive.org/web/20161006005630/http://www.ufc.com/rankings", 
+            "date": [
+                "Thu", 
+                "Oct", 
+                "06", 
+                "00:00:00", 
+                "UTC", 
+                "2016"
+            ], 
+            "displayDate": "Oct 2016", 
+            "divisions": [
+                {
+                    "champUrl": "", 
+                    "fighters": [
+                        {
+                            "url": "", 
+                            "name": "", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Demetrious-Johnson", 
+                            "name": "Demetrious Johnson", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Dominick-Cruz", 
+                            "name": "Dominick Cruz", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Daniel-Cormier", 
+                            "name": "Daniel Cormier", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Conor-McGregor", 
+                            "name": "Conor McGregor", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Jose-Aldo", 
+                            "name": "Jose Aldo", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Stipe-Miocic", 
+                            "name": "Stipe Miocic", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/eddie-alvarez", 
+                            "name": "Eddie Alvarez", 
+                            "rank": "7"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Joanna-Jedrzejczyk", 
+                            "name": "Joanna Jedrzejczyk", 
+                            "rank": "8"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Tyron-Woodley", 
+                            "name": "Tyron Woodley", 
+                            "rank": "9"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Michael-Bisping", 
+                            "name": "Michael Bisping", 
+                            "rank": "10"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Robbie-Lawler", 
+                            "name": "Robbie Lawler", 
+                            "rank": "11"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Rafael-Dos-Anjos", 
+                            "name": "Rafael Dos Anjos", 
+                            "rank": "12"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Luke-Rockhold", 
+                            "name": "Luke Rockhold", 
+                            "rank": "13"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/TJ-Dillashaw", 
+                            "name": "TJ Dillashaw", 
+                            "rank": "14"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Cris-Cyborg", 
+                            "name": "Cris Cyborg", 
+                            "rank": "15"
+                        }
+                    ], 
+                    "champ": "", 
+                    "title": "Pound-for-Pound"
+                }, 
+                {
+                    "champUrl": "Demetrious Johnson", 
+                    "fighters": [
+                        {
+                            "url": "Demetrious Johnson", 
+                            "name": "Demetrious Johnson", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Joseph-Benavidez", 
+                            "name": "Joseph Benavidez", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Henry-Cejudo", 
+                            "name": "Henry Cejudo", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/jussier-formiga", 
+                            "name": "Jussier Formiga", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Kyoji-Horiguchi", 
+                            "name": "Kyoji Horiguchi", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Ian-McCall", 
+                            "name": "Ian McCall", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Wilson-Reis", 
+                            "name": "Wilson Reis", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Zach-Makovsky", 
+                            "name": "Zach Makovsky", 
+                            "rank": "7"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Ali-Bagautinov", 
+                            "name": "Ali Bagautinov", 
+                            "rank": "8"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/John-Moraga", 
+                            "name": "John Moraga", 
+                            "rank": "9"
+                        }
+                    ], 
+                    "champ": "Demetrious Johnson", 
+                    "title": "Flyweight"
+                }, 
+                {
+                    "champUrl": "Dominick Cruz", 
+                    "fighters": [
+                        {
+                            "url": "Dominick Cruz", 
+                            "name": "Dominick Cruz", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/TJ-Dillashaw", 
+                            "name": "TJ Dillashaw", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/John-Lineker", 
+                            "name": "John Lineker", 
+                            "rank": "2"
+                        }
+                    ], 
+                    "champ": "Dominick Cruz", 
+                    "title": "Bantamweight"
+                }, 
+                {
+                    "champUrl": "Conor McGregor", 
+                    "fighters": [
+                        {
+                            "url": "Conor McGregor", 
+                            "name": "Conor McGregor", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Jose-Aldo", 
+                            "name": "Jose Aldo\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t(Interim Champion)", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Frankie-Edgar", 
+                            "name": "Frankie Edgar", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Max-Holloway", 
+                            "name": "Max Holloway", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Ricardo-Lamas", 
+                            "name": "Ricardo Lamas", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Cub-Swanson", 
+                            "name": "Cub Swanson", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Anthony-Pettis", 
+                            "name": "Anthony Pettis", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Jeremy-Stephens", 
+                            "name": "Jeremy Stephens", 
+                            "rank": "7"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Charles-Oliveira", 
+                            "name": "Charles Oliveira", 
+                            "rank": "8"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Dennis-Bermudez", 
+                            "name": "Dennis Bermudez", 
+                            "rank": "9"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Brian-Ortega", 
+                            "name": "Brian Ortega", 
+                            "rank": "10"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/yair-rodriguez", 
+                            "name": "Yair Rodriguez", 
+                            "rank": "11"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Darren-Elkins", 
+                            "name": "Darren Elkins", 
+                            "rank": "12"
+                        }
+                    ], 
+                    "champ": "Conor McGregor", 
+                    "title": "Featherweight"
+                }, 
+                {
+                    "champUrl": "Eddie Alvarez", 
+                    "fighters": [
+                        {
+                            "url": "Eddie Alvarez", 
+                            "name": "Eddie Alvarez", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Khabib-Nurmagomedov", 
+                            "name": "Khabib Nurmagomedov", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Rafael-Dos-Anjos", 
+                            "name": "Rafael Dos Anjos", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Tony-Ferguson", 
+                            "name": "Tony Ferguson", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Nate-Diaz", 
+                            "name": "Nate Diaz", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Edson-Barboza", 
+                            "name": "Edson Barboza", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Michael-Johnson", 
+                            "name": "Michael Johnson", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Michael-Chiesa", 
+                            "name": "Michael Chiesa", 
+                            "rank": "7"
+                        }
+                    ], 
+                    "champ": "Eddie Alvarez", 
+                    "title": "Lightweight"
+                }, 
+                {
+                    "champUrl": "Tyron Woodley", 
+                    "fighters": [
+                        {
+                            "url": "Tyron Woodley", 
+                            "name": "Tyron Woodley", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Robbie-Lawler", 
+                            "name": "Robbie Lawler", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Stephen-Thompson", 
+                            "name": "Stephen Thompson", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Demian-Maia", 
+                            "name": "Demian Maia", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Carlos-Condit", 
+                            "name": "Carlos Condit", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Kelvin-Gastelum", 
+                            "name": "Kelvin Gastelum", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Johny-Hendricks", 
+                            "name": "Johny Hendricks", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Donald-Cerrone", 
+                            "name": "Donald Cerrone", 
+                            "rank": "7"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Lorenz-Larkin", 
+                            "name": "Lorenz Larkin", 
+                            "rank": "8"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Neil-Magny", 
+                            "name": "Neil Magny", 
+                            "rank": "9"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Dong-Hyun-Kim", 
+                            "name": "Dong Hyun Kim", 
+                            "rank": "10"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Rick-Story", 
+                            "name": "Rick Story", 
+                            "rank": "11"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Gunnar-Nelson", 
+                            "name": "Gunnar Nelson", 
+                            "rank": "12"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Tarec-Saffiedine", 
+                            "name": "Tarec Saffiedine", 
+                            "rank": "13"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Albert-Tumenov", 
+                            "name": "Albert Tumenov", 
+                            "rank": "14"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Matt-Brown", 
+                            "name": "Matt Brown", 
+                            "rank": "15"
+                        }
+                    ], 
+                    "champ": "Tyron Woodley", 
+                    "title": "Welterweight"
+                }, 
+                {
+                    "champUrl": "Michael Bisping", 
+                    "fighters": [
+                        {
+                            "url": "Michael Bisping", 
+                            "name": "Michael Bisping", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Luke-Rockhold", 
+                            "name": "Luke Rockhold", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Chris-Weidman", 
+                            "name": "Chris Weidman", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Ronaldo-Souza", 
+                            "name": "Jacare Souza", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Yoel-Romero", 
+                            "name": "Yoel Romero", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Vitor-Belfort", 
+                            "name": "Vitor Belfort", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Anderson-Silva", 
+                            "name": "Anderson Silva", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/robert-whittaker", 
+                            "name": "Robert Whittaker", 
+                            "rank": "7"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Derek-Brunson", 
+                            "name": "Derek Brunson", 
+                            "rank": "8"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Gegard-Mousasi", 
+                            "name": "Gegard Mousasi", 
+                            "rank": "9"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Uriah-Hall", 
+                            "name": "Uriah Hall", 
+                            "rank": "10"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Thales-Leites", 
+                            "name": "Thales Leites", 
+                            "rank": "11"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Tim-Kennedy", 
+                            "name": "Tim Kennedy", 
+                            "rank": "12"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Dan-Henderson", 
+                            "name": "Dan Henderson", 
+                            "rank": "13"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/rafael-natal", 
+                            "name": "Rafael Natal", 
+                            "rank": "14"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Krzysztof-Jotko", 
+                            "name": "Krzysztof Jotko", 
+                            "rank": "15"
+                        }
+                    ], 
+                    "champ": "Michael Bisping", 
+                    "title": "Middleweight"
+                }, 
+                {
+                    "champUrl": "Daniel Cormier", 
+                    "fighters": [
+                        {
+                            "url": "Daniel Cormier", 
+                            "name": "Daniel Cormier", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Anthony-Johnson", 
+                            "name": "Anthony Johnson", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Alexander-Gustafsson", 
+                            "name": "Alexander Gustafsson", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Glover-Teixeira", 
+                            "name": "Glover Teixeira", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Ryan-Bader", 
+                            "name": "Ryan Bader", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Ovince-St-Preux", 
+                            "name": "Ovince Saint Preux", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Mauricio-Rua", 
+                            "name": "Mauricio Rua", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Rashad-Evans", 
+                            "name": "Rashad Evans", 
+                            "rank": "7"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Jimi-Manuwa", 
+                            "name": "Jimi Manuwa", 
+                            "rank": "8"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Antonio-Rogerio-Nogueira", 
+                            "name": "Antonio Rogerio Nogueira", 
+                            "rank": "9"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Nikita-Krylov", 
+                            "name": "Nikita Krylov", 
+                            "rank": "10"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/corey-anderson", 
+                            "name": "Corey Anderson", 
+                            "rank": "11"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Ilir-Latifi", 
+                            "name": "Ilir Latifi", 
+                            "rank": "12"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Patrick-Cummins", 
+                            "name": "Patrick Cummins", 
+                            "rank": "13"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/misha-cirkunov", 
+                            "name": "Misha Cirkunov", 
+                            "rank": "14"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Gian-Villante", 
+                            "name": "Gian Villante", 
+                            "rank": "15"
+                        }
+                    ], 
+                    "champ": "Daniel Cormier", 
+                    "title": "Light Heavyweight"
+                }, 
+                {
+                    "champUrl": "Stipe Miocic", 
+                    "fighters": [
+                        {
+                            "url": "Stipe Miocic", 
+                            "name": "Stipe Miocic", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Fabricio-Werdum", 
+                            "name": "Fabricio Werdum", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Cain-Velasquez", 
+                            "name": "Cain Velasquez", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Alistair-Overeem", 
+                            "name": "Alistair Overeem", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Junior-Dos-Santos", 
+                            "name": "Junior Dos Santos", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Ben-Rothwell", 
+                            "name": "Ben Rothwell", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Josh-Barnett", 
+                            "name": "Josh Barnett", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/mark-hunt", 
+                            "name": "Mark Hunt", 
+                            "rank": "7"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Andrei-Arlovski", 
+                            "name": "Andrei Arlovski", 
+                            "rank": "8"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Travis-Browne", 
+                            "name": "Travis Browne", 
+                            "rank": "9"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Derrick-Lewis", 
+                            "name": "Derrick Lewis", 
+                            "rank": "10"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Roy-Nelson", 
+                            "name": "Roy Nelson", 
+                            "rank": "11"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Stefan-Struve", 
+                            "name": "Stefan Struve", 
+                            "rank": "12"
+                        }
+                    ], 
+                    "champ": "Stipe Miocic", 
+                    "title": "Heavyweight"
+                }, 
+                {
+                    "champUrl": "Joanna Jedrzejczyk", 
+                    "fighters": [
+                        {
+                            "url": "Joanna Jedrzejczyk", 
+                            "name": "Joanna Jedrzejczyk", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Claudia-Gadelha", 
+                            "name": "Claudia Gadelha", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/karolina-kowalkiewicz", 
+                            "name": "Karolina Kowalkiewicz", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Carla-Esparza", 
+                            "name": "Carla Esparza", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Rose-Namajunas", 
+                            "name": "Rose Namajunas", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Jessica-Andrade", 
+                            "name": "Jessica Andrade", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Tecia-Torres", 
+                            "name": "Tecia Torres", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Joanne-Calderwood", 
+                            "name": "Joanne Calderwood", 
+                            "rank": "7"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/paige-vanzant", 
+                            "name": "Paige VanZant", 
+                            "rank": "8"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Valerie-Letourneau", 
+                            "name": "Valerie Letourneau", 
+                            "rank": "9"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/maryna-moroz", 
+                            "name": "Maryna Moroz", 
+                            "rank": "10"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/jessica-aguilar", 
+                            "name": "Jessica Aguilar", 
+                            "rank": "11"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/michelle-waterson", 
+                            "name": "Michelle Waterson", 
+                            "rank": "12"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Jessica-Penne", 
+                            "name": "Jessica Penne", 
+                            "rank": "13"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/cortney-casey", 
+                            "name": "Cortney Casey", 
+                            "rank": "14"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Juliana-Lima", 
+                            "name": "Juliana Lima", 
+                            "rank": "15"
+                        }
+                    ], 
+                    "champ": "Joanna Jedrzejczyk", 
+                    "title": "Women's Strawweight"
+                }, 
+                {
+                    "champUrl": "Amanda Nunes", 
+                    "fighters": [
+                        {
+                            "url": "Amanda Nunes", 
+                            "name": "Amanda Nunes", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Miesha-Tate", 
+                            "name": "Miesha Tate", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Ronda-Rousey", 
+                            "name": "Ronda Rousey", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Valentina-Shevchenko", 
+                            "name": "Valentina Shevchenko", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/holly-holm", 
+                            "name": "Holly Holm", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Julianna-Pena", 
+                            "name": "Julianna Pena", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Cat-Zingano", 
+                            "name": "Cat Zingano", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Sara-McMann", 
+                            "name": "Sara McMann", 
+                            "rank": "7"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Raquel-Pennington", 
+                            "name": "Raquel Pennington", 
+                            "rank": "8"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Liz-Carmouche", 
+                            "name": "Liz Carmouche", 
+                            "rank": "9"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Bethe-Correia", 
+                            "name": "Bethe Correia", 
+                            "rank": "10"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Germaine-DeRandamie", 
+                            "name": "Germaine de Randamie", 
+                            "rank": "11"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/ashlee-evans-smith", 
+                            "name": "Ashlee Evans-Smith", 
+                            "rank": "12"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/Jessica-Eye", 
+                            "name": "Jessica Eye", 
+                            "rank": "13"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/katlyn-chookagian", 
+                            "name": "Katlyn Chookagian", 
+                            "rank": "14"
+                        }, 
+                        {
+                            "url": "/web/20161006005630/http://www.ufc.com/fighter/marion-reneau", 
+                            "name": "Marion Reneau", 
+                            "rank": "15"
+                        }
+                    ], 
+                    "champ": "Amanda Nunes", 
+                    "title": "Women's Bantamweight"
+                }
+            ]
+        }, 
+        {
+            "url": "http://web.archive.org/web/20161107215424/http://www.ufc.com/rankings", 
+            "date": [
+                "Mon", 
+                "Nov", 
+                "07", 
+                "00:00:00", 
+                "UTC", 
+                "2016"
+            ], 
+            "displayDate": "Nov 2016", 
+            "divisions": [
+                {
+                    "champUrl": "", 
+                    "fighters": [
+                        {
+                            "url": "", 
+                            "name": "", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Demetrious-Johnson", 
+                            "name": "Demetrious Johnson", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Dominick-Cruz", 
+                            "name": "Dominick Cruz", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Daniel-Cormier", 
+                            "name": "Daniel Cormier", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Conor-McGregor", 
+                            "name": "Conor McGregor", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Jose-Aldo", 
+                            "name": "Jose Aldo", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Stipe-Miocic", 
+                            "name": "Stipe Miocic", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/eddie-alvarez", 
+                            "name": "Eddie Alvarez", 
+                            "rank": "7"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Joanna-Jedrzejczyk", 
+                            "name": "Joanna Jedrzejczyk", 
+                            "rank": "8"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Tyron-Woodley", 
+                            "name": "Tyron Woodley", 
+                            "rank": "9"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Michael-Bisping", 
+                            "name": "Michael Bisping", 
+                            "rank": "10"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Robbie-Lawler", 
+                            "name": "Robbie Lawler", 
+                            "rank": "11"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Rafael-Dos-Anjos", 
+                            "name": "Rafael Dos Anjos", 
+                            "rank": "12"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Luke-Rockhold", 
+                            "name": "Luke Rockhold", 
+                            "rank": "13"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/TJ-Dillashaw", 
+                            "name": "TJ Dillashaw", 
+                            "rank": "14"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Cris-Cyborg", 
+                            "name": "Cris Cyborg", 
+                            "rank": "15"
+                        }
+                    ], 
+                    "champ": "", 
+                    "title": "Pound-for-Pound"
+                }, 
+                {
+                    "champUrl": "Demetrious Johnson", 
+                    "fighters": [
+                        {
+                            "url": "Demetrious Johnson", 
+                            "name": "Demetrious Johnson", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Joseph-Benavidez", 
+                            "name": "Joseph Benavidez", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Henry-Cejudo", 
+                            "name": "Henry Cejudo", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/jussier-formiga", 
+                            "name": "Jussier Formiga", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Kyoji-Horiguchi", 
+                            "name": "Kyoji Horiguchi", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Ian-McCall", 
+                            "name": "Ian McCall", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Wilson-Reis", 
+                            "name": "Wilson Reis", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Zach-Makovsky", 
+                            "name": "Zach Makovsky", 
+                            "rank": "7"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Ali-Bagautinov", 
+                            "name": "Ali Bagautinov", 
+                            "rank": "8"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/John-Moraga", 
+                            "name": "John Moraga", 
+                            "rank": "9"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Dustin-Ortiz", 
+                            "name": "Dustin Ortiz", 
+                            "rank": "10"
+                        }
+                    ], 
+                    "champ": "Demetrious Johnson", 
+                    "title": "Flyweight"
+                }, 
+                {
+                    "champUrl": "Dominick Cruz", 
+                    "fighters": [
+                        {
+                            "url": "Dominick Cruz", 
+                            "name": "Dominick Cruz", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/TJ-Dillashaw", 
+                            "name": "TJ Dillashaw", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/John-Lineker", 
+                            "name": "John Lineker", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Raphael-Assuncao", 
+                            "name": "Raphael Assuncao", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/jimmie-rivera", 
+                            "name": "Jimmie Rivera", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Bryan-Caraway", 
+                            "name": "Bryan Caraway", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/cody-garbrandt", 
+                            "name": "Cody Garbrandt", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Urijah-Faber", 
+                            "name": "Urijah Faber", 
+                            "rank": "7"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Aljamain-Sterling", 
+                            "name": "Aljamain Sterling", 
+                            "rank": "8"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Michael-McDonald", 
+                            "name": "Michael McDonald", 
+                            "rank": "9"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/John-Dodson", 
+                            "name": "John Dodson", 
+                            "rank": "10"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/thomas-almeida", 
+                            "name": "Thomas Almeida", 
+                            "rank": "11"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Eddie-Wineland", 
+                            "name": "Eddie Wineland", 
+                            "rank": "12"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Johnny-Eduardo", 
+                            "name": "Johnny Eduardo", 
+                            "rank": "13"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Takeya-Mizugaki", 
+                            "name": "Takeya Mizugaki", 
+                            "rank": "14"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Rani-Yahya", 
+                            "name": "Rani Yahya", 
+                            "rank": "15"
+                        }
+                    ], 
+                    "champ": "Dominick Cruz", 
+                    "title": "Bantamweight"
+                }, 
+                {
+                    "champUrl": "Conor McGregor", 
+                    "fighters": [
+                        {
+                            "url": "Conor McGregor", 
+                            "name": "Conor McGregor", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Jose-Aldo", 
+                            "name": "Jose Aldo\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t(Interim Champion)", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Frankie-Edgar", 
+                            "name": "Frankie Edgar", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Max-Holloway", 
+                            "name": "Max Holloway", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Ricardo-Lamas", 
+                            "name": "Ricardo Lamas", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Cub-Swanson", 
+                            "name": "Cub Swanson", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Anthony-Pettis", 
+                            "name": "Anthony Pettis", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Jeremy-Stephens", 
+                            "name": "Jeremy Stephens", 
+                            "rank": "7"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Charles-Oliveira", 
+                            "name": "Charles Oliveira", 
+                            "rank": "8"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Dennis-Bermudez", 
+                            "name": "Dennis Bermudez", 
+                            "rank": "9"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Brian-Ortega", 
+                            "name": "Brian Ortega", 
+                            "rank": "10"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/yair-rodriguez", 
+                            "name": "Yair Rodriguez", 
+                            "rank": "11"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Darren-Elkins", 
+                            "name": "Darren Elkins", 
+                            "rank": "12"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Mirsad-Bektic", 
+                            "name": "Mirsad Bektic", 
+                            "rank": "13"
+                        }
+                    ], 
+                    "champ": "Conor McGregor", 
+                    "title": "Featherweight"
+                }, 
+                {
+                    "champUrl": "Eddie Alvarez", 
+                    "fighters": [
+                        {
+                            "url": "Eddie Alvarez", 
+                            "name": "Eddie Alvarez", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Khabib-Nurmagomedov", 
+                            "name": "Khabib Nurmagomedov", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Rafael-Dos-Anjos", 
+                            "name": "Rafael Dos Anjos", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Tony-Ferguson", 
+                            "name": "Tony Ferguson", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Nate-Diaz", 
+                            "name": "Nate Diaz", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Edson-Barboza", 
+                            "name": "Edson Barboza", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Michael-Johnson", 
+                            "name": "Michael Johnson", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Michael-Chiesa", 
+                            "name": "Michael Chiesa", 
+                            "rank": "7"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Donald-Cerrone", 
+                            "name": "Donald Cerrone", 
+                            "rank": "8"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Beneil-Dariush", 
+                            "name": "Beneil Dariush", 
+                            "rank": "9"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Dustin-Poirier", 
+                            "name": "Dustin Poirier", 
+                            "rank": "10"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Gilbert-Melendez", 
+                            "name": "Gilbert Melendez", 
+                            "rank": "11"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Francisco-Trinaldo", 
+                            "name": "Francisco Trinaldo", 
+                            "rank": "12"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Al-Iaquinta", 
+                            "name": "Al Iaquinta", 
+                            "rank": "13"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Evan-Dunham", 
+                            "name": "Evan Dunham", 
+                            "rank": "14"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Rashid-Magomedov", 
+                            "name": "Rashid Magomedov", 
+                            "rank": "15"
+                        }
+                    ], 
+                    "champ": "Eddie Alvarez", 
+                    "title": "Lightweight"
+                }, 
+                {
+                    "champUrl": "Tyron Woodley", 
+                    "fighters": [
+                        {
+                            "url": "Tyron Woodley", 
+                            "name": "Tyron Woodley", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Robbie-Lawler", 
+                            "name": "Robbie Lawler", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Stephen-Thompson", 
+                            "name": "Stephen Thompson", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Demian-Maia", 
+                            "name": "Demian Maia", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Carlos-Condit", 
+                            "name": "Carlos Condit", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Kelvin-Gastelum", 
+                            "name": "Kelvin Gastelum", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Donald-Cerrone", 
+                            "name": "Donald Cerrone", 
+                            "rank": "6"
+                        }
+                    ], 
+                    "champ": "Tyron Woodley", 
+                    "title": "Welterweight"
+                }, 
+                {
+                    "champUrl": "Michael Bisping", 
+                    "fighters": [
+                        {
+                            "url": "Michael Bisping", 
+                            "name": "Michael Bisping", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Luke-Rockhold", 
+                            "name": "Luke Rockhold", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Chris-Weidman", 
+                            "name": "Chris Weidman", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Ronaldo-Souza", 
+                            "name": "Jacare Souza", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Yoel-Romero", 
+                            "name": "Yoel Romero", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Gegard-Mousasi", 
+                            "name": "Gegard Mousasi", 
+                            "rank": "5"
+                        }
+                    ], 
+                    "champ": "Michael Bisping", 
+                    "title": "Middleweight"
+                }, 
+                {
+                    "champUrl": "Daniel Cormier", 
+                    "fighters": [
+                        {
+                            "url": "Daniel Cormier", 
+                            "name": "Daniel Cormier", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Anthony-Johnson", 
+                            "name": "Anthony Johnson", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Alexander-Gustafsson", 
+                            "name": "Alexander Gustafsson", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Glover-Teixeira", 
+                            "name": "Glover Teixeira", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Ryan-Bader", 
+                            "name": "Ryan Bader", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Jimi-Manuwa", 
+                            "name": "Jimi Manuwa", 
+                            "rank": "5"
+                        }
+                    ], 
+                    "champ": "Daniel Cormier", 
+                    "title": "Light Heavyweight"
+                }, 
+                {
+                    "champUrl": "Stipe Miocic", 
+                    "fighters": [
+                        {
+                            "url": "Stipe Miocic", 
+                            "name": "Stipe Miocic", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Fabricio-Werdum", 
+                            "name": "Fabricio Werdum", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Cain-Velasquez", 
+                            "name": "Cain Velasquez", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Alistair-Overeem", 
+                            "name": "Alistair Overeem", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Junior-Dos-Santos", 
+                            "name": "Junior Dos Santos", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Ben-Rothwell", 
+                            "name": "Ben Rothwell", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Josh-Barnett", 
+                            "name": "Josh Barnett", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/mark-hunt", 
+                            "name": "Mark Hunt", 
+                            "rank": "7"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Andrei-Arlovski", 
+                            "name": "Andrei Arlovski", 
+                            "rank": "8"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Travis-Browne", 
+                            "name": "Travis Browne", 
+                            "rank": "9"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Derrick-Lewis", 
+                            "name": "Derrick Lewis", 
+                            "rank": "10"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Roy-Nelson", 
+                            "name": "Roy Nelson", 
+                            "rank": "11"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Stefan-Struve", 
+                            "name": "Stefan Struve", 
+                            "rank": "12"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/francis-ngannou", 
+                            "name": "Francis Ngannou", 
+                            "rank": "13"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Daniel-Omielanczuk", 
+                            "name": "Daniel Omielanczuk", 
+                            "rank": "14"
+                        }
+                    ], 
+                    "champ": "Stipe Miocic", 
+                    "title": "Heavyweight"
+                }, 
+                {
+                    "champUrl": "Joanna Jedrzejczyk", 
+                    "fighters": [
+                        {
+                            "url": "Joanna Jedrzejczyk", 
+                            "name": "Joanna Jedrzejczyk", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Claudia-Gadelha", 
+                            "name": "Claudia Gadelha", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/karolina-kowalkiewicz", 
+                            "name": "Karolina Kowalkiewicz", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Carla-Esparza", 
+                            "name": "Carla Esparza", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Rose-Namajunas", 
+                            "name": "Rose Namajunas", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Jessica-Andrade", 
+                            "name": "Jessica Andrade", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Tecia-Torres", 
+                            "name": "Tecia Torres", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Joanne-Calderwood", 
+                            "name": "Joanne Calderwood", 
+                            "rank": "7"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/paige-vanzant", 
+                            "name": "Paige VanZant", 
+                            "rank": "8"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Valerie-Letourneau", 
+                            "name": "Valerie Letourneau", 
+                            "rank": "9"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/maryna-moroz", 
+                            "name": "Maryna Moroz", 
+                            "rank": "10"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/jessica-aguilar", 
+                            "name": "Jessica Aguilar", 
+                            "rank": "11"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/michelle-waterson", 
+                            "name": "Michelle Waterson", 
+                            "rank": "12"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Jessica-Penne", 
+                            "name": "Jessica Penne", 
+                            "rank": "13"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/cortney-casey", 
+                            "name": "Cortney Casey", 
+                            "rank": "14"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Juliana-Lima", 
+                            "name": "Juliana Lima", 
+                            "rank": "15"
+                        }
+                    ], 
+                    "champ": "Joanna Jedrzejczyk", 
+                    "title": "Women's Strawweight"
+                }, 
+                {
+                    "champUrl": "Amanda Nunes", 
+                    "fighters": [
+                        {
+                            "url": "Amanda Nunes", 
+                            "name": "Amanda Nunes", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Miesha-Tate", 
+                            "name": "Miesha Tate", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Ronda-Rousey", 
+                            "name": "Ronda Rousey", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Valentina-Shevchenko", 
+                            "name": "Valentina Shevchenko", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/holly-holm", 
+                            "name": "Holly Holm", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Julianna-Pena", 
+                            "name": "Julianna Pena", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Cat-Zingano", 
+                            "name": "Cat Zingano", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Sara-McMann", 
+                            "name": "Sara McMann", 
+                            "rank": "7"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Raquel-Pennington", 
+                            "name": "Raquel Pennington", 
+                            "rank": "8"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Liz-Carmouche", 
+                            "name": "Liz Carmouche", 
+                            "rank": "9"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Bethe-Correia", 
+                            "name": "Bethe Correia", 
+                            "rank": "10"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Germaine-DeRandamie", 
+                            "name": "Germaine de Randamie", 
+                            "rank": "11"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/ashlee-evans-smith", 
+                            "name": "Ashlee Evans-Smith", 
+                            "rank": "12"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/Jessica-Eye", 
+                            "name": "Jessica Eye", 
+                            "rank": "13"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/katlyn-chookagian", 
+                            "name": "Katlyn Chookagian", 
+                            "rank": "14"
+                        }, 
+                        {
+                            "url": "/web/20161107215424/http://www.ufc.com/fighter/marion-reneau", 
+                            "name": "Marion Reneau", 
+                            "rank": "15"
+                        }
+                    ], 
+                    "champ": "Amanda Nunes", 
+                    "title": "Women's Bantamweight"
+                }
+            ]
+        }, 
+        {
+            "url": "http://web.archive.org/web/20161205233443/http://www.ufc.com/rankings", 
+            "date": [
+                "Mon", 
+                "Dec", 
+                "05", 
+                "00:00:00", 
+                "UTC", 
+                "2016"
+            ], 
+            "displayDate": "Dec 2016", 
+            "divisions": [
+                {
+                    "champUrl": "", 
+                    "fighters": [
+                        {
+                            "url": "", 
+                            "name": "", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Demetrious-Johnson", 
+                            "name": "Demetrious Johnson", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Conor-McGregor", 
+                            "name": "Conor McGregor", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Dominick-Cruz", 
+                            "name": "Dominick Cruz", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Daniel-Cormier", 
+                            "name": "Daniel Cormier", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Jose-Aldo", 
+                            "name": "Jose Aldo", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Stipe-Miocic", 
+                            "name": "Stipe Miocic", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Joanna-Jedrzejczyk", 
+                            "name": "Joanna Jedrzejczyk", 
+                            "rank": "7"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Tyron-Woodley", 
+                            "name": "Tyron Woodley", 
+                            "rank": "8"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Michael-Bisping", 
+                            "name": "Michael Bisping", 
+                            "rank": "9"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Cris-Cyborg", 
+                            "name": "Cris Cyborg", 
+                            "rank": "10"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Robbie-Lawler", 
+                            "name": "Robbie Lawler", 
+                            "rank": "11"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Luke-Rockhold", 
+                            "name": "Luke Rockhold", 
+                            "rank": "12"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Amanda-Nunes", 
+                            "name": "Amanda Nunes", 
+                            "rank": "13"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Khabib-Nurmagomedov", 
+                            "name": "Khabib Nurmagomedov", 
+                            "rank": "14"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/TJ-Dillashaw", 
+                            "name": "TJ Dillashaw", 
+                            "rank": "15"
+                        }
+                    ], 
+                    "champ": "", 
+                    "title": "Pound-for-Pound"
+                }, 
+                {
+                    "champUrl": "Demetrious Johnson", 
+                    "fighters": [
+                        {
+                            "url": "Demetrious Johnson", 
+                            "name": "Demetrious Johnson", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Joseph-Benavidez", 
+                            "name": "Joseph Benavidez", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Henry-Cejudo", 
+                            "name": "Henry Cejudo", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Kyoji-Horiguchi", 
+                            "name": "Kyoji Horiguchi", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/jussier-formiga", 
+                            "name": "Jussier Formiga", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Wilson-Reis", 
+                            "name": "Wilson Reis", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Ian-McCall", 
+                            "name": "Ian McCall", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Zach-Makovsky", 
+                            "name": "Zach Makovsky", 
+                            "rank": "7"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Ali-Bagautinov", 
+                            "name": "Ali Bagautinov", 
+                            "rank": "8"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/John-Moraga", 
+                            "name": "John Moraga", 
+                            "rank": "9"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/brandon-moreno", 
+                            "name": "Brandon Moreno", 
+                            "rank": "10"
+                        }
+                    ], 
+                    "champ": "Demetrious Johnson", 
+                    "title": "Flyweight"
+                }, 
+                {
+                    "champUrl": "Dominick Cruz", 
+                    "fighters": [
+                        {
+                            "url": "Dominick Cruz", 
+                            "name": "Dominick Cruz", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/TJ-Dillashaw", 
+                            "name": "TJ Dillashaw", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/John-Lineker", 
+                            "name": "John Lineker", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Raphael-Assuncao", 
+                            "name": "Raphael Assuncao", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/jimmie-rivera", 
+                            "name": "Jimmie Rivera", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/cody-garbrandt", 
+                            "name": "Cody Garbrandt", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Bryan-Caraway", 
+                            "name": "Bryan Caraway", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Urijah-Faber", 
+                            "name": "Urijah Faber", 
+                            "rank": "7"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Aljamain-Sterling", 
+                            "name": "Aljamain Sterling", 
+                            "rank": "8"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Michael-McDonald", 
+                            "name": "Michael McDonald", 
+                            "rank": "9"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/John-Dodson", 
+                            "name": "John Dodson", 
+                            "rank": "10"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/thomas-almeida", 
+                            "name": "Thomas Almeida", 
+                            "rank": "11"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Johnny-Eduardo", 
+                            "name": "Johnny Eduardo", 
+                            "rank": "12"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Eddie-Wineland", 
+                            "name": "Eddie Wineland", 
+                            "rank": "13"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Takeya-Mizugaki", 
+                            "name": "Takeya Mizugaki", 
+                            "rank": "14"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Pedro-Munhoz", 
+                            "name": "Pedro Munhoz", 
+                            "rank": "15"
+                        }
+                    ], 
+                    "champ": "Dominick Cruz", 
+                    "title": "Bantamweight"
+                }, 
+                {
+                    "champUrl": "Jose Aldo", 
+                    "fighters": [
+                        {
+                            "url": "Jose Aldo", 
+                            "name": "Jose Aldo", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Frankie-Edgar", 
+                            "name": "Frankie Edgar", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Max-Holloway", 
+                            "name": "Max Holloway", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Ricardo-Lamas", 
+                            "name": "Ricardo Lamas", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Cub-Swanson", 
+                            "name": "Cub Swanson", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Anthony-Pettis", 
+                            "name": "Anthony Pettis", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Jeremy-Stephens", 
+                            "name": "Jeremy Stephens", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Charles-Oliveira", 
+                            "name": "Charles Oliveira", 
+                            "rank": "7"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Dennis-Bermudez", 
+                            "name": "Dennis Bermudez", 
+                            "rank": "8"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Brian-Ortega", 
+                            "name": "Brian Ortega", 
+                            "rank": "9"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/yair-rodriguez", 
+                            "name": "Yair Rodriguez", 
+                            "rank": "10"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Dooho-Choi", 
+                            "name": "Dooho Choi", 
+                            "rank": "11"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Mirsad-Bektic", 
+                            "name": "Mirsad Bektic", 
+                            "rank": "12"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Darren-Elkins", 
+                            "name": "Darren Elkins", 
+                            "rank": "13"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Renan-Barao", 
+                            "name": "Renan Barao", 
+                            "rank": "14"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Andre-Fili", 
+                            "name": "Andre Fili", 
+                            "rank": "15"
+                        }
+                    ], 
+                    "champ": "Jose Aldo", 
+                    "title": "Featherweight"
+                }, 
+                {
+                    "champUrl": "Conor McGregor", 
+                    "fighters": [
+                        {
+                            "url": "Conor McGregor", 
+                            "name": "Conor McGregor", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Khabib-Nurmagomedov", 
+                            "name": "Khabib Nurmagomedov", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Tony-Ferguson", 
+                            "name": "Tony Ferguson", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/eddie-alvarez", 
+                            "name": "Eddie Alvarez", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Rafael-Dos-Anjos", 
+                            "name": "Rafael Dos Anjos", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Edson-Barboza", 
+                            "name": "Edson Barboza", 
+                            "rank": "5"
+                        }
+                    ], 
+                    "champ": "Conor McGregor", 
+                    "title": "Lightweight"
+                }, 
+                {
+                    "champUrl": "Tyron Woodley", 
+                    "fighters": [
+                        {
+                            "url": "Tyron Woodley", 
+                            "name": "Tyron Woodley", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Stephen-Thompson", 
+                            "name": "Stephen Thompson", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Robbie-Lawler", 
+                            "name": "Robbie Lawler", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Demian-Maia", 
+                            "name": "Demian Maia", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Carlos-Condit", 
+                            "name": "Carlos Condit", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Donald-Cerrone", 
+                            "name": "Donald Cerrone", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Johny-Hendricks", 
+                            "name": "Johny Hendricks", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Lorenz-Larkin", 
+                            "name": "Lorenz Larkin", 
+                            "rank": "7"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Neil-Magny", 
+                            "name": "Neil Magny", 
+                            "rank": "8"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Dong-Hyun-Kim", 
+                            "name": "Dong Hyun Kim", 
+                            "rank": "8"
+                        }
+                    ], 
+                    "champ": "Tyron Woodley", 
+                    "title": "Welterweight"
+                }, 
+                {
+                    "champUrl": "Michael Bisping", 
+                    "fighters": [
+                        {
+                            "url": "Michael Bisping", 
+                            "name": "Michael Bisping", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Yoel-Romero", 
+                            "name": "Yoel Romero", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Luke-Rockhold", 
+                            "name": "Luke Rockhold", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Ronaldo-Souza", 
+                            "name": "Jacare Souza", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Chris-Weidman", 
+                            "name": "Chris Weidman", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Gegard-Mousasi", 
+                            "name": "Gegard Mousasi", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/robert-whittaker", 
+                            "name": "Robert Whittaker", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Anderson-Silva", 
+                            "name": "Anderson Silva", 
+                            "rank": "7"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Vitor-Belfort", 
+                            "name": "Vitor Belfort", 
+                            "rank": "8"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Derek-Brunson", 
+                            "name": "Derek Brunson", 
+                            "rank": "9"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Tim-Kennedy", 
+                            "name": "Tim Kennedy", 
+                            "rank": "10"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Krzysztof-Jotko", 
+                            "name": "Krzysztof Jotko", 
+                            "rank": "11"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Uriah-Hall", 
+                            "name": "Uriah Hall", 
+                            "rank": "12"
+                        }
+                    ], 
+                    "champ": "Michael Bisping", 
+                    "title": "Middleweight"
+                }, 
+                {
+                    "champUrl": "Daniel Cormier", 
+                    "fighters": [
+                        {
+                            "url": "Daniel Cormier", 
+                            "name": "Daniel Cormier", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Anthony-Johnson", 
+                            "name": "Anthony Johnson", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Alexander-Gustafsson", 
+                            "name": "Alexander Gustafsson", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Glover-Teixeira", 
+                            "name": "Glover Teixeira", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Ryan-Bader", 
+                            "name": "Ryan Bader", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Jimi-Manuwa", 
+                            "name": "Jimi Manuwa", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Ovince-St-Preux", 
+                            "name": "Ovince Saint Preux", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Mauricio-Rua", 
+                            "name": "Mauricio Rua", 
+                            "rank": "7"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Nikita-Krylov", 
+                            "name": "Nikita Krylov", 
+                            "rank": "8"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/corey-anderson", 
+                            "name": "Corey Anderson", 
+                            "rank": "9"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Antonio-Rogerio-Nogueira", 
+                            "name": "Rogerio Nogueira", 
+                            "rank": "10"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Ilir-Latifi", 
+                            "name": "Ilir Latifi", 
+                            "rank": "11"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Patrick-Cummins", 
+                            "name": "Patrick Cummins", 
+                            "rank": "12"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/misha-cirkunov", 
+                            "name": "Misha Cirkunov", 
+                            "rank": "13"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Gian-Villante", 
+                            "name": "Gian Villante", 
+                            "rank": "14"
+                        }
+                    ], 
+                    "champ": "Daniel Cormier", 
+                    "title": "Light Heavyweight"
+                }, 
+                {
+                    "champUrl": "Stipe Miocic", 
+                    "fighters": [
+                        {
+                            "url": "Stipe Miocic", 
+                            "name": "Stipe Miocic", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Fabricio-Werdum", 
+                            "name": "Fabricio Werdum", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Cain-Velasquez", 
+                            "name": "Cain Velasquez", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Alistair-Overeem", 
+                            "name": "Alistair Overeem", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Junior-Dos-Santos", 
+                            "name": "Junior Dos Santos", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Ben-Rothwell", 
+                            "name": "Ben Rothwell", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Josh-Barnett", 
+                            "name": "Josh Barnett", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/mark-hunt", 
+                            "name": "Mark Hunt", 
+                            "rank": "7"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Andrei-Arlovski", 
+                            "name": "Andrei Arlovski", 
+                            "rank": "8"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Travis-Browne", 
+                            "name": "Travis Browne", 
+                            "rank": "9"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Derrick-Lewis", 
+                            "name": "Derrick Lewis", 
+                            "rank": "10"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Stefan-Struve", 
+                            "name": "Stefan Struve", 
+                            "rank": "11"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/francis-ngannou", 
+                            "name": "Francis Ngannou", 
+                            "rank": "12"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/alexander-volkov", 
+                            "name": "Alexander Volkov", 
+                            "rank": "13"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Daniel-Omielanczuk", 
+                            "name": "Daniel Omielanczuk", 
+                            "rank": "14"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/shamil-abdurakhimov", 
+                            "name": "Shamil Abdurakhimov", 
+                            "rank": "15"
+                        }
+                    ], 
+                    "champ": "Stipe Miocic", 
+                    "title": "Heavyweight"
+                }, 
+                {
+                    "champUrl": "Joanna Jedrzejczyk", 
+                    "fighters": [
+                        {
+                            "url": "Joanna Jedrzejczyk", 
+                            "name": "Joanna Jedrzejczyk", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Claudia-Gadelha", 
+                            "name": "Claudia Gadelha", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/karolina-kowalkiewicz", 
+                            "name": "Karolina Kowalkiewicz", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Carla-Esparza", 
+                            "name": "Carla Esparza", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Rose-Namajunas", 
+                            "name": "Rose Namajunas", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Jessica-Andrade", 
+                            "name": "Jessica Andrade", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Tecia-Torres", 
+                            "name": "Tecia Torres", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Joanne-Calderwood", 
+                            "name": "Joanne Calderwood", 
+                            "rank": "7"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/paige-vanzant", 
+                            "name": "Paige VanZant", 
+                            "rank": "8"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Valerie-Letourneau", 
+                            "name": "Valerie Letourneau", 
+                            "rank": "9"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/maryna-moroz", 
+                            "name": "Maryna Moroz", 
+                            "rank": "10"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/jessica-aguilar", 
+                            "name": "Jessica Aguilar", 
+                            "rank": "11"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/michelle-waterson", 
+                            "name": "Michelle Waterson", 
+                            "rank": "12"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Jessica-Penne", 
+                            "name": "Jessica Penne", 
+                            "rank": "13"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/alexa-grasso", 
+                            "name": "Alexa Grasso", 
+                            "rank": "14"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Juliana-Lima", 
+                            "name": "Juliana Lima", 
+                            "rank": "15"
+                        }
+                    ], 
+                    "champ": "Joanna Jedrzejczyk", 
+                    "title": "Women's Strawweight"
+                }, 
+                {
+                    "champUrl": "Amanda Nunes", 
+                    "fighters": [
+                        {
+                            "url": "Amanda Nunes", 
+                            "name": "Amanda Nunes", 
+                            "rank": "0"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Ronda-Rousey", 
+                            "name": "Ronda Rousey", 
+                            "rank": "1"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Valentina-Shevchenko", 
+                            "name": "Valentina Shevchenko", 
+                            "rank": "2"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Julianna-Pena", 
+                            "name": "Julianna Pena", 
+                            "rank": "3"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/holly-holm", 
+                            "name": "Holly Holm", 
+                            "rank": "4"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Raquel-Pennington", 
+                            "name": "Raquel Pennington", 
+                            "rank": "5"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Cat-Zingano", 
+                            "name": "Cat Zingano", 
+                            "rank": "6"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Sara-McMann", 
+                            "name": "Sara McMann", 
+                            "rank": "7"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Liz-Carmouche", 
+                            "name": "Liz Carmouche", 
+                            "rank": "8"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Bethe-Correia", 
+                            "name": "Bethe Correia", 
+                            "rank": "9"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Miesha-Tate", 
+                            "name": "Miesha Tate", 
+                            "rank": "10"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Germaine-DeRandamie", 
+                            "name": "Germaine de Randamie", 
+                            "rank": "11"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/ashlee-evans-smith", 
+                            "name": "Ashlee Evans-Smith", 
+                            "rank": "12"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/marion-reneau", 
+                            "name": "Marion Reneau", 
+                            "rank": "13"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Jessica-Eye", 
+                            "name": "Jessica Eye", 
+                            "rank": "14"
+                        }, 
+                        {
+                            "url": "/web/20161205233443/http://www.ufc.com/fighter/Alexis-Davis", 
+                            "name": "Alexis Davis", 
                             "rank": "15"
                         }
                     ], 

@@ -7,9 +7,10 @@
   <title>UFC Rankings</title>
   <meta name="description" content="UFC Rankings Graphs">
   <meta name="author" content="hagge">
-  <script src="jquery-3.0.0.min.js"></script>
-  <script src="d3.min.js"></script>
+  <script src="lib/jquery-3.0.0.min.js"></script>
+  <script src="lib/d3.min.js"></script>
   <link rel="stylesheet" href="graph.css">
+  <link rel="stylesheet" href="table.css">
   <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Fira+Sans">
   <link href=' http://fonts.googleapis.com/css?family=Droid+Sans' rel='stylesheet' type='text/css'>
 </head>
@@ -18,10 +19,19 @@
   <header id="header">
     <h1>UFC Rankings History</h1>
   </header>
+
+  <section class="table-wrapper">
+    <table id="table">
+
+    </table>
+  </section>
+  
+
+
   <section id="content">
   </section>
 
-  <script src="data.js"></script>
+  <script src="data/data.js"></script>
   <script src="filterToGraph.js"></script>
   <script src="colorgenerator.js"></script>
   <script src="graph.js"></script>

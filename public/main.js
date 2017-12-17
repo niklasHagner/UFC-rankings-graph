@@ -3,6 +3,10 @@ function main(data) {
   if (data) {
     window.displayDates = data.map(function(d) { return d.displayDate });
     filteredData = getDataAsWeightClasses(data);
+
+    var tableHTML = buildTable(data);
+    document.querySelector("#table").innerHTML = tableHTML;
+
     filteredData.forEach((weightClass, ix) => {
       drawLegend(weightClass, "division"+ix);
     });
@@ -29,3 +33,35 @@ $(document).ready(function () {
   }
  main(data);
 });
+
+function buildTable(data) {
+  var tableHeaders = "";
+  var tableRows = "";
+  var byRank = [];
+  data.forEach((stamp) => {
+      if (stamp.divisions.length > 0) {
+          tableHeaders += `<th>${stamp.displayDate}</th>`;
+          
+          var oneDivision = stamp.divisions[3];
+          var fighters = oneDivision.fighters;
+          fighters.forEach((fighter, ix) => {
+              var name = fighter.name.split("(")[0].trim();
+              if (typeof byRank[ix] === "undefined")
+                byRank.push([]);
+
+              byRank[ix].push(name);
+          })
+      }
+  })
+
+  byRank.forEach((rank) => {
+    var rowStr = "";
+    rank.forEach((dudeAtRankDuringTime) => {
+        rowStr += "<td>" + dudeAtRankDuringTime + "</td>";
+    });
+    tableRows += "<tr>" + rowStr + "</tr>";
+  });
+
+  tableHeaders = "<tr>" + tableHeaders + "</tr>";
+  return tableHeaders + tableRows;
+}
